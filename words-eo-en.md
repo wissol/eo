@@ -4,8 +4,9 @@
 * aspi – spear point, also short for spear
 * baa: boat
 * bak: to sail
-* cas – fire
-* dun – house (not home)
+* cas: fire
+* dus: house (not home)
+* dumo: tomb
 * ee: father, wind
 * eek: to blow, to father, to act fatherly
 * ei: hello
@@ -23,6 +24,8 @@
 * i: alone
 * ik: to wish, to want, to be alone, to be moody, to be sad
 * irnik: To be winter
+* jak: to walk, I walk
+* je: spirit
 * la: food
 * lak: to eat
 * lo: sun
@@ -30,6 +33,7 @@
 * lou: evening, death
 * lu: hunger, lack, need
 * ma: tomorrow
+* mek: to caress
 * naa: at sea, in the sea
 * nibaa: on a boat
 * nos: night
