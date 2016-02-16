@@ -46,5 +46,6 @@
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
 * pek: to fish
+* saat: a lot, many, too much, some big quantity of stuff
 * luk: to be hungry
 * ulak: you eat
