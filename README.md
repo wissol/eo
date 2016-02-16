@@ -21,3 +21,13 @@ Back then, it was winter. Er was at sea, fishing alone on his boat. An eagle, wh
 Eo is not a written language, so it lacks a script. We use roman letters to represent its sounds, just as they sound in ecclesiastical Latin, with some variations.
 
 So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or long ( aa, ee, ii, oo, uu ) and 13 consonants ( b, d, f, g, j, k, l, m, n, p, r, s, t)
+
+## Some sentences
+
+lam an ik.  – I wish water and food.
+lam aik. – We (inclusive) want food.
+asluk – We (exclusive) are hungry.
+luk – I am hungry
+ma aspek – We (exclusive) will fish tomorrow (are fishing tomorrow).
+euk – You come.
+eirnik – It’s winter (pa eirnik – It was winter)
