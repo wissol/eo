@@ -1,5 +1,6 @@
 ## Original
 
+pa eirnik. naa niba i Erpek. nijek epojak. eer Ereik. nibasEr epodokerkdoeok. [...]
 
 
 ## Literal Translations
