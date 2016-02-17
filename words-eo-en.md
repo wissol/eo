@@ -44,6 +44,7 @@
 * ma: tomorrow
 * mek: to caress
 * mik: to love
+* mo: stone (generic), something, object, item
 * naa: at sea, in the sea
 * nibaa: on a boat
 * nos: night
