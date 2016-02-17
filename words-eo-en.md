@@ -12,6 +12,7 @@
 * baa: boat
 * bak: to sail
 * cas: fire
+* dok: to go down
 * dus: house (not home)
 * dumo: tomb
 * e + verb: third person, singular
