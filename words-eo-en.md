@@ -10,7 +10,6 @@
 * aspi: spear point, also short for spear
 * ate: tired
 * baa: boat
-* bak: to sail
 * cas: fire
 * dok: to go down
 * dus: house (not home)
@@ -39,6 +38,7 @@
 * irnik: To be winter
 * jak: to walk, I walk
 * je: spirit
+* jee: maybe, chance, perhaps
 * la: food
 * lak: to eat
 * lek: to gather food, to haverst
@@ -46,6 +46,7 @@
 * lo: sun
 * lonu: morning, birth
 * lou: evening, death
+* louk: to die
 * lu: hunger, lack, need
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: tomorrow
