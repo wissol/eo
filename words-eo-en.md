@@ -1,5 +1,7 @@
 * a: water
 * aa: mother, sea
+* aai: seaweed
+* ala: seafood
 * aak: to be a mother, to act motherly
 * aspi: spear point, also short for spear
 * ate: tired
@@ -30,6 +32,8 @@
 * je: spirit
 * la: food
 * lak: to eat
+* lek: to gather food, to haverst
+* laaik: to gather seafood and/or seaweeds
 * lo: sun
 * lonu: morning, birth
 * lou: evening, death
