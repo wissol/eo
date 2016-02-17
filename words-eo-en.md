@@ -1,7 +1,8 @@
 * a: water
 * aa: mother, sea
 * aak: to be a mother, to act motherly
-* aspi – spear point, also short for spear
+* aspi: spear point, also short for spear
+* ate: tired
 * baa: boat
 * bak: to sail
 * cas: fire
@@ -17,6 +18,7 @@
 * eok: to speak, to talk, to communicate
 * erk: to perch on, to stand on
 * epo: family-bird, eagle
+* ingo: tooth
 * fi: bug
 * gis: yes
 * gud: flour
@@ -32,6 +34,7 @@
 * lonu: morning, birth
 * lou: evening, death
 * lu: hunger, lack, need
+* ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: tomorrow
 * mek: to caress
 * naa: at sea, in the sea
