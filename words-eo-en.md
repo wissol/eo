@@ -18,6 +18,7 @@
 * elok: to trade
 * eo: words, language
 * eok: to speak, to talk, to communicate
+* ep: or (conj)
 * erk: to perch on, to stand on
 * epo: family-bird, eagle
 * ingo: tooth
@@ -27,6 +28,7 @@
 * guk: to grind / I grind
 * i: alone
 * ik: to wish, to want, to be alone, to be moody, to be sad
+* ip: and (conj)
 * irnik: To be winter
 * jak: to walk, I walk
 * je: spirit
