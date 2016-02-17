@@ -4,6 +4,8 @@
 * aai: seaweed
 * ala: seafood
 * aak: to be a mother, to act motherly
+* abe: love, stream
+* abek: to love, to flow
 * as + verb: we (exclusive) asaak (we are mothers) 
 * aspi: spear point, also short for spear
 * ate: tired
@@ -47,7 +49,6 @@
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: tomorrow
 * mek: to caress
-* mik: to love
 * mo: stone (generic), something, object, item
 * naa: at sea, in the sea
 * nibaa: on a boat
