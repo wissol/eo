@@ -1,6 +1,6 @@
 ## Original
 
-pa eirnik.  naa niba i Erpek.  nijek epojak.  eer Ereik.  nibasEr epodokerk do epoeok.  [...]
+pa eirnik.  naa niba i Erpek.  nijek epojak.  eer Ereik.  nibasEr epodokerk do epoeok. << ur aak [...]. nidumos [...] uok.  [...] ma je louk..
 
 
 ## Literal Translations
