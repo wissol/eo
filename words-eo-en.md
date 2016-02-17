@@ -13,7 +13,7 @@
 * ei: hello
 * eik: to greet
 * eio: family
-* elok – to trade
+* elok: to trade
 * eo: words, language
 * eok: to speak, to talk, to communicate
 * erk: to perch on, to stand on
@@ -50,5 +50,7 @@
 * pe: fish
 * pek: to fish
 * saat: a lot, many, too much, some big quantity of stuff
+* ro: no
+* r_: negation (rik - I don't need
 * luk: to be hungry
 * ulak: you eat
