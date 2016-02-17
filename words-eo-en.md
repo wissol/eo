@@ -27,17 +27,18 @@
 * erk: to perch on, to stand on
 * epo: family-bird, eagle
 * es + verb: third person, plural
-* ingo: tooth
 * fi: bug
 * gis: yes
 * gud: flour
 * guk: to grind / I grind
 * i: alone
 * ik: to wish, to want, to be alone, to be moody, to be sad
+* ingo: tooth
 * ip: and (conj)
 * irnik: To be winter
 * jak: to walk, I walk
 * je: spirit
+* jeak: to fly ("to walk in the spirts)
 * jee: maybe, chance, perhaps
 * la: food
 * lak: to eat
