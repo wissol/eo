@@ -1,16 +1,64 @@
 ## Original
 
-pa eirnik.  naa niba i Erpek.  epojeak.  eer Ereik.  nibasEr epodokerk do epoeok. << ur aak [...]. nidumos [...] uok.  [...] ma je louk..
+1. pa eirnik.  
+2. naa niba i Erpek.  
+3. epojeak.  
+4. eer Ereik.  
+5. nibasEr epodokerk do epoeok. 
+6. << ur aak [...]. 
+7. nidumos [...] uok.  
+8.  [...] 
+9.   [...] 
+10.  [...] 
+11.  [...] 
+12. ma je louk..
 
 
 ## Literal Translations
 
 (As much as that's possible)
 
+### English Version
+
+1. It was winter those days. 
+2. Er was fishing in the sea, alone, on his boat. 
+3. A family-bird was walking in the spirits. 
+4. Er greeted it. 
+5. The family-bird went down, perched on the boat and spoke: 
+6. “I am your mother, the-one-in-the-sea. 
+7. You see my tombs of waves. 
+8. If you stay today, you will see me today”. 
+9. Er answered. 
+10. “I am returning home today. 
+11. I will caress your white dreams today. 
+12. Tomorrow perhaps I die.
+
 ### Spanish Version
 
-Esos días era invierno. Er pescaba en el mar, solo, en su barca. Un pájaro-familia andaba en los espíritus. Er le saludó. El pájaro-familia bajó, se posó en su barca y habló. –Soy tu madre, la-del-mar. Ves mi tumba de olas. Si hoy te quedas, hoy me verás. – Er respondió –Hoy vuelvo a casa. Hoy acariciaré tus sueños blancos. Mañana quizás muera.
+1. Esos días era invierno. 
+2. Er pescaba en el mar, solo, en su barca. 
+3. Un pájaro-familia andaba en los espíritus. 
+4. Er le saludó. 
+5. El pájaro-familia bajó, se posó en su barca y habló. 
+6. –Soy tu madre, la-del-mar. 
+7. Ves mi tumba de olas. 
+8. Si hoy te quedas, hoy me verás. 
+9. – Er respondió 
+10. –Hoy vuelvo a casa. 
+11. Hoy acariciaré tus sueños blancos. 
+12. Mañana quizás muera.
 
 ### English Version
 
-It was winter those days. Er was fishing in the sea, alone, on his boat. A family-bird was walking in the spirits. Er greeted it. The family-bird went down, perched on the boat and spoke: “I am your mother, the-one-in-the-sea. You see my tombs of waves. If you stay today, you will see me today”. Er answered. “I am returning home today. I will caress your white dreams today. Tomorrow perhaps I die.
+1. It was winter those days. 
+2. Er was fishing in the sea, alone, on his boat. 
+3. A family-bird was walking in the spirits. 
+4. Er greeted it. 
+5. The family-bird went down, perched on the boat and spoke: 
+6. “I am your mother, the-one-in-the-sea. 
+7. You see my tombs of waves. 
+8. If you stay today, you will see me today”. 
+9. Er answered. 
+10. “I am returning home today. 
+11. I will caress your white dreams today. 
+12. Tomorrow perhaps I die.
