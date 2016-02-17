@@ -43,6 +43,7 @@
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: tomorrow
 * mek: to caress
+* mik: to love
 * naa: at sea, in the sea
 * nibaa: on a boat
 * nos: night
@@ -55,6 +56,7 @@
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
 * pek: to fish
+* pok: to make love
 * saat: a lot, many, too much, some big quantity of stuff
 * ro: no
 * r_: negation (rik - I don't need
