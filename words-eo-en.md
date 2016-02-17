@@ -1,8 +1,10 @@
 * a: water
+* a + verb: we (inclusive)  alak (we eat), but ataak (we (inclusive) are mothers)
 * aa: mother, sea
 * aai: seaweed
 * ala: seafood
 * aak: to be a mother, to act motherly
+* as + verb: we (exclusive) asaak (we are mothers) 
 * aspi: spear point, also short for spear
 * ate: tired
 * baa: boat
@@ -10,6 +12,7 @@
 * cas: fire
 * dus: house (not home)
 * dumo: tomb
+* e + verb: third person, singular
 * ee: father, wind
 * eek: to blow, to father, to act fatherly
 * ei: hello
@@ -21,6 +24,7 @@
 * ep: or (conj)
 * erk: to perch on, to stand on
 * epo: family-bird, eagle
+* es + verb: third person, plural
 * ingo: tooth
 * fi: bug
 * gis: yes
@@ -62,4 +66,5 @@
 * ro: no
 * r_: negation (rik - I don't need
 * luk: to be hungry
-* ulak: you eat
+* u + verb: second person, singular ( ulak: you eat)
+* us + verb: second person, plural ( ulak: you (group) eat)
