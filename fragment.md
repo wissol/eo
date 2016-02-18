@@ -4,11 +4,11 @@
 2. naa niba i Erpek.  
 3. epojeak.  
 4. eer Ereik.  
-5. nibasEr epodokerk do epoeok. 
-6. << ur aak [...]. 
-7. nidumos [...] uok.  
-8.  [...] 
-9.   [...] 
+5. nibaasEr epodokerk do epoeok. 
+6. "ur aak, naa aa. 
+7. nidumos desaa uok.  
+8.  jee olo sek jee olo er uok
+9.   Ereok 
 10.  dusef olo rek
 11.  [...] 
 12. ma jee louk..
