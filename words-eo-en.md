@@ -27,6 +27,8 @@
 * elok: to trade
 * eo: words, language
 * eok: to speak, to talk, to communicate
+* eopak: to tell a story
+* eopatak: to regret
 * ep: or (conj)
 * erk: to perch on, to stand on
 * epo: family-bird, eagle
