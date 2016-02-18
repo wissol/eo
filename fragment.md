@@ -6,13 +6,14 @@
 4. eer Ereik.  
 5. nibaasEr epodokerk do epoeok. 
 6. "ur aak, naa aa. 
-7. nidumos desaa uok.  
+7. nidumosaa uok.  
 8.  jee olo sek jee olo er uok
 9.   Ereok 
 10.  dusef olo rek
 11.  [...] 
 12. ma jee louk..
 
+nidumos+saa contracted to nidumosaa
 
 ## Literal Translations
 
