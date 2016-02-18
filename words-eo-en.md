@@ -11,7 +11,8 @@
 * ate: tired
 * baa: boat
 * cas: fire
-* caso: cooked food
+* casla: cooked food
+* caslak: to cook
 * dee: poop
 * deek: to poop
 * dok: to go down
