@@ -23,3 +23,5 @@ _r _er forms the dative (aka sorta “indirect object” ) according to the spea
 e_ forms the vocative , as in eaa uok (Mother! Look!)
 
 n_ or n[vowel]_ forms the locative, as in naa (at sea) or nidun (at home)
+
+_tef  place towards something is moving
