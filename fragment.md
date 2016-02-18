@@ -11,7 +11,7 @@
 9.   [...] 
 10.  dustef olo rek
 11.  [...] 
-12. ma je louk..
+12. ma jee louk..
 
 
 ## Literal Translations
