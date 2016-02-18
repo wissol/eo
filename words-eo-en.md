@@ -52,6 +52,7 @@
 * lou: evening, death
 * louk: to die
 * lu: hunger, lack, need
+* luk: to be hungry
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: tomorrow
 * mek: to caress
@@ -77,6 +78,8 @@
 * ro: no
 * rek: to return, I return, I go back
 * r_: negation (rik - I don't need
-* luk: to be hungry
+* ta: bad, sick, wrong
+* taa: evil
+* te: human, person, individual animals considered intelligent (most large mammals, inc wolves, foxes, )
 * u + verb: second person, singular ( ulak: you eat)
 * us + verb: second person, plural ( ulak: you (group) eat)
