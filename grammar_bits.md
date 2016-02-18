@@ -28,4 +28,4 @@ _ef  movement towards something is moving
 
 _j _[vowel]j ablative, movement from something, or cause: The victim went from us to see the doctor. and He was unhappy because of depression
 
-[1]_s_[2]  genitive 1 owns 2 or 1 is made of 2  
+[1]_s_[2]  genitive 1 owns 2 or 1 is made of 2  Roasbaa (Roa's boat) caslaspe (cooked fish, lit. cooked food made of fish)
