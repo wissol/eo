@@ -11,6 +11,8 @@
 * ate: tired
 * baa: boat
 * cas: fire
+* dee: poop
+* deek: to poop
 * dok: to go down
 * dus: house (not home)
 * dumo: tomb
@@ -68,6 +70,8 @@
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
 * pek: to fish
+* pipi: pee
+* pipik: to pee
 * pok: to make love
 * saat: a lot, many, too much, some big quantity of stuff
 * ro: no
