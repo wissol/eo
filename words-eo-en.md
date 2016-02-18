@@ -80,6 +80,7 @@
 * pipik: to pee
 * pok: to make love
 * saat: a lot, many, too much, some big quantity of stuff
+* sek: to stay
 * ro: no
 * rek: to return, I return, I go back
 * r_: negation (rik - I don't need
