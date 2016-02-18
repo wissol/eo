@@ -16,7 +16,7 @@ Verbs (and verbs only) end with a k, with no variations for either tense or pers
 
 ## Cases
 
-Cases: _n _im  _m  _om forms the accusative (aka sorta “direct object” ) according to the speaker preference. So lam (food) or osim (eye) are in the accusative.
+_n _im  _m  _om forms the accusative (aka sorta “direct object” ) according to the speaker preference. So lam (food) or osim (eye) are in the accusative.
 
 _r _er forms the dative (aka sorta “indirect object” ) according to the speaker preference. So lar (food) or osir (eye) are in the dative.
 
@@ -24,4 +24,6 @@ e_ forms the vocative , as in eaa uok (Mother! Look!)
 
 n_ or n[vowel]_ forms the locative, as in naa (at sea) or nidun (at home)
 
-_tef  place towards something is moving
+_tef  movement towards something is moving
+
+_j _[vowel]j ablative, movement from something, or cause: The victim went from us to see the doctor. and He was unhappy because of depression
