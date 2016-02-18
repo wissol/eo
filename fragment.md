@@ -9,7 +9,7 @@
 7. nidumos [...] uok.  
 8.  [...] 
 9.   [...] 
-10.  dustef olo rek
+10.  dusef olo rek
 11.  [...] 
 12. ma jee louk..
 
