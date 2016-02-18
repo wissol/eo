@@ -83,3 +83,4 @@
 * te: human, person, individual animals considered intelligent (most large mammals, inc wolves, foxes, )
 * u + verb: second person, singular ( ulak: you eat)
 * us + verb: second person, plural ( ulak: you (group) eat)
+* ute: animal, (any living thing that moves)
