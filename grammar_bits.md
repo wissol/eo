@@ -27,3 +27,5 @@ n_ or n[vowel]_ forms the locative, as in naa (at sea) or nidun (at home)
 _ef  movement towards something is moving
 
 _j _[vowel]j ablative, movement from something, or cause: The victim went from us to see the doctor. and He was unhappy because of depression
+
+[1]_s_[2]  genitive 1 owns 2 or 1 is made of 2  
