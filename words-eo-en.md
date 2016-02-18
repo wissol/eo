@@ -53,6 +53,7 @@
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: tomorrow
 * mek: to caress
+* meik: to mend, to heal
 * mo: stone (generic), something, object, item
 * naa: at sea, in the sea
 * nibaa: on a boat
