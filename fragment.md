@@ -47,18 +47,3 @@
 10. –Hoy vuelvo a casa. 
 11. Hoy acariciaré tus sueños blancos. 
 12. Mañana quizás muera.
-
-### English Version
-
-1. It was winter those days. 
-2. Er was fishing in the sea, alone, on his boat. 
-3. A family-bird was walking in the spirits. 
-4. Er greeted it. 
-5. The family-bird went down, perched on the boat and spoke: 
-6. “I am your mother, the-one-in-the-sea. 
-7. You see my tombs of waves. 
-8. If you stay today, you will see me today”. 
-9. Er answered. 
-10. “I am returning home today. 
-11. I will caress your white dreams today. 
-12. Tomorrow perhaps I die.
