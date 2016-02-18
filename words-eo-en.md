@@ -28,6 +28,7 @@
 * epo: family-bird, eagle
 * es + verb: third person, plural
 * fi: bug
+* ge: again
 * gis: yes
 * gud: flour
 * guk: to grind / I grind
@@ -59,6 +60,7 @@
 * o: now, present
 * olo: today (‘this sun’)
 * onos: tonight
+* ool: often
 * os: eye
 * ok: to look at, to see
 * pa: those days, the past
@@ -68,6 +70,7 @@
 * pok: to make love
 * saat: a lot, many, too much, some big quantity of stuff
 * ro: no
+* rek: to return, I return, I go back
 * r_: negation (rik - I don't need
 * luk: to be hungry
 * u + verb: second person, singular ( ulak: you eat)
