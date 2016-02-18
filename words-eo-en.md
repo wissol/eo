@@ -47,6 +47,7 @@
 * je: spirit
 * jeak: to fly ("to walk in the spirts)
 * jee: maybe, chance, perhaps
+* ka: hair
 * la: food
 * lak: to eat
 * lek: to gather food, to haverst
@@ -82,6 +83,7 @@
 * ro: no
 * rek: to return, I return, I go back
 * r_: negation (rik - I don't need
+* saa: waves
 * ta: bad, sick, wrong
 * taa: evil
 * te: human, person, individual animals considered intelligent (most large mammals, inc wolves, foxes, )
