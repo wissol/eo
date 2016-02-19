@@ -20,7 +20,7 @@ Back then, it was winter. Er was at sea, fishing alone on his boat. An eagle, wh
 
 ## Script
 
-Eo is not a written language, so it lacks a script. We use roman letters to represent its sounds, just as they sound in ecclesiastical Latin, with some variations.
+Eo is not a written language, so it lacks a script. We use roman letters to represent its sounds, just as they sound in Spanish.
 
 So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or long ( aa, ee, ii, oo, uu ) and 14 consonants ( b, d, f, g, j, k, l, m, n, p, r, s, t, y)
 
