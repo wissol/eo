@@ -161,6 +161,7 @@
 * suma: black (color), filled, wealthy, fed
 * supa: white (color), clear, empty, hungry
 * ta: bad, sick, wrong
+* taba: neck
 * tak: to get worse, to get sick, to make a mistake
 * taa: evil
 * te: human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
