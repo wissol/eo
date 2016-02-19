@@ -13,7 +13,9 @@
 * as + verb: we (exclusive) asaak (we are mothers) 
 * aspi: spear point, also short for spear
 * ate: tired
-* baa: boat
+* baa: boat, canoe
+* baak: sail
+* babaa: sheep
 * bi: arm
 * da: activity
 * daak: to work
@@ -23,6 +25,7 @@
 * di: to have, to contain
 * dlas: red
 * dlaa: blue
+* dlabe: brown
 * dlea: green
 * dli: grey
 * dlo: yellow
@@ -64,12 +67,14 @@
 * go: tool, instrument
 * gok: to use
 * gruka: meeting
+* gruf: dog
 * gud: flour
 * guk: to grind / I grind
 * i: alone
 * iba: hand
 * iaa: too, also, as well
 * ik: to wish, to want, to be alone, to be moody, to be sad
+* ginko: pig
 * ingo: tooth
 * ip: and (conj)
 * iri: cold
@@ -77,6 +82,7 @@
 * irnik: To be winter
 * jaba: foot
 * jak: to walk, I walk
+* jai: goat
 * je: spirit
 * jeak: to fly ("to walk in the spirts)
 * jee: maybe, chance, perhaps
@@ -110,6 +116,7 @@
 * mije: dream
 * mik: to sleep
 * mijek: to dream
+* misaa: fox
 * mo: stone (generic), something, object, item
 * mok: to make things out of stone, to carve in stone
 * mumi: small, little, few
@@ -202,7 +209,7 @@ Besides the obvious (anything outside of the Neolithic time frame, tech and cult
 
 1. King or chief, boss, as a permanent status
 2. Right or Left (you say something is north of me, or south of me, or even "my east hand" according to how you are oriented)
-3. Any color beyond 12 basic colors (there's still room for a few)
+3. No more color names
 4. Any animal or plant from a warm / tropical area
 5. Any government structure, beyond a meeting
 6. Permanent Laws
