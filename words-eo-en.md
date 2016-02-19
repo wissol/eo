@@ -98,7 +98,8 @@
 * meik: to mend, to heal
 * mi: sleep
 * mije: dream
-* mimijek: to sleep, perhaps to dream 
+* mik: to sleep
+* mijek: to dream
 * mo: stone (generic), something, object, item
 * mok: to make things out of stone, to carve in stone
 * mumi: small, little, few
@@ -108,6 +109,9 @@
 * neek: to get old
 * neirni: winter clothing, outer garment
 * nibaa: on a boat
+* nije: "afterlife", "the spiritual dimension"
+* noje: thought 
+* nojek: to think
 * nos: night
 * o: now, present
 * ode: long
