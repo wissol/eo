@@ -1,12 +1,14 @@
 ## Original
 
+#### pa eirnik.  naa niba i Erpek.  epojeak.  eer Ereik.  nibaasEr epodoker do epoeok.  "ur aak, naa aa. pa nidumosaa uok. jee olo sek jee olo er uok."  Ereok. "dusef olo rek.  ma mijesusupa mek.  ma jee louk.."  
+
 1. pa eirnik.  
 2. naa niba i Erpek.  
 3. epojeak.  
 4. eer Ereik.  
 5. nibaasEr epodokerk do epoeok. 
 6. "ur aak, naa aa. 
-7. nidumosaa uok.  
+7. pa nidumosaa uok.  
 8.  jee olo sek jee olo er uok
 9.   Ereok 
 10.  dusef olo rek
