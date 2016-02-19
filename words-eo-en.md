@@ -130,6 +130,7 @@
 * saa: waves
 * sek: to stay
 * ser: young
+* supa: white (color) , clear, empty
 * ta: bad, sick, wrong
 * tak: to get worse, to get sick, to make a mistake
 * taa: evil
