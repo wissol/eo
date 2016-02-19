@@ -142,6 +142,7 @@
 * os: eye
 * ok: to look at, to see
 * pa: those days, the past
+* paoma
 * pabo: ankle
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
@@ -157,7 +158,7 @@
 * rirak: war
 * r_: negation (rik - I don't need
 * sa: child
-* saisa: fun
+* saisa: fun, happy, fortunate
 * saisak: to have fun
 * saat: a lot, many, too much, some big quantity of stuff
 * safe: boy
