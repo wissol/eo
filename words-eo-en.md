@@ -2,17 +2,16 @@
 * a + verb: we (inclusive)  alak (we eat), but ataak (we (inclusive) are mothers)
 * aa: mother, sea
 * aai: seaweed
+* aaj: surprise (interjection)
 * ala: seafood
 * aak: to be a mother, to act motherly
 * abe: love, stream
 * abek: to love, to flow
+* ao: or (conj)
 * as + verb: we (exclusive) asaak (we are mothers) 
 * aspi: spear point, also short for spear
 * ate: tired
 * baa: boat
-* cas: fire
-* casla: cooked food
-* caslak: to cook
 * dee: poop
 * deek: to poop
 * dok: to go down
@@ -57,6 +56,7 @@
 * laaik: to gather seafood and/or seaweeds
 * lo: sun
 * lonu: morning, birth
+* lorelorelore: the moon
 * lou: evening, death
 * louk: to die
 * lu: hunger, lack, need
@@ -73,6 +73,7 @@
 * nos: night
 * o: now, present
 * olo: today (‘this sun’)
+* oj: auch! (interjection)
 * onos: tonight
 * ool: often
 * os: eye
@@ -95,8 +96,22 @@
 * sek: to stay
 * ser: young
 * ta: bad, sick, wrong
+* tak: to get worse, to get sick, to make a mistake
 * taa: evil
 * te: human, person, individual animals considered intelligent (most large mammals, inc wolves, foxes, )
+* tu: a star (individual stars are named as [something] + tu
+* tuu: the stars
 * u + verb: second person, singular ( ulak: you eat)
+* uka: change
+* ukak: to change
+* ukek: to grow up
+* ukokikeka: change, chaos, unexpected, bad magic
+* ukokikekak: to change in a strange fashion
 * us + verb: second person, plural ( ulak: you (group) eat)
 * ute: animal, (any living thing that moves)
+* uu: all
+* uutuu: "all and all", the world, the universe
+* yas: fire
+* yasla: cooked food
+* yaslak: to cook
+* ye: dirty
