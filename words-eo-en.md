@@ -84,11 +84,11 @@
 * lik: to hear
 * lilak: to listen
 * lo: sun
+* logef: west
 * lonu: morning, birth
 * lonuf: east
 * lorelorelore: the moon
 * lou: evening, death
-* louef: west
 * louk: to die
 * lu: hunger, lack, need
 * luk: to be hungry
