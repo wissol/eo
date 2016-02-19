@@ -47,6 +47,7 @@
 * fi: bug
 * fok: can, to be able
 * fu: end
+* gala: basket
 * ge: again
 * gis: yes
 * go: tool, instrument
@@ -116,6 +117,9 @@
 * ro: no
 * ree: back
 * rek: to return, I return, I go back
+* rira: fight
+* rirar: conflict (generic)
+* rirak: war
 * r_: negation (rik - I don't need
 * sa: child
 * saisa: fun
@@ -131,6 +135,8 @@
 * taa: evil
 * te: human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
 * tefa: woman 
+* telou: corpse
+* tepalou: bone
 * tis: head
 * titata: stupid
 * tu: a star (individual stars are named as [something] + tu
@@ -144,6 +150,7 @@
 * ukokikekak: to change in a strange fashion
 * us + verb: second person, plural ( ulak: you (group) eat)
 * ute: animal, (any living thing that moves)
+* uya: new
 * uu: all
 * uupeo: sound, noise
 * uutuu: "all and all", the world, the universe
@@ -151,3 +158,5 @@
 * yasla: cooked food
 * yaslak: to cook
 * ye: dirty
+* yi: generic container
+* yipe: fish / seafood pond
