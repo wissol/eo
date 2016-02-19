@@ -30,4 +30,4 @@ _j _[vowel]j ablative, movement from something, or cause: The victim went from u
 
 [1]_s_[2]  genitive 2 owns 1 -aspisRoa(Roa's spear)- or 1 is made of 2   caslaspe (cooked fish, lit. cooked food made of fish)
 
-plural _t  _[vowel]t or _t_ 
+plural _t  _[vowel]t or _ t _ 
