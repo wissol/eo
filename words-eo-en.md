@@ -3,6 +3,8 @@
 * aa: mother, sea
 * aai: seaweed
 * aaj: surprise (interjection)
+* aba: open
+* abak: to open
 * ala: seafood
 * aak: to be a mother, to act motherly
 * abe: love, stream
@@ -12,6 +14,9 @@
 * aspi: spear point, also short for spear
 * ate: tired
 * baa: boat
+* da: activity
+* daak: to work
+* daje: music
 * dee: poop
 * deek: to poop
 * di: to have, to contain
@@ -22,6 +27,7 @@
 * e + verb: third person, singular
 * ea: plant
 * easa: flower
+* eba: to give
 * ee: father, wind
 * eek: to blow, to father, to act fatherly
 * ei: hello
@@ -40,6 +46,7 @@
 * fe: masculine
 * fi: bug
 * fok: can, to be able
+* fu: end
 * ge: again
 * gis: yes
 * go: tool, instrument
