@@ -69,6 +69,7 @@
 * naa: at sea, in the sea
 * nibaa: on a boat
 * nee: old
+* neek: to get old
 * nos: night
 * o: now, present
 * olo: today (‘this sun’)
@@ -83,15 +84,15 @@
 * pipi: pee
 * pipik: to pee
 * pok: to make love
-* saat: a lot, many, too much, some big quantity of stuff
-* sek: to stay
 * ro: no
 * rek: to return, I return, I go back
 * r_: negation (rik - I don't need
 * sa: child
+* saat: a lot, many, too much, some big quantity of stuff
 * safe: boy
 * safa: girl
 * saa: waves
+* sek: to stay
 * ser: young
 * ta: bad, sick, wrong
 * taa: evil
