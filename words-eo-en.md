@@ -20,6 +20,7 @@
 * dee: poop
 * deek: to poop
 * di: to have, to contain
+* dof: down
 * dok: to go down
 * dube: home island, nation
 * dus: house 
@@ -60,6 +61,7 @@
 * ingo: tooth
 * ip: and (conj)
 * iri: cold
+* irnif: north
 * irnik: To be winter
 * jak: to walk, I walk
 * je: spirit
@@ -77,8 +79,10 @@
 * lilak: to listen
 * lo: sun
 * lonu: morning, birth
+* lonuf: east
 * lorelorelore: the moon
 * lou: evening, death
+* louef: west
 * louk: to die
 * lu: hunger, lack, need
 * luk: to be hungry
@@ -141,6 +145,7 @@
 * tis: head
 * titata: stupid
 * tu: a star (individual stars are named as [something] + tu
+* tuf: up
 * tuu: the stars
 * u + verb: second person, singular ( ulak: you eat)
 * ube: island
@@ -156,6 +161,7 @@
 * uupeo: sound, noise
 * uutuu: "all and all", the world, the universe
 * yas: fire
+* yasef: south
 * yasla: cooked food
 * yaslak: to cook
 * ye: dirty
