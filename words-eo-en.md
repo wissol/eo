@@ -111,6 +111,7 @@
 * us + verb: second person, plural ( ulak: you (group) eat)
 * ute: animal, (any living thing that moves)
 * uu: all
+* uupeo: sound, noise
 * uutuu: "all and all", the world, the universe
 * yas: fire
 * yasla: cooked food
