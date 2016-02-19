@@ -83,7 +83,7 @@
 * lu: hunger, lack, need
 * luk: to be hungry
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
-* ma: tomorrow
+* ma: tomorrow, future
 * mek: to caress
 * meik: to mend, to heal
 * mi: sleep
