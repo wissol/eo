@@ -6,11 +6,13 @@ These are the early notes of Eo, a whimsical conlang, I am designing for the fun
 
 ## The Fragment
 
-As a first step in the design process I crafted a small story, which I call “the fragment”. The objective of this exercise is to envision how the Eo speaker actually spoke and then build the language around that. What follows are the literal translations, to Spanish and English. There is no version in Eo yet, just a few words, ideas and phrases.
+As a first step in the design process I crafted a small story, which I call “the fragment”. The objective of this exercise is to envision how the Eo speaker actually spoke and then build the language around that. 
+
+#### pa eirnik. naa niba i Erpek. epojeak. eer Ereik. nibaasEr epodoker do epoeok. "ur aak, naa aa. pa nidumosaa uok. jee olo sek jee olo er uok." Ereok. "dusef olo rek. ma mijesusupa mek. ma jee louk.."
 
 [ES] Esos días era invierno. Er pescaba en el mar, solo, en su barca. Un pájaro-familia andaba en los espíritus. Er le saludó. El pájaro-familia bajó, se posó en su barca y habló. –Soy tu madre, la-del-mar. Ves mi tumba de olas. Si hoy te quedas, hoy me verás.  – Er respondió –Hoy vuelvo a casa. Hoy acariciaré tus sueños blancos. Mañana quizás muera.
 
-[EN] It was winter those days. Er was fishing in the sea, alone, on his boat. A family-bird was walking in the spirits. Er greeted it. The family-bird went down, perched on the boat and spoke: “I am your mother, the-one-in-the-sea. You see  my tombs of waves. If you stay today, you will see me today”. Er answered. “I am returning home today. I will caress your white dreams today. Tomorrow perhaps I die.
+[EN] It was winter those days. Er was fishing in the sea, alone, on his boat. A family-bird was walking in the spirits. Er greeted it. The family-bird went down, perched on the boat and spoke: “I am your mother, the-one-in-the-sea. You see  my tombs of waves. Perhaps you stay today, perhaps you will see me today”. Er answered. “I am returning home today. I will caress your white dreams today. Tomorrow perhaps I die.
 
 Which sounds foreign, as it should be. A less literal translation could be something akin to: [English only]
 
