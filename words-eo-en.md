@@ -46,6 +46,8 @@
 * eio: family
 * elok: to trade
 * eo: words, language
+* eoje: blessing, magic word
+* eojek: to bless
 * eok: to speak, to talk, to communicate
 * eop: mouth
 * eopak: to tell a story
@@ -84,6 +86,7 @@
 * jak: to walk, I walk
 * jai: goat
 * je: spirit
+* jek: to do magic, divination...
 * jeak: to fly ("to walk in the spirts)
 * jee: maybe, chance, perhaps
 * jik: to cut, to tear, to split 
@@ -170,8 +173,11 @@
 * supa: white (color), clear, empty, hungry
 * ta: bad, sick, wrong
 * taba: neck
+* eotak: unpolite word
 * tak: to get worse, to get sick, to make a mistake
+* eotaa: curse, blashphemy (eotaak to curse)
 * taa: evil
+* tataa: taboo, very bad juju stuff, something that offends the spirits, the ancestors and the universe
 * te: human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
 * tefa: woman 
 * telou: corpse
