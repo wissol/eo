@@ -36,9 +36,9 @@
 * epo: family-bird, eagle
 * es + verb: third person, plural
 * fa: feminine, female
-* tefa: woman
 * fe: masculine
 * fi: bug
+* fok: can, to be able
 * ge: again
 * gis: yes
 * gud: flour
@@ -102,7 +102,8 @@
 * ta: bad, sick, wrong
 * tak: to get worse, to get sick, to make a mistake
 * taa: evil
-* te: human, person, individual animals considered intelligent (most large mammals, inc wolves, foxes, )
+* te: human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
+* tefa: woman 
 * tu: a star (individual stars are named as [something] + tu
 * tuu: the stars
 * u + verb: second person, singular ( ulak: you eat)
