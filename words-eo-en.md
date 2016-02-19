@@ -14,6 +14,7 @@
 * baa: boat
 * dee: poop
 * deek: to poop
+* di: to have, to contain
 * dok: to go down
 * dus: house (not home)
 * dumo: tomb
