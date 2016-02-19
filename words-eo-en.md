@@ -33,6 +33,9 @@
 * erk: to perch on, to stand on
 * epo: family-bird, eagle
 * es + verb: third person, plural
+* fa: feminine, female
+* tefa: woman
+* fe: masculine
 * fi: bug
 * ge: again
 * gis: yes
@@ -65,6 +68,7 @@
 * mo: stone (generic), something, object, item
 * naa: at sea, in the sea
 * nibaa: on a boat
+* nee: old
 * nos: night
 * o: now, present
 * olo: today (‘this sun’)
@@ -84,7 +88,11 @@
 * ro: no
 * rek: to return, I return, I go back
 * r_: negation (rik - I don't need
+* sa: child
+* safe: boy
+* safa: girl
 * saa: waves
+* ser: young
 * ta: bad, sick, wrong
 * taa: evil
 * te: human, person, individual animals considered intelligent (most large mammals, inc wolves, foxes, )
