@@ -16,7 +16,8 @@
 * deek: to poop
 * di: to have, to contain
 * dok: to go down
-* dus: house (not home)
+* dube: home island, nation
+* dus: house 
 * dumo: tomb
 * e + verb: third person, singular
 * ea: plant
@@ -41,23 +42,31 @@
 * fok: can, to be able
 * ge: again
 * gis: yes
+* go: tool, instrument
+* gok: to use
 * gud: flour
 * guk: to grind / I grind
 * i: alone
+* iaa: too, also, as well
 * ik: to wish, to want, to be alone, to be moody, to be sad
 * ingo: tooth
 * ip: and (conj)
+* iri: cold
 * irnik: To be winter
 * jak: to walk, I walk
 * je: spirit
 * jeak: to fly ("to walk in the spirts)
 * jee: maybe, chance, perhaps
+* jik: to cut, to tear, to split 
 * ka: hair
+* ki: hard
 * la: food
 * laeasa: fruit
 * lak: to eat
 * lek: to gather food, to haverst
 * laaik: to gather seafood and/or seaweeds
+* lik: to hear
+* lilak: to listen
 * lo: sun
 * lonu: morning, birth
 * lorelorelore: the moon
@@ -69,13 +78,21 @@
 * ma: tomorrow
 * mek: to caress
 * meik: to mend, to heal
+* mi: sleep
+* mije: dream
+* mimijek: to sleep, perhaps to dream 
 * mo: stone (generic), something, object, item
+* mok: to make things out of stone, to carve in stone
+* mumi: small, little, few
 * naa: at sea, in the sea
-* nibaa: on a boat
+* ne: clothing 
 * nee: old
 * neek: to get old
+* neirni: winter clothing, outer garment
+* nibaa: on a boat
 * nos: night
 * o: now, present
+* ode: long
 * olo: today (‘this sun’)
 * oj: auch! (interjection)
 * onos: tonight
@@ -90,9 +107,12 @@
 * pipik: to pee
 * pok: to make love
 * ro: no
+* ree: back
 * rek: to return, I return, I go back
 * r_: negation (rik - I don't need
 * sa: child
+* saisa: fun
+* saisak: to have fun
 * saat: a lot, many, too much, some big quantity of stuff
 * safe: boy
 * safa: girl
@@ -104,9 +124,12 @@
 * taa: evil
 * te: human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
 * tefa: woman 
+* tis: head
+* titata: stupid
 * tu: a star (individual stars are named as [something] + tu
 * tuu: the stars
 * u + verb: second person, singular ( ulak: you eat)
+* ube: island
 * uka: change
 * ukak: to change
 * ukek: to grow up
