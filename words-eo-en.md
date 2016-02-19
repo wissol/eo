@@ -14,6 +14,7 @@
 * aspi: spear point, also short for spear
 * ate: tired
 * baa: boat
+* bi: arm
 * da: activity
 * daak: to work
 * daje: music
@@ -27,6 +28,7 @@
 * dlo: yellow
 * dof: down
 * dok: to go down
+* duu: body
 * dube: home island, nation
 * dus: house 
 * dumo: tomb
@@ -42,12 +44,14 @@
 * elok: to trade
 * eo: words, language
 * eok: to speak, to talk, to communicate
+* eop: mouth
 * eopak: to tell a story
 * eopatak: to regret
 * ep: or (conj)
 * erk: to perch on, to stand on
 * epo: family-bird, eagle
 * es + verb: third person, plural
+* eu: leg
 * fa: feminine, female
 * fe: masculine
 * fi: bug
@@ -55,6 +59,7 @@
 * fu: end
 * gala: basket
 * ge: again
+* geopa: tounge
 * gis: yes
 * go: tool, instrument
 * gok: to use
@@ -62,6 +67,7 @@
 * gud: flour
 * guk: to grind / I grind
 * i: alone
+* iba: hand
 * iaa: too, also, as well
 * ik: to wish, to want, to be alone, to be moody, to be sad
 * ingo: tooth
@@ -69,16 +75,19 @@
 * iri: cold
 * irnif: north
 * irnik: To be winter
+* jaba: foot
 * jak: to walk, I walk
 * je: spirit
 * jeak: to fly ("to walk in the spirts)
 * jee: maybe, chance, perhaps
 * jik: to cut, to tear, to split 
 * ka: hair
+* kaba: hand
 * ki: hard
 * la: food
 * laeasa: fruit
 * lak: to eat
+* laba: finger
 * lek: to gather food, to haverst
 * laaik: to gather seafood and/or seaweeds
 * lik: to hear
@@ -94,6 +103,7 @@
 * luk: to be hungry
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: morrow, future
+* maba: shoulder
 * mek: to caress
 * meik: to mend, to heal
 * mi: sleep
@@ -103,6 +113,7 @@
 * mo: stone (generic), something, object, item
 * mok: to make things out of stone, to carve in stone
 * mumi: small, little, few
+* naba: elbow
 * naa: at sea, in the sea
 * ne: clothing 
 * nee: old
@@ -114,6 +125,7 @@
 * nojek: to think
 * nos: night
 * o: now, present
+* oba: knee
 * ode: long
 * olo: today (‘this sun’)
 * oj: auch! (interjection)
@@ -123,6 +135,7 @@
 * os: eye
 * ok: to look at, to see
 * pa: those days, the past
+* pabo: ankle
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
 * pek: to fish
@@ -156,6 +169,7 @@
 * tepalou: bone
 * tis: head
 * titata: stupid
+* tok: to swim
 * tu: a star (individual stars are named as [something] + tu
 * tuf: up
 * tuu: the stars
