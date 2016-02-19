@@ -10,7 +10,7 @@
 8.  jee olo sek jee olo er uok
 9.   Ereok 
 10.  dusef olo rek
-11.  [...] 
+11.  ma mijesusupa mek 
 12. ma jee louk..
 
 nidumos+saa contracted to nidumosaa
