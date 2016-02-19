@@ -25,28 +25,28 @@ nidumos+saa contracted to nidumosaa
 
 1. It was winter those days. 
 2. Er was fishing in the sea, alone, on his boat. 
-3. A family-bird was walking in the spirits. 
-4. Er greeted it. 
+3. A family-bird was walking in the spirits.  (an eagle was flying)
+4. Er greeted her. 
 5. The family-bird went down, perched on the boat and spoke: 
-6. “I am your mother, the-one-in-the-sea. 
+6. “I am your mother, the-one-in-the-sea. (meaning the one who died at sea)
 7. You see my tombs of waves. 
-8. If you stay today, you will see me today”. 
+8. Perhaps you stay today, perhaps will see me today”.  (if you stay, you will die and be with me)
 9. Er answered. 
 10. “I am returning home today. 
-11. I will caress your white dreams today. 
+11. I will caress your white dreams today. (I will care for your remains, white dreams being a poetic reference to bones)
 12. Tomorrow perhaps I die.
 
 ### Spanish Version
 
 1. Esos días era invierno. 
 2. Er pescaba en el mar, solo, en su barca. 
-3. Un pájaro-familia andaba en los espíritus. 
+3. Un pájaro-familia andaba en los espíritus. (un águila volaba)
 4. Er le saludó. 
 5. El pájaro-familia bajó, se posó en su barca y habló. 
-6. –Soy tu madre, la-del-mar. 
+6. –Soy tu madre, la-del-mar. (la que murió en el mar)
 7. Ves mi tumba de olas. 
-8. Si hoy te quedas, hoy me verás. 
+8. quizás te quedes hoy, quizás me veas hoy. (si te quedas morirás y te quedarás conmigo)
 9. – Er respondió 
 10. –Hoy vuelvo a casa. 
-11. Hoy acariciaré tus sueños blancos. 
+11. Hoy acariciaré tus sueños blancos. (cuidaré de tus huesos, sueños blancos es forma poética de significar huesos)
 12. Mañana quizás muera.
