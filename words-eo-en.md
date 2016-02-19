@@ -19,6 +19,8 @@
 * dus: house (not home)
 * dumo: tomb
 * e + verb: third person, singular
+* ea: plant
+* easa: flower
 * ee: father, wind
 * eek: to blow, to father, to act fatherly
 * ei: hello
@@ -52,6 +54,7 @@
 * jee: maybe, chance, perhaps
 * ka: hair
 * la: food
+* laeasa: fruit
 * lak: to eat
 * lek: to gather food, to haverst
 * laaik: to gather seafood and/or seaweeds
