@@ -26,10 +26,10 @@ So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or
 
 ## Some sentences
 
-lam an ik.  – I wish water and food.
-lam aik. – We (inclusive) want food.
-asluk – We (exclusive) are hungry.
-luk – I am hungry
-ma aspek – We (exclusive) will fish tomorrow (are fishing tomorrow).
-euk – You come.
-eirnik – It’s winter (pa eirnik – It was winter)
+- lam an ik.  – I wish water and food.
+- lam aik. – We (inclusive) want food.
+- asluk – We (exclusive) are hungry.
+- luk – I am hungry
+- ma aspek – We (exclusive) will fish tomorrow (are fishing tomorrow or some time in the future).
+- euk – You come.
+- eirnik – It’s winter (pa eirnik – It was winter)
