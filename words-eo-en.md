@@ -20,6 +20,11 @@
 * dee: poop
 * deek: to poop
 * di: to have, to contain
+* dlas: red
+* dlaa: blue
+* dlea: green
+* dli: grey
+* dlo: yellow
 * dof: down
 * dok: to go down
 * dube: home island, nation
@@ -53,6 +58,7 @@
 * gis: yes
 * go: tool, instrument
 * gok: to use
+* gruka: meeting
 * gud: flour
 * guk: to grind / I grind
 * i: alone
@@ -87,7 +93,7 @@
 * lu: hunger, lack, need
 * luk: to be hungry
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
-* ma: tomorrow, future
+* ma: morrow, future
 * mek: to caress
 * meik: to mend, to heal
 * mi: sleep
@@ -107,6 +113,7 @@
 * ode: long
 * olo: today (‘this sun’)
 * oj: auch! (interjection)
+* oma: tomorrow (ma is more often used, as the spirits could take this word as a challenge against them)
 * onos: tonight
 * ool: often
 * os: eye
@@ -134,7 +141,8 @@
 * saa: waves
 * sek: to stay
 * ser: young
-* supa: white (color) , clear, empty
+* suma: black (color), filled, wealthy, fed
+* supa: white (color), clear, empty, hungry
 * ta: bad, sick, wrong
 * tak: to get worse, to get sick, to make a mistake
 * taa: evil
@@ -147,6 +155,7 @@
 * tu: a star (individual stars are named as [something] + tu
 * tuf: up
 * tuu: the stars
+* truka: tradition
 * u + verb: second person, singular ( ulak: you eat)
 * ube: island
 * uka: change
@@ -167,3 +176,15 @@
 * ye: dirty
 * yi: generic container
 * yipe: fish / seafood pond
+
+## Words / Concepts that do not exist in Eo
+
+Besides the obvious (anything outside of the Neolithic time frame, tech and culture)
+
+1. King or chief, boss, as a permanent status
+2. Right or Left (you say something is north of me, or south of me, or even "my east hand" according to how you are oriented)
+3. Any color beyond 12 basic colors (there's still room for a few)
+4. Any animal or plant from a warm / tropical area
+5. Any government structure, beyond a meeting
+6. Permanent Laws
+7. Shops or markets
