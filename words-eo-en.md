@@ -14,6 +14,7 @@
 * aik: to live
 * aika: blood
 * ailea: grain
+* air: summer
 * ala: seafood
 * ao: or (conj)
 * as + verb: we (exclusive) asaak (we are mothers) 
@@ -32,6 +33,7 @@
 * dee: poop
 * deek: to poop
 * di: to have, to contain
+* dibin: autum
 * dlas: red
 * dlaa: blue
 * dlabe: brown
@@ -118,8 +120,9 @@
 * laeasa: fruit
 * lak: to eat
 * laba: finger
-* lek: to gather food, to haverst
+* laya: spring
 * laaik: to gather seafood and/or seaweeds
+* lek: to gather food, to haverst* 
 * lino: day
 * li: ear
 * lik: to hear
