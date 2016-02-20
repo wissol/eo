@@ -12,6 +12,7 @@
 * ai: life
 * aik: to live
 * aika: blood
+* ailea: grass
 * ala: seafood
 * ao: or (conj)
 * as + verb: we (exclusive) asaak (we are mothers) 
