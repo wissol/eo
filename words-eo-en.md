@@ -223,6 +223,7 @@
 * uupeo: sound, noise
 * uutuu: "all and all", the world, the universe
 * yas: fire
+* yaso: 'chimney' (actually a hole or opening in the ceeling/roof/tent)
 * yasef: south
 * yasik: burn
 * yasla: cooked food
@@ -230,6 +231,7 @@
 * ye: dirty
 * yi: generic container
 * yipe: fish / seafood pond
+* yo: door, gate, entrance, opening
 
 ## Words / Concepts that do not exist in Eo
 
