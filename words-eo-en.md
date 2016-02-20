@@ -220,6 +220,7 @@
 * uutuu: "all and all", the world, the universe
 * yas: fire
 * yasef: south
+* yasik: burn
 * yasla: cooked food
 * yaslak: to cook
 * ye: dirty
