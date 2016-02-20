@@ -110,6 +110,7 @@
 * jeak: to fly ("to walk in the spirts)
 * jee: maybe, chance, perhaps
 * jik: to cut, to tear, to split 
+* jo: but
 * ka: hair
 * kaba: hand
 * kerea: feather
