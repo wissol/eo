@@ -107,6 +107,7 @@
 * jik: to cut, to tear, to split 
 * ka: hair
 * kaba: hand
+* kerea: feather
 * ki: hard
 * la: food
 * laeasa: fruit
