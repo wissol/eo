@@ -265,4 +265,4 @@ Besides the obvious (anything outside of the Neolithic time frame, tech and cult
 7. Shops or markets
 8. words for Earth (there are only islands some bigger than others, each unique), planet (in the modern sense)
 9. academic terms, philosophical concepts
-10. 
+10. words for luck or fortune, there's ukokikeka ('the unexpected'), that's all
