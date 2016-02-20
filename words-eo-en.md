@@ -186,6 +186,7 @@
 * pipik: to pee
 * pok: to make love
 * ro: no
+* rob: weak, fragile
 * rok: to negate, to decline
 * ree: back
 * rek: to return, I return, I go back
