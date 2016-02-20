@@ -46,6 +46,7 @@
 * duu: body
 * dube: home island, nation
 * dus: house 
+* dusje: sky
 * dumo: tomb
 * e + verb: third person, singular
 * ea: plant
