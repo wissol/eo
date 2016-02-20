@@ -126,6 +126,8 @@
 * lou: evening, death
 * louk: to die
 * lu: hunger, lack, need
+* lufa: rope
+* lufi: worm
 * luk: to be hungry
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: morrow, future
