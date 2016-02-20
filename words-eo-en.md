@@ -8,6 +8,7 @@
 * aak: to be a mother, to act motherly
 * abe: love, stream
 * abek: to love, to flow
+* abo: door, gate, entrance, opening
 * ai: life
 * aik: to live
 * aika: blood
@@ -20,6 +21,7 @@
 * baak: sail
 * babaa: sheep
 * bi: arm
+* bo: thin
 * da: activity
 * daak: to work
 * daje: music
@@ -82,6 +84,7 @@
 * i: alone
 * iba: hand
 * iaa: too, also, as well
+* ibo: fat
 * id: chin
 * ik: to wish, to want, to be alone, to be moody, to be sad
 * ipo: bird
@@ -231,7 +234,7 @@
 * ye: dirty
 * yi: generic container
 * yipe: fish / seafood pond
-* yo: door, gate, entrance, opening
+
 
 ## Words / Concepts that do not exist in Eo
 
