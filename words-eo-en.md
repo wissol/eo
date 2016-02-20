@@ -187,6 +187,7 @@
 * tepalou: bone
 * tis: head
 * tisje: mind, soul
+* tisjek: to understand
 * titata: stupid
 * tok: to swim
 * tu: a star (individual stars are named as [something] + tu
