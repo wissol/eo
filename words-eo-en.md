@@ -10,14 +10,16 @@
 * abek: to love, to flow
 * abo: door, gate, entrance, opening
 * ai: life
+* aii: seed
 * aik: to live
 * aika: blood
-* ailea: grass
+* ailea: grain
 * ala: seafood
 * ao: or (conj)
 * as + verb: we (exclusive) asaak (we are mothers) 
 * aspi: spear point, also short for spear
-* ate: tired
+* ate: tired,
+* ayea: grass
 * baa: boat, canoe
 * baak: sail
 * babaa: sheep
