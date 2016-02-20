@@ -149,8 +149,10 @@
 * mijek: to dream
 * misaa: fox
 * mo: stone (generic), something, object, item
+* moba: tough
 * mok: to make things out of stone, to carve in stone
-* mumi: small, little, few
+* mou: pebble
+* mu: small, little, few
 * naba: elbow
 * naa: at sea, in the sea
 * ne: clothing 
