@@ -110,6 +110,8 @@
 * kerea: feather
 * ki: hard
 * la: food
+* labe: farmland, plot for crops
+* labek: to sow
 * laeasa: fruit
 * lak: to eat
 * laba: finger
