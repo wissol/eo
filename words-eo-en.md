@@ -93,6 +93,7 @@
 * iri: cold
 * irnif: north
 * irnik: To be winter
+* iryi: cloud
 * jaba: foot
 * jak: to walk, I walk
 * jai: goat
@@ -110,6 +111,8 @@
 * laba: finger
 * lek: to gather food, to haverst
 * laaik: to gather seafood and/or seaweeds
+* lino: day
+* li: ear
 * lik: to hear
 * lilak: to listen
 * lo: sun
