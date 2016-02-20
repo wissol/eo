@@ -8,7 +8,9 @@
 * aak: to be a mother, to act motherly
 * abe: love, stream
 * abek: to love, to flow
+* ai: life
 * aik: to live
+* aika: blood
 * ala: seafood
 * ao: or (conj)
 * as + verb: we (exclusive) asaak (we are mothers) 
