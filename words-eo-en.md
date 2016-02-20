@@ -154,11 +154,14 @@
 * pipik: to pee
 * pok: to make love
 * ro: no
+* rok: to negate, to decline
 * ree: back
 * rek: to return, I return, I go back
 * rira: fight
 * rirar: conflict (generic)
 * rirak: war
+* rirk: to fight
+* ruk: to know
 * r_: negation (rik - I don't need
 * sa: child
 * saisa: fun, happy, fortunate
