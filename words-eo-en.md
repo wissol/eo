@@ -5,10 +5,11 @@
 * aaj: surprise (interjection)
 * aba: open
 * abak: to open
-* ala: seafood
 * aak: to be a mother, to act motherly
 * abe: love, stream
 * abek: to love, to flow
+* aik: to live
+* ala: seafood
 * ao: or (conj)
 * as + verb: we (exclusive) asaak (we are mothers) 
 * aspi: spear point, also short for spear
@@ -20,6 +21,7 @@
 * da: activity
 * daak: to work
 * daje: music
+* dayak: to awake
 * dee: poop
 * deek: to poop
 * di: to have, to contain
@@ -31,6 +33,7 @@
 * dlo: yellow
 * dof: down
 * dok: to go down
+* domik: to go to sleep
 * duu: body
 * dube: home island, nation
 * dus: house 
