@@ -263,3 +263,6 @@ Besides the obvious (anything outside of the Neolithic time frame, tech and cult
 5. Any government structure, beyond a meeting
 6. Permanent Laws
 7. Shops or markets
+8. words for Earth (there are only islands some bigger than others, each unique), planet (in the modern sense)
+9. academic terms, philosophical concepts
+10. 
