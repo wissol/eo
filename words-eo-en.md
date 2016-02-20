@@ -82,6 +82,7 @@
 * i: alone
 * iba: hand
 * iaa: too, also, as well
+* id: chin
 * ik: to wish, to want, to be alone, to be moody, to be sad
 * ipo: bird
 * ipoje: song
