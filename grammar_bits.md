@@ -24,7 +24,7 @@ e_ forms the vocative , as in eaa uok (Mother! Look!)
 
 n_ or n[vowel]_ forms the locative, as in naa (at sea) or nidun (at home)
 
-_ef  movement towards something is moving
+_ef  movement towards something is moving, consequence, end, target
 
 _j _[vowel]j ablative, movement from something, or cause: The victim went from us to see the doctor. and He was unhappy because of depression
 
