@@ -79,6 +79,7 @@
 * iba: hand
 * iaa: too, also, as well
 * ik: to wish, to want, to be alone, to be moody, to be sad
+* ipo: bird
 * ginko: pig
 * ingo: tooth
 * ip: and (conj)
