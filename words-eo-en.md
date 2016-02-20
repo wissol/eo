@@ -61,6 +61,8 @@
 * erk: to perch on, to stand on
 * epo: family-bird, eagle
 * es + verb: third person, plural
+* eota: unpolite word
+* eotak: to curse, to insult
 * eu: leg
 * fa: feminine, female
 * fe: masculine
@@ -185,13 +187,13 @@
 * supa: white (color), clear, empty, hungry
 * ta: bad, sick, wrong
 * taba: neck
-* eotak: unpolite word
 * tak: to get worse, to get sick, to make a mistake
-* eotaa: curse, blashphemy (eotaak to curse)
 * taa: evil
 * tataa: taboo, very bad juju stuff, something that offends the spirits, the ancestors and the universe
 * te: human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
+* teea: tree
 * tefa: woman 
+* telea: branch
 * telou: corpse
 * tepalou: bone
 * tis: head
