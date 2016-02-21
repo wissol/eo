@@ -194,7 +194,6 @@
 * rek: to return, I return, I go back
 * rira: fight
 * rirar: conflict (generic)
-* rirak: war
 * rirk: to fight
 * ruk: to know
 * r_: negation (rik - I don't need
