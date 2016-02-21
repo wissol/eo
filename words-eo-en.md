@@ -130,6 +130,7 @@
 * lik: to hear
 * lilak: to listen
 * lo: sun
+* lob: big
 * logef: west
 * lonu: morning, birth
 * lonuf: east
