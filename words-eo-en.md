@@ -44,7 +44,7 @@
 * dok: to go down
 * domik: to go to sleep
 * duu: body
-* dube: home island, nation
+* dube: home island, homeland
 * dus: house 
 * dusje: sky
 * dumo: tomb
@@ -260,7 +260,7 @@ Besides the obvious (anything outside of the Neolithic time frame, tech and cult
 2. Right or Left (you say something is north of me, or south of me, or even "my east hand" according to how you are oriented)
 3. No more color names
 4. Any animal or plant from a warm / tropical area
-5. Any government structure, beyond a meeting
+5. Any government structure, beyond a meeting, neither nations nor kingdoms
 6. Permanent Laws
 7. Shops or markets
 8. words for Earth (there are only islands some bigger than others, each unique), planet (in the modern sense)
