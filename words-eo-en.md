@@ -168,7 +168,7 @@
 * nije: "afterlife", "the spiritual dimension"
 * noje: thought 
 * nojek: to think
-* nos: night
+* no: night
 * o: now, present
 * oba: knee
 * ode: long
@@ -221,7 +221,7 @@
 * telea: branch
 * telou: corpse
 * tepalou: bone
-* tis: head
+* ti: head
 * tisje: mind, soul
 * tisjek: to understand
 * titata: stupid
