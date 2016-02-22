@@ -33,3 +33,5 @@ So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or
 - ma aspek – We (exclusive) will fish tomorrow (are fishing tomorrow or some time in the near future).
 - euk – You come.
 - eirnik – It’s winter (pa eirnik – It was winter)
+- nosifan ik - I wish you good night (or good night)
+- 
