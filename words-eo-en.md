@@ -92,6 +92,7 @@
 * iaa: too, also, as well
 * ibo: fat
 * id: chin
+* ifa: good
 * ik: to wish, to want, to be alone, to be moody, to be sad
 * ipo: bird
 * ipoje: song
