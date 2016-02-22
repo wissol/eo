@@ -117,6 +117,7 @@
 * kaba: hand
 * kerea: feather
 * ki: hard
+* ko: friend
 * la: food
 * labe: farmland, plot for crops
 * labek: to sow
