@@ -119,11 +119,12 @@
 * ki: hard
 * ko: friend
 * la: food
+* laba: finger
 * labe: farmland, plot for crops
 * labek: to sow
 * laeasa: fruit
 * lak: to eat
-* laba: finger
+* lasnu: porridge
 * laya: spring
 * laaik: to gather seafood and/or seaweeds
 * lek: to gather food, to haverst* 
@@ -169,6 +170,7 @@
 * noje: thought 
 * nojek: to think
 * no: night
+* nu: oats
 * o: now, present
 * oba: knee
 * ode: long
@@ -189,6 +191,8 @@
 * pipi: pee
 * pipik: to pee
 * pok: to make love
+* pu: flax seed, flax
+* ra: barley seed, barley
 * ro: no
 * rob: weak, fragile
 * rok: to negate, to decline
