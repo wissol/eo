@@ -200,11 +200,11 @@
 * ruk: to know
 * r_: negation (rik - I don't need
 * sa: child
-* saisa: fun, happy, fortunate
-* saisak: to have fun
+* saifa: fun, happy
+* saifak: to have fun
 * saat: a lot, many, too much, some big quantity of stuff
-* safe: boy
-* safa: girl
+* saife: boy
+* saifi: girl
 * saa: waves
 * sek: to stay
 * ser: young
