@@ -91,7 +91,7 @@
 * i: alone
 * iba: hand
 * iaa: too, also, as well
-* ibo: fat
+* ibo: fat(as in 'fat person')
 * id: chin
 * ifa: good
 * ik: to wish, to want, to be alone, to be moody, to be sad
@@ -128,7 +128,8 @@
 * lasnu: porridge
 * laya: spring
 * laaik: to gather seafood and/or seaweeds
-* lek: to gather food, to haverst* 
+* lek: to gather food, to haverst*
+* libo: edible fat (lipid)
 * lino: day
 * li: ear
 * lik: to hear
