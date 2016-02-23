@@ -22,5 +22,5 @@
 | s | s | like s in six |
 | t | t | like t in ten |
 | u | u | like oo in pool but shorter |
-| u | ʊ | like oo in good |
+| uu | ʊ | like oo in good |
 | y | ʝ | like y in yes |
