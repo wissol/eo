@@ -19,5 +19,3 @@
 | t | t | like t in ten |
 | u | u | like oo in pool but shorter |
 | y | ʝ | like y in yes |
-
-
