@@ -51,7 +51,8 @@
 * e + verb: third person, singular
 * ea: plant
 * easa: flower
-* eba: to give
+* eba: gift
+* ebak: to give
 * ee: father, wind
 * eek: to blow, to father, to act fatherly
 * ei: hello
@@ -169,6 +170,7 @@
 * nije: "afterlife", "the spiritual dimension"
 * noje: thought 
 * nojek: to think
+* nojere: wisdom
 * no: night
 * nu: oats
 * o: now, present
@@ -193,6 +195,7 @@
 * pok: to make love
 * pu: flax seed, flax
 * ra: barley seed, barley
+* re: knowledge
 * ro: no
 * rob: weak, fragile
 * rok: to negate, to decline
