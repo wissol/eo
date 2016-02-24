@@ -112,6 +112,7 @@
 * jek: to do magic, divination...
 * jeak: to fly ("to walk in the spirts)
 * jee: maybe, chance, perhaps
+* jeso: festivity, feast
 * jik: to cut, to tear, to split 
 * jo: but
 * ka: hair
@@ -210,9 +211,11 @@
 * sa: child
 * saifa: fun, happy
 * saifak: to have fun
+* saifo: party (saifok: to be in a party, to throw a party)
 * saat: a lot, many, too much, some big quantity of stuff
 * saife: boy
 * saifi: girl
+* sak: to play, to be a child
 * saa: waves
 * sek: to stay
 * ser: young
