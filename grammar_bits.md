@@ -12,7 +12,9 @@
 
 ## Verbs
 
-Verbs (and verbs only) end with a k, with no variations for either tense or person. There are no tenses, which the speaker must infer from context and key words such as maa (tomorrow) or paa (the past).
+Verbs (and verbs only) end with a k, with no variations for either tense. There are no tenses, which the speaker must infer from context and key words such as maa (tomorrow) or paa (the past).
+
+y_ or y[vowel]_ forms the reflexive
 
 ## Cases
 
