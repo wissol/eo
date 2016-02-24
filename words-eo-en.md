@@ -120,6 +120,8 @@
 * kerea: feather
 * ki: hard
 * ko: friend
+* ku: fear
+* kuk: to be afraid (yukuk! you have frightened me!)
 * la: food
 * laba: finger
 * labe: farmland, plot for crops
@@ -263,6 +265,7 @@
 * ye: dirty
 * yi: generic container
 * yipe: fish / seafood pond
+
 
 
 ## Words / Concepts that do not exist in Eo
