@@ -18,5 +18,12 @@ There is no number zero and 6 basic numbers, the rest are built on those, using 
 16. (4×4) itsit
 17. (12+5) aatet
 18. (6×3) atsot
+19. (6x3+1) astsotunt
+20. (10x2) atitsut
+21. (7x3) atuntsot
+
+24. (6x4) atsut 
+36. (6x6) atsat
+144. (12x12) aatsaat
 
 saat, a generic “number” meaning “a lot of”, “many”, “too much”
