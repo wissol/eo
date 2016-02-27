@@ -14,7 +14,8 @@
 
 Verbs (and verbs only) end with a k, with no variations for either tense. There are no tenses, which the speaker must infer from context and key words such as maa (tomorrow) or paa (the past).
 
-y_ or y[vowel]_ forms the reflexive
+y_ or y[vowel]_ forms the reflexive (this happened to the speaker as in yueok "you told me")
+r_ (this happened to the subject rueok "you told yourself")
 
 ## Cases
 
