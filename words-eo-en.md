@@ -45,10 +45,11 @@
 * dok: to go down
 * domik: to go to sleep
 * duu: body
+* dubaa: mountain, hill
 * dube: home island, homeland
+* dumo: tomb
 * dus: house 
 * dusje: sky
-* dumo: tomb
 * e + verb: third person, singular
 * ea: plant
 * easa: flower
