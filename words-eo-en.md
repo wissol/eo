@@ -119,12 +119,14 @@
 * jo: but
 * ka: hair
 * kaba: hand
+* kek: to lose, to get lost
 * kerea: feather
 * ki: hard
 * ko: friend
 * ku: fear
 * kuk: to be afraid (yukuk! you have frightened me!)
 * la: food
+* laab: mud
 * laba: finger
 * labe: farmland, plot for crops
 * labek: to sow
