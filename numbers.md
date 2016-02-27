@@ -24,6 +24,7 @@ There is no number zero and 6 basic numbers, the rest are built on those, using 
 
 24. (6x4) atsut 
 36. (6x6) atsat
+42. (6x7) atsatunt (also 'the meaning of life')
 144. (12x12) aatsaat
 
 saat, a generic “number” meaning “a lot of”, “many”, “too much”
