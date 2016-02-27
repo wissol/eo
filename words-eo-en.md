@@ -26,7 +26,7 @@
 * babaa: sheep
 * bi: arm
 * bo: thin
-* d/do
+* d/do: and
 * da: activity
 * daak: to work
 * daje: music
@@ -101,7 +101,6 @@
 * ipojek: to sing
 * ginko: pig
 * ingo: tooth
-* ip: and (conj)
 * iri: cold
 * irnif: north
 * irnik: To be winter
