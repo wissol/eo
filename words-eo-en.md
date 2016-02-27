@@ -104,6 +104,7 @@
 * iri: cold
 * irnif: north
 * irnik: To be winter
+* irok: to climb
 * iryi: cloud
 * jaba: foot
 * jak: to walk, I walk
