@@ -26,6 +26,7 @@
 * babaa: sheep
 * bi: arm
 * bo: thin
+* d/do
 * da: activity
 * daak: to work
 * daje: music
