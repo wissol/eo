@@ -214,6 +214,7 @@
 * rirk: to fight
 * ruk: to know
 * r_: negation (rik - I don't need
+* si_ interrogative sisaifek? are you a boy? sisupak? are you hungry siutuk? what's your name?  
 * sa: child
 * saifa: fun, happy
 * saifak: to have fun
@@ -243,7 +244,7 @@
 * tisjek: to understand
 * titata: stupid
 * tok: to swim
-* tu: a star (individual stars are named as [something] + tu
+* tu: a star, name 
 * tuf: up
 * tuu: the stars
 * truka: tradition
