@@ -269,6 +269,7 @@
 * ye: dirty
 * yi: generic container
 * yipe: fish / seafood pond
+* yok: to thank
 
 
 
