@@ -34,4 +34,5 @@ So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or
 - euk – You come.
 - eirnik – It’s winter (pa eirnik – It was winter)
 - nosifan ik - I wish you good night (or good night)
+-  tek do aim abek - (I am a human and I love life)
 
