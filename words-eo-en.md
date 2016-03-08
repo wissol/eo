@@ -75,6 +75,7 @@
 * eota: unpolite word
 * eotak: to curse, to insult
 * eu: leg
+* eyak: to welcome
 * fa: feminine, female
 * fe: masculine
 * fi: bug
