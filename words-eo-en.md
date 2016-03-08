@@ -107,6 +107,7 @@
 * irnik: To be winter
 * irok: to climb
 * iryi: cloud
+* isak: to be handsome, beautiful..
 * jaba: foot
 * jak: to walk, I walk
 * jai: goat
