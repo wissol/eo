@@ -49,6 +49,7 @@
 * dok: to go down
 * domik: to go to sleep
 * duu: body
+* duupa: naked
 * dubaa: mountain, hill
 * dube: home island, homeland
 * dumo: tomb
@@ -118,9 +119,12 @@
 * iryi: cloud
 * isak: to be handsome, beautiful..
 * ita: light, candle
-* jaba: foot
+* ja: foot
+* jae: sandal
+* jaa: barefoot
 * jak: to walk, I walk
-* jai: goat
+* jali: goat
+* jam: boot, shoe
 * je: spirit
 * jek: to do magic, divination...
 * jeak: to fly ("to walk in the spirts)
