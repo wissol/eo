@@ -9,6 +9,7 @@
 * abe: love, stream
 * abek: to love, to flow
 * abo: door, gate, entrance, opening
+* aeli: otter
 * ai: life
 * aii: seed
 * aik: to live
@@ -62,6 +63,7 @@
 * ei: hello
 * eik: to greet
 * eio: family
+* eli: stoat
 * elok: to trade
 * eo: words, language
 * eoje: blessing, magic word
@@ -81,12 +83,14 @@
 * fa: feminine, female
 * fe: masculine
 * fi: bug
+* fli: badger
 * fok: can, to be able
 * fu: end
 * gala: basket
 * ge: again
 * geopa: tounge
 * gis: yes
+* gli: bear
 * go: tool, instrument
 * gok: to use
 * gruka: meeting
@@ -100,6 +104,7 @@
 * id: chin
 * ifa: good
 * ik: to wish, to want, to be alone, to be moody, to be sad
+* ili: boar
 * ipo: bird
 * ipoje: song
 * ipojek: to sing
@@ -120,12 +125,14 @@
 * jee: maybe, chance, perhaps
 * jeso: festivity, feast
 * jik: to cut, to tear, to split 
+* jli: bison
 * jo: but
 * ka: hair
 * kaba: hand
 * kek: to lose, to get lost
 * kerea: feather
 * ki: hard
+* kli: wolf
 * ko: friend
 * ku: fear
 * kuk: to be afraid (yukuk! you have frightened me!)
@@ -144,6 +151,7 @@
 * lino: day
 * li: ear
 * lik: to hear
+* lili: hare
 * lilak: to listen
 * lo: sun
 * lob: big
@@ -165,11 +173,13 @@
 * meik: to mend, to heal
 * mi: sleep
 * mije: dream
+* miaj: wale
 * mik: to sleep
 * mijek: to dream
 * misaa: fox
 * mo: stone (generic), something, object, item
 * moba: tough
+* mobli: hedgehog 
 * mok: to make things out of stone, to carve in stone
 * mosi: shrew
 * mou: pebble
