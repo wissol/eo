@@ -26,6 +26,7 @@
 * babaa: sheep
 * berni: crab
 * bi: arm
+* bli: needle
 * bo: thin
 * d/do: and
 * da: activity
