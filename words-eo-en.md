@@ -90,6 +90,7 @@
 * ge: again
 * geopa: tounge
 * gis: yes
+* ginko: pig
 * gli: bear
 * go: tool, instrument
 * gok: to use
@@ -108,7 +109,6 @@
 * ipo: bird
 * ipoje: song
 * ipojek: to sing
-* ginko: pig
 * ingo: tooth
 * iri: cold
 * irnif: north
@@ -116,6 +116,7 @@
 * irok: to climb
 * iryi: cloud
 * isak: to be handsome, beautiful..
+* ita: light, candle
 * jaba: foot
 * jak: to walk, I walk
 * jai: goat
