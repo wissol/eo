@@ -80,7 +80,6 @@
 * fa: feminine, female
 * fe: masculine
 * fi: bug
-* flin: fox
 * fok: can, to be able
 * fu: end
 * gala: basket
