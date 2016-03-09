@@ -24,6 +24,7 @@
 * baa: boat, canoe
 * baak: sail
 * babaa: sheep
+* berni: crab
 * bi: arm
 * bo: thin
 * d/do: and
@@ -79,6 +80,7 @@
 * fa: feminine, female
 * fe: masculine
 * fi: bug
+* flin: fox
 * fok: can, to be able
 * fu: end
 * gala: basket
@@ -158,6 +160,7 @@
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: morrow, future
 * maba: shoulder
+* mai: mouse
 * mek: to caress
 * meik: to mend, to heal
 * mi: sleep
@@ -168,6 +171,7 @@
 * mo: stone (generic), something, object, item
 * moba: tough
 * mok: to make things out of stone, to carve in stone
+* mosi: shrew
 * mou: pebble
 * mu: small, little, few
 * naba: elbow
@@ -193,6 +197,7 @@
 * ool: often
 * os: eye
 * ok: to look at, to see
+* oto: owl
 * pa: those days, the past
 * paoma
 * pabo: ankle
@@ -228,6 +233,7 @@
 * saa: waves
 * sek: to stay
 * ser: young
+* silki: seal
 * suma: black (color), filled, wealthy, fed
 * supa: white (color), clear, empty, hungry
 * ta: bad, sick, wrong
@@ -261,6 +267,7 @@
 * ute: animal, (any living thing that moves)
 * uya: new
 * uu: all
+* uuna: puffin
 * uupeo: sound, noise
 * uutuu: "all and all", the world, the universe
 * yas: fire
