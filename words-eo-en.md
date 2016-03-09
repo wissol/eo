@@ -20,6 +20,7 @@
 * ao: or (conj)
 * as + verb: we (exclusive) asaak (we are mothers) 
 * aspi: spear point, also short for spear
+* aspiya: spear (commonly shortened to aspi)
 * ate: tired,
 * ayea: grass
 * baa: boat, canoe
