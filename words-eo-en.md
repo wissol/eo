@@ -1,11 +1,10 @@
-|  Eo           |  English      |  Spanish      |
-| ------------- | ------------- | ------------- |
-| a             | water         | agua          |
-| a + verb      | we (inclusive) | nosotros (inclusivo) |
+|  Eo           |  English      |  Spanish      | Examples |
+| ------------- | ------------- | ------------- | ----------- |
+| a             | water         | agua          | |
+| a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) (comemos) |
+| aa | mother, sea | madre, mar | |
 
-* a: water 
-* a + verb: we (inclusive)  alak (we eat), but ataak (we (inclusive) are mothers)
-* aa: mother, sea
+
 * aai: seaweed
 * aaj: surprise (interjection)
 * aba: open
