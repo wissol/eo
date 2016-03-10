@@ -1,4 +1,9 @@
-* a: water
+|  Eo           |  English      |  Spanish      |
+| ------------- | ------------- | ------------- |
+| a             | water         | agua          |
+| a + verb      | we (inclusive) | nosotros (inclusivo) |
+
+* a: water 
 * a + verb: we (inclusive)  alak (we eat), but ataak (we (inclusive) are mothers)
 * aa: mother, sea
 * aai: seaweed
@@ -217,6 +222,7 @@
 * pa: those days, the past
 * paoma
 * pabo: ankle
+* paj: ancestor
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
 * pek: to fish
