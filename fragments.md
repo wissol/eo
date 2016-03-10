@@ -50,3 +50,28 @@ nidumos+saa contracted to nidumosaa
 10. –Hoy vuelvo a casa. 
 11. Hoy acariciaré tus sueños blancos. (cuidaré de tus huesos, sueños blancos es forma poética de significar huesos)
 12. Mañana quizás muera.
+13. 
+
+## Haiku
+
+### Eo
+
+
+aaef oajek 
+irnitak, ma olouk
+olo luditek
+
+## English
+--
+
+1. It rains on the sea
+2. Winter is sick, it will die (winter agonizes)
+3. I am hungry and tired today 
+
+
+Español
+--
+
+1. Llueve en el mar
+2. El invierno está enfermo y morirá (el invierno agoniza)
+3. Hoy estoy hambriento y cansado
