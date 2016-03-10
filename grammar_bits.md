@@ -7,6 +7,7 @@
 | First Person | 	_ (I)	| a / as+ (we) |
 | Second Person	| u (you) |	us (you) |
 | Third Person	| e (he/she/it) |	es (they) |
+| Impersonal | o (it rains) | |
 
 + a is an inclusive we (includes the addressee, “you and I” ), while as is exclusive (we, but not you)
 
