@@ -19,6 +19,7 @@
 | aika | blood | sangre | aikak (to bleed) [sangrar] |
 | ailea | grain | grano ||
 | air | summer | verano ||
+| ak             | to rain         | llover          | |
 | ala | seafood | marisco ||
 | ao | or (conj) | o (conj) ||
 | as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
