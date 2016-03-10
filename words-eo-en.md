@@ -4,14 +4,14 @@
 | a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) (comemos) |
 | aa | mother, sea | madre, mar | |
 | aai | seaweed | algas ||
+| aaj | surprise (interjection) | sorpresa, susto (interjección) |
+| aba | open | abierto ||
+| abak | to open | abrir ||
+| aak | to be a mother, to act motherly | ser madre, actuar maternarlmente ||
+| abe | love, stream | amor, corriente, arroyo ||
+| abek | to love, to flow | amar, fluir ||
+| abo | door, gate, entrance, opening | puerta, entrada, abertura ||
 
-* aaj: surprise (interjection)
-* aba: open
-* abak: to open
-* aak: to be a mother, to act motherly
-* abe: love, stream
-* abek: to love, to flow
-* abo: door, gate, entrance, opening
 * aeli: otter
 * ai: life
 * aii: seed
