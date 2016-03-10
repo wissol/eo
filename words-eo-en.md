@@ -22,7 +22,7 @@
 | ala | seafood | marisco ||
 | ao | or (conj) | o (conj) ||
 | as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
-* aspi: spear point, also short for spear
+| aspi | spear point, also short for spear | punta de lanza, también lanza (abreviado) ||
 * aspiya: spear (commonly shortened to aspi)
 * ate: tired,
 * ayea: grass
@@ -48,9 +48,11 @@
 * dlea: green
 * dli: grey
 * dlo: yellow
+* do: low, humble
 * dof: down
-* dok: to go down
+* dok: to go down, to humble
 * domik: to go to sleep
+* dopak: to be sorry
 * duu: body
 * duupa: naked
 * dubaa: mountain, hill
