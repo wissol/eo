@@ -3,9 +3,8 @@
 | a             | water         | agua          | |
 | a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) (comemos) |
 | aa | mother, sea | madre, mar | |
+| aai | seaweed | algas ||
 
-
-* aai: seaweed
 * aaj: surprise (interjection)
 * aba: open
 * abak: to open
