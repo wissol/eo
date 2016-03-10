@@ -1,7 +1,7 @@
-|  Eo           |  English      |  Spanish      | Examples |
+|  Eo           |  English      |  Spanish      | Examples and variants |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | a             | water         | agua          | |
-| a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) (comemos) |
+| a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) [comemos] |
 | aa | mother, sea | madre, mar | |
 | aai | seaweed | algas ||
 | aaj | surprise (interjection) | sorpresa, susto (interjección) |
@@ -11,12 +11,12 @@
 | abe | love, stream | amor, corriente, arroyo ||
 | abek | to love, to flow | amar, fluir ||
 | abo | door, gate, entrance, opening | puerta, entrada, abertura ||
-
-* aeli: otter
-* ai: life
-* aii: seed
-* aik: to live
-* aika: blood
+| aeli | otter | nutria ||
+| ai | life | vida ||
+| aii | seed | semilla ||
+| aiik | to sow | sembrar ||
+| aik | to live | vivir ||
+| aika | blood | sangre | aikak (to bleed) [sangrar] |
 * ailea: grain
 * air: summer
 * ala: seafood
