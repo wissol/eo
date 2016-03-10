@@ -54,15 +54,18 @@ nidumos+saa contracted to nidumosaa
 
 ## Haiku
 
-### Eo
+Eo
+---
 
 
 aaef oajek 
+
 irnitak, ma olouk
+
 olo luditek
 
 English
---
+---
 
 1. It rains on the sea
 2. Winter is sick, it will die (winter agonizes)
@@ -70,7 +73,7 @@ English
 
 
 Español
---
+---
 
 1. Llueve en el mar
 2. El invierno está enfermo y morirá (el invierno agoniza)
