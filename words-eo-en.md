@@ -23,8 +23,8 @@
 | ao | or (conj) | o (conj) ||
 | as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
 | aspi | spear point, also short for spear | punta de lanza, también lanza (abreviado) ||
-* aspiya: spear (commonly shortened to aspi)
-* ate: tired,
+| aspiya | spear (commonly shortened to aspi) | lanza (normalmente se abrevia a aspi ||
+| ate | tired | cansado(a) | atek (I'm tired)[estoy cansado(a)]|
 * ayea: grass
 * baa: boat, canoe
 * baak: sail
