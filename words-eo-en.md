@@ -1,5 +1,5 @@
 |  Eo           |  English      |  Spanish      | Examples |
-| :-----------: | ------------- | ------------- | ----------- |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 | a             | water         | agua          | |
 | a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) (comemos) |
 | aa | mother, sea | madre, mar | |
