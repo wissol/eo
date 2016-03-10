@@ -17,11 +17,11 @@
 | aiik | to sow | sembrar ||
 | aik | to live | vivir ||
 | aika | blood | sangre | aikak (to bleed) [sangrar] |
-* ailea: grain
-* air: summer
-* ala: seafood
-* ao: or (conj)
-* as + verb: we (exclusive) asaak (we are mothers) 
+| ailea | grain | grano ||
+| air | summer | verano ||
+| ala | seafood | marisco ||
+| ao | or (conj) | o (conj) ||
+| as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
 * aspi: spear point, also short for spear
 * aspiya: spear (commonly shortened to aspi)
 * ate: tired,
