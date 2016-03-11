@@ -46,21 +46,21 @@
 | dlas | red | rojo ||
 | dlaa | blue | azul ||
 | dlabe | brown | marrón ||
-| dlea | green 
-| dli | grey
-| dlo | yellow
-| do | low, humble
-| dof | down
-| dok | to go down, to humble
-| domik | to go to sleep
-| dopak | to be sorry
-| duu | body
-| duupa | naked
-| dubaa | mountain, hill
-| dube | home island, homeland
-| dumo | tomb
-| dus | house 
-| dusje | sky
+| dlea | green | verde
+| dli | grey | gris
+| dlo | yellow | amarillo
+| do | low, humble | bajo, humilde
+| dof | down | abajo
+| dok | to go down, to humble | descender, humillarse
+| domik | to go to sleep | ir a dormir
+| dopak | to ask for forgiveness | pedir perdón
+| duu | body | cuerpo
+| duuk | to be naked | estar desnudo
+| dubaa | mountain, hill | montaña o colina
+| dube | home island, homeland | isla natal, patria |
+| dumo | tomb | tumba
+| dus | house | casa
+| dusje | sky | cielo
 * e + verb: third person, singular
 * ea: plant
 * easa: flower
