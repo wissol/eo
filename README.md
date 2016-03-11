@@ -8,7 +8,7 @@ These are the early notes of Eo, a whimsical conlang, I am designing for the fun
 
 As a first step in the design process I crafted a small story, which I call “the fragment”. The objective of this exercise is to envision how the Eo speaker actually spoke and then build the language around that. 
 
-#### pa eirnik. naa niba i Erpek. epojeak. eer Ereik. nibaasEr epodoker do epoeok. "ur aak, naa aa. pa nidumosaa uok. jee olo sek jee olo er uok." Ereok. "dusef olo rek. ma mijesusupa mek. ma jee louk.."
+#### pa oirnik. naa niba i Erpek. epojeak. eer Ereik. nibaasEr epodoker do epoeok. "ur aak, naa aa. pa nidumosaa uok. jee olo sek jee olo er uok." Ereok. "dusef olo rek. ma mijesusupa mek. ma jee louk.."
 
 [ES] Esos días era invierno. Er pescaba en el mar, solo, en su barca. Un pájaro-familia andaba en los espíritus. Er le saludó. El pájaro-familia bajó, se posó en su barca y habló. –Soy tu madre, la-del-mar. Ves mi tumba de olas. Si hoy te quedas, hoy me verás.  – Er respondió –Hoy vuelvo a casa. Hoy acariciaré tus sueños blancos. Mañana quizás muera.
 
