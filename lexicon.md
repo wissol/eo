@@ -34,7 +34,7 @@
 | bi | arm | brazo ||
 | bli | needle | aguja ||
 | bo | thin | delgado ||
-| d/d + vowel  | and | y (conj) | ludatek (I'm hungry and tired)[estoy hambriento y cansado)|
+| d/d + vowel  | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
 | da | work | obra ||
 | dak | to work | trabajar ||
 | daje | music | música ||
@@ -46,21 +46,21 @@
 | dlas | red | rojo ||
 | dlaa | blue | azul ||
 | dlabe | brown | marrón ||
-* dlea: green 
-* dli: grey
-* dlo: yellow
-* do: low, humble
-* dof: down
-* dok: to go down, to humble
-* domik: to go to sleep
-* dopak: to be sorry
-* duu: body
-* duupa: naked
-* dubaa: mountain, hill
-* dube: home island, homeland
-* dumo: tomb
-* dus: house 
-* dusje: sky
+| dlea | green 
+| dli | grey
+| dlo | yellow
+| do | low, humble
+| dof | down
+| dok | to go down, to humble
+| domik | to go to sleep
+| dopak | to be sorry
+| duu | body
+| duupa | naked
+| dubaa | mountain, hill
+| dube | home island, homeland
+| dumo | tomb
+| dus | house 
+| dusje | sky
 * e + verb: third person, singular
 * ea: plant
 * easa: flower
