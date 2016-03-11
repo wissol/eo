@@ -1,3 +1,5 @@
+# Lexicon
+
 |  Eo           |  English      |  Spanish      | Examples and variants |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | a             | water         | agua          | |
