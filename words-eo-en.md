@@ -31,9 +31,9 @@
 | baak | to sail | navegar ||
 | babaa | sheep | oveja ||
 | berni | crab | cangrejo ||
-* bi: arm
-* bli: needle
-* bo: thin
+| bi | arm | brazo ||
+| bli | needle | aguja ||
+| bo | thin | delgado ||
 * d/do: and
 * da: activity
 * daak: to work
@@ -80,6 +80,7 @@
 * eop: mouth
 * eopak: to tell a story
 * eopatak: to regret
+* eosa: poem
 * ep: or (conj)
 * erk: to perch on, to stand on
 * epo: family-bird, eagle
