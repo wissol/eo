@@ -65,7 +65,7 @@
 | dusje | sky | cielo
 | e + verb | third person, singular | tercera persona, singular |
 | ea | plant | planta |
-| eak | to stand | estar de pie |
+| eak | to grow | crecer |
 * easa: flower
 * eba: gift
 * ebak: to give
