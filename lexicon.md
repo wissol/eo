@@ -34,7 +34,7 @@
 | bi | arm | brazo ||
 | bli | needle | aguja ||
 | bo | thin | delgado ||
-| d/d + vowel  | and | y (conj) | luditek (I'm hungry and tired)[estoy hambriento y cansado)|
+| d/d + vowel  | and | y (conj) | ludatek (I'm hungry and tired)[estoy hambriento y cansado)|
 | da | work | obra ||
 | dak | to work ||
 | daje | music | música ||
@@ -126,7 +126,6 @@
 * iryi: cloud
 * isak: to be handsome, beautiful..
 * ita: light, candle
-* itek: to be tired
 * ja: foot
 * jae: sandal
 * jaa: barefoot
