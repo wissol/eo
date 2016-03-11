@@ -36,7 +36,7 @@
 | bo | thin | delgado ||
 | d/d + vowel  | and | y (conj) | ludatek (I'm hungry and tired)[estoy hambriento y cansado)|
 | da | work | obra ||
-| dak | to work ||
+| dak | to work | trabajar ||
 | daje | music | música ||
 | dayak | to awake | despertar ||
 | dee | poop | caca ||
