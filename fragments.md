@@ -62,7 +62,7 @@ aaef oajek
 
 irnitak, ma olouk
 
-olo luditek
+olo ludatek
 
 English
 ---
