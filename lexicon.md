@@ -63,8 +63,9 @@
 | dumo | tomb | tumba
 | dus | house | casa
 | dusje | sky | cielo
-* e + verb: third person, singular
-* ea: plant
+| e + verb | third person, singular | tercera persona, singular |
+| ea | plant | planta |
+| eak | to stand | estar de pie |
 * easa: flower
 * eba: gift
 * ebak: to give
