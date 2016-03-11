@@ -34,19 +34,19 @@
 | bi | arm | brazo ||
 | bli | needle | aguja ||
 | bo | thin | delgado ||
-* d/do: and
-* da: activity
-* daak: to work
-* daje: music
-* dayak: to awake
-* dee: poop
-* deek: to poop
-* di: to have, to contain
-* dibin: autum
-* dlas: red
-* dlaa: blue
-* dlabe: brown
-* dlea: green
+| d/d + vowel  | and | y (conj) | luditek (I'm hungry and tired)[estoy hambriento y cansado)|
+| da | work | obra ||
+| dak | to work ||
+| daje | music | música ||
+| dayak | to awake | despertar ||
+| dee | poop | caca ||
+| deek | to poop | cagar ||
+| di | to have, to contain | tener, contener ||
+| dibin | autum | otoño ||
+| dlas | red | rojo ||
+| dlaa | blue | azul ||
+| dlabe | brown | marrón ||
+* dlea: green 
 * dli: grey
 * dlo: yellow
 * do: low, humble
@@ -126,6 +126,7 @@
 * iryi: cloud
 * isak: to be handsome, beautiful..
 * ita: light, candle
+* itek: to be tired
 * ja: foot
 * jae: sandal
 * jaa: barefoot
