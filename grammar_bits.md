@@ -17,14 +17,14 @@
 
 Verbs (and verbs only) end with a k, with no variations for either tense. There are no tenses, which the speaker must infer from context and key words such as ma (tomorrow) or pa (the past).
 
-pa oirnik - it was winter
-o oirnik (or simply eirnik) it is winter
-ma oirnik - it will be winter
-paa edak - he was working
-oo edak - he is working
-maa edak - he will be working
-pao adak - he has worked
-po adak - he had worked
+* pa oirnik - it was winter
+* o oirnik (or simply eirnik) it is winter
+* ma oirnik - it will be winter
+* paa edak - he was working
+* oo edak - he is working
+* maa edak - he will be working
+* pao adak - he has worked
+* po adak - he had worked
 
 
 y_ or y[vowel]_ forms the reflexive (this happened to the speaker as in yueok "you told me")
