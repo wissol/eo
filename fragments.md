@@ -81,6 +81,9 @@ Español
 Our Father
 =
 
+Eo
+==
+
 1. ebra ebee, udusxek (oh our Fahter, you are in the sky/heaven!)
 2. brun tun oeoxek ([impersonal] blesses your name)
 3. brus dus gaek (your house come)
@@ -90,6 +93,9 @@ Our Father
 7. de uutuuf aebapak (and we forgive all and everybody)
 8. 
 9.
+
+English (traditional)
+--
 
 1. Our Father, Who art in heaven
 1. Hallowed be Thy Name;
