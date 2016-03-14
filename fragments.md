@@ -1,19 +1,19 @@
 ## Original
 
-#### pa oirnik.  naa niba i Erpek.  epojeak.  eer Ereik.  nibaasEr epodoker do epoeok.  "ur aak, naa aa. pa nidumosaa uok. jee olo sek jee olo er uok."  Ereok. "dusef olo rek.  ma mijesusupa mek.  ma jee louk.."  
+#### pa oirnik.  naa niba i Erpek.  epoxeak.  eer Ereik.  nibaasEr epodoker do epoeok.  "ur aak, naa aa. pa nidumosaa uok. xee olo sek xee olo er uok."  Ereok. "dusef olo rek.  ma mixesusupa mek.  ma xee louk.."  
 
 1. pa oirnik.  
 2. naa niba i Erpek.  
-3. epojeak.  
+3. epoxeak.  
 4. eer Ereik.  
 5. nibaasEr epodokerk do epoeok. 
 6. "ur aak, naa aa. 
 7. pa nidumosaa uok.  
-8.  jee olo sek jee olo er uok
+8.  xee olo sek xee olo er uok
 9.   Ereok 
 10.  dusef olo rek
-11.  ma mijesusupa mek 
-12. ma jee louk..
+11.  ma mixesusupa mek 
+12. ma xee louk..
 
 nidumos+saa contracted to nidumosaa
 
@@ -50,7 +50,6 @@ nidumos+saa contracted to nidumosaa
 10. –Hoy vuelvo a casa. 
 11. Hoy acariciaré tus sueños blancos. (cuidaré de tus huesos, sueños blancos es forma poética de significar huesos)
 12. Mañana quizás muera.
-13. 
 
 ## Haiku
 
@@ -58,7 +57,7 @@ Eo
 ---
 
 
-aaef oajek 
+aaef oaxek 
 
 irnitak, ma olouk
 
