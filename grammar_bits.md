@@ -36,7 +36,7 @@ _n _im  _m  _om forms the accusative (aka sorta “direct object” ) according 
 
 _r _er forms the dative (aka sorta “indirect object” ) according to the speaker preference. So lar (food) or osir (eye) are in the dative.
 
-e_ forms the vocative , as in eaa uok (Mother! Look!)
+e_ eb_ forms the vocative , as in eaa uok (Mother! Look!)
 
 n_ or n[vowel]_ forms the locative, as in naa (at sea) or nidun (at home)
 
