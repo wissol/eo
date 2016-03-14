@@ -99,6 +99,7 @@
 * fok: can, to be able
 * fu: end
 * gak: to go
+* gabak: to help
 * gaek: to come
 * gala: basket
 * ge: again
