@@ -10,7 +10,7 @@
 | g | g | Like g in get |
 | i | i | Like e in he |
 | ii | | like e in he but longer |
-| j | x | Like h in he |
+| x | x | Like h in he |
 | k | k | Like c in coffee |
 | l | l | Like l in line, but shorter |
 | m | m | like m in more |
@@ -24,3 +24,4 @@
 | u | u | like oo in pool but shorter |
 | uu | ʊ | like oo in good |
 | y | ʝ | like y in yes |
+
