@@ -9,7 +9,7 @@
 | Third Person	| e (he/she/it) |	es (they) |
 | Impersonal | o (it rains) | |
 
-
+possesive pronouns bri+ personal pronoun  (my - bri, your - bru/brus, our bras/bra)
 
 + a is an inclusive we (includes the addressee, “you and I” ), while as is exclusive (we, but not you)
 
