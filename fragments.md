@@ -77,3 +77,26 @@ Español
 1. Llueve en el mar
 2. El invierno está enfermo y morirá (el invierno agoniza)
 3. Hoy estoy hambriento y cansado
+
+Our Father
+=
+
+1. ebra ebee, udusxek (oh our Fahter, you are in the sky/heaven!)
+2. brun tun oeoxek ([impersonal] blesses your name)
+3. brus dus gaek (your house come)
+4. olo bra lan af uebak (today, our food, to us give)
+5. ni dusxe ni dube bru eon osok (in sky in home [impersonal] do your word
+6. af uebapak (you forgive us)
+7. de uutuuf aebapak (and we forgive all and everybody)
+8. 
+9.
+
+1. Our Father, Who art in heaven
+1. Hallowed be Thy Name;
+1. Thy kingdom come,
+1. Thy will be done, on earth as it is in heaven.
+1. Give us this day our daily bread,
+1. and forgive us our trespasses,
+1. as we forgive those who trespass against us;
+1. and lead us not into temptation,
+1. but deliver us from evil. Amen.
