@@ -36,7 +36,7 @@
 | bi | arm | brazo ||
 | bli | needle | aguja ||
 | bo | thin | delgado ||
-| d/d + vowel  | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
+| _d_ _d[vowel]_ / de | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
 | da | work | obra ||
 | dak | to work | trabajar ||
 | daxe | music | música ||
