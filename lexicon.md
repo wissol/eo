@@ -97,6 +97,8 @@
 * fli: badger
 * fok: can, to be able
 * fu: end
+* gak: to go
+* gaek: to come
 * gala: basket
 * ge: again
 * geopa: tounge
