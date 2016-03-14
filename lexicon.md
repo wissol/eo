@@ -262,6 +262,7 @@
 * sek: to stay
 * ser: young
 * silki: seal
+* sok: to do / to make
 * suma: black (color), filled, wealthy, fed
 * supa: white (color), clear, empty, hungry
 * ta: bad, sick, wrong
