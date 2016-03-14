@@ -6,7 +6,7 @@
 | a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) [comemos] |
 | aa | mother, sea | madre, mar | |
 | aai | seaweed | algas ||
-| aaj | surprise (interjection) | sorpresa, susto (interjección) |
+| aax | surprise (interjection) | sorpresa, susto (interjección) |
 | aba | open | abierto ||
 | abak | to open | abrir ||
 | aak | to be a mother, to act motherly | ser madre, actuar maternarlmente ||
@@ -21,7 +21,7 @@
 | aika | blood | sangre | aikak (to bleed) [sangrar] |
 | ailea | grain | grano ||
 | air | summer | verano ||
-| ajek             | to rain         | llover          | aje (rain)[lluvia]|
+| axek             | to rain         | llover          | axe (rain)[lluvia]|
 | ala | seafood | marisco ||
 | ao | or (conj) | o (conj) ||
 | as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
@@ -39,7 +39,7 @@
 | d/d + vowel  | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
 | da | work | obra ||
 | dak | to work | trabajar ||
-| daje | music | música ||
+| daxe | music | música ||
 | dayak | to awake | despertar ||
 | dee | poop | caca ||
 | deek | to poop | cagar ||
@@ -62,7 +62,7 @@
 | dube | home island, homeland | isla natal, patria |
 | dumo | tomb | tumba
 | dus | house | casa
-| dusje | sky | cielo
+| dusxe | sky | cielo
 | e + verb | third person, singular | tercera persona, singular |
 | ea | plant | planta |
 * easa: flower
@@ -76,8 +76,8 @@
 * eli: stoat
 * elok: to trade
 * eo: words, language
-* eoje: blessing, magic word
-* eojek: to bless
+* eoxe: blessing, magic word
+* eoxek: to bless
 * eok: to speak, to talk, to communicate
 * eop: mouth
 * eopak: to tell a story
@@ -118,8 +118,8 @@
 * ik: to wish, to want, to be alone, to be moody, to be sad
 * ili: boar
 * ipo: bird
-* ipoje: song
-* ipojek: to sing
+* ipoxe: song
+* ipoxek: to sing
 * ingo: tooth
 * iri: cold
 * irnif: north
@@ -128,20 +128,20 @@
 * iryi: cloud
 * isak: to be handsome, beautiful..
 * ita: light, candle
-* ja: foot
-* jae: sandal
-* jaa: barefoot
-* jak: to walk, I walk
-* jali: goat
-* jam: boot, shoe
-* je: spirit
-* jek: to do magic, divination...
-* jeak: to fly ("to walk in the spirts)
-* jee: maybe, chance, perhaps
-* jeso: festivity, feast
-* jik: to cut, to tear, to split 
-* jli: bison
-* jo: but
+* xa: foot
+* xae: sandal
+* xaa: barefoot
+* xak: to walk, I walk
+* xali: goat
+* xam: boot, shoe
+* xe: spirit
+* xek: to do magic, divination...
+* xeak: to fly ("to walk in the spirts)
+* xee: maybe, chance, perhaps
+* xeso: festivity, feast
+* xik: to cut, to tear, to split 
+* xli: bison
+* xo: but
 * ka: hair
 * kaba: hand
 * kek: to lose, to get lost
@@ -187,10 +187,10 @@
 * mek: to caress
 * meik: to mend, to heal
 * mi: sleep
-* mije: dream
-* miaj: wale
+* mixe: dream
+* miax: wale
 * mik: to sleep
-* mijek: to dream
+* mixek: to dream
 * misaa: fox
 * mo: stone (generic), something, object, item
 * moba: tough
@@ -206,17 +206,17 @@
 * neek: to get old
 * neirni: winter clothing, outer garment
 * nibaa: on a boat
-* nije: "afterlife", "the spiritual dimension"
-* noje: thought 
-* nojek: to think
-* nojere: wisdom
+* nixe: "afterlife", "the spiritual dimension"
+* noxe: thought 
+* noxek: to think
+* noxere: wisdom
 * no: night
 * nu: oats
 * o: now, present
 * oba: knee
 * ode: long
 * olo: today (‘this sun’)
-* oj: auch! (interjection)
+* ox: auch! (interjection)
 * oma: tomorrow (ma is more often used, as the spirits could take this word as a challenge against them)
 * onos: tonight
 * ool: often
@@ -226,7 +226,7 @@
 * pa: those days, the past
 * paoma
 * pabo: ankle
-* paj: ancestor
+* pax: ancestor
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
 * pek: to fish
@@ -274,8 +274,8 @@
 * telou: corpse
 * tepalou: bone
 * ti: head
-* tisje: mind, soul
-* tisjek: to understand
+* tisxe: mind, soul
+* tisxek: to understand
 * titata: stupid
 * tok: to swim
 * tu: a star, name 
