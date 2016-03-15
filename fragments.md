@@ -88,7 +88,7 @@ Eo
 2. brun tun oeoxek ([impersonal] blesses your name)
 3. brus dus gaek (your house come)
 4. olo bra lan af uebak (today, our food, to us give)
-5. ni dusxe ni dube bru eon osok (in sky in home [impersonal] do your word
+5. nidusxe nidube bru eon osok (in sky in home [impersonal] do your word
 6. af uebapak (you forgive us)
 7. de uutuuf aebapak (and we forgive all and everybody)
 8. peief ar ruidak
