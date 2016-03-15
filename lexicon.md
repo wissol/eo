@@ -105,6 +105,8 @@
 * ge: again
 * geopa: tounge
 * gis: yes
+* giya: care
+* giyak: to care, to watch
 * ginko: pig
 * gli: bear
 * go: tool, instrument
@@ -235,6 +237,7 @@
 * pax: ancestor
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
+* pei: test, temptation, oportunity
 * pek: to fish
 * pik: to bite
 * pipi: pee
