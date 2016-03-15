@@ -91,8 +91,8 @@ Eo
 5. ni dusxe ni dube bru eon osok (in sky in home [impersonal] do your word
 6. af uebapak (you forgive us)
 7. de uutuuf aebapak (and we forgive all and everybody)
-8. 
-9.
+8. peief ar ruidak
+9. taaxaa ar uoek
 
 English (traditional)
 ---
