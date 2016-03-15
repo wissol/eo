@@ -118,6 +118,7 @@
 * iaa: too, also, as well
 * ibo: fat(as in 'fat person')
 * id: chin
+* idak: to lead
 * ifa: good
 * ik: to wish, to want, to be alone, to be moody, to be sad
 * ili: boar
