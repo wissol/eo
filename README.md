@@ -22,7 +22,7 @@ Back then, it was winter. Er was at sea, fishing alone on his boat. An eagle, wh
 
 Eo is not a written language, so it lacks a script. We use roman letters to represent its sounds, just as they sound in Spanish except that g always sound soft, like in English.
 
-So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or long ( aa, ee, ii, oo, uu ) and 14 consonants ( b, d, f, g, j, k, l, m, n, p, r, s, t, y)
+So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or long ( aa, ee, ii, oo, uu ) and 14 consonants ( b, d, f, g, x, k, l, m, n, p, r, s, t, y)
 
 ## Some sentences
 
@@ -32,7 +32,6 @@ So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or
 - luk – I am hungry
 - ma aspek – We (exclusive) will fish tomorrow (are fishing tomorrow or some time in the near future).
 - euk – You come.
-- eirnik – It’s winter (pa eirnik – It was winter)
+- oirnik – It’s winter (pa oirnik – It was winter)
 - nosifan ik - I wish you good night (or good night)
--  tek do aim abek - (I am a human and I love life)
-
+- tek do aim abek - (I am a human and I love life)
