@@ -23,6 +23,7 @@
 | aika | blood | sangre | aikak (to bleed) [sangrar] |
 | ailea | grain | grano ||
 | air | summer | verano ||
+| aira | joy | gozo ||
 | axek             | to rain         | llover          | axe (rain)[lluvia]|
 | ala | seafood | marisco ||
 | ao | or (conj) | o (conj) ||
@@ -119,7 +120,7 @@
 * guk: to grind / I grind
 * i: alone
 * iba: hand
-* iaa: too, also, as well
+* iaa: too, also, as well (diaa, me too)
 * ibo: fat(as in 'fat person')
 * id: chin
 * idak: to lead
@@ -237,6 +238,7 @@
 * os: eye
 * ok: to look at, to see
 * oto: owl
+* oyak: too look for, to search
 * pa: those days, the past
 * paoma
 * pabo: ankle
@@ -300,6 +302,7 @@
 * tisxek: to understand
 * titata: stupid
 * tok: to swim
+* tra: in order to, for, to  
 * tu: a star, name 
 * tuf: up
 * tuu: the stars
