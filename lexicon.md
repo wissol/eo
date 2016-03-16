@@ -246,15 +246,19 @@
 * pu: flax seed, flax
 * ra: barley seed, barley
 * re: knowledge
-* ro: no
-* rob: weak, fragile
-* rok: to negate, to decline
 * ree: back
-* rek: to return, I return, I go back
+* reek: to return, I return, I go back
+* rek: to know
 * rira: fight
 * rirar: conflict (generic)
 * rirk: to fight
-* ruk: to know
+* ro: no
+* rob: weak, fragile
+* rok: to negate, to decline
+* ru: this
+* rut: these
+* ruba: that
+* rubat: those
 * r_: negation (rik - I don't need
 * si_ interrogative sisaifek? are you a boy? sisupak? are you hungry siutuk? what's your name?  
 * sa: child
