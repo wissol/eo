@@ -307,8 +307,8 @@
 * u + verb: second person, singular ( ulak: you eat)
 * ube: island
 * uka: change
-* ukak: to change
-* ukek: to grow up
+* uk: to change
+* uek: to grow up
 * ukokikeka: change, chaos, unexpected, bad magic
 * ukokikekak: to change in a strange fashion
 * us + verb: second person, plural ( ulak: you (group) eat)
