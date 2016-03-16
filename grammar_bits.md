@@ -8,11 +8,11 @@ when not applied, no gender is implied (te person, tefe, male person, tefi femal
 
 ## Personal pronuns
 
-|       | Singular	| Plural |
-|-------|:---------:|:------:|
-| First Person | 	_ (I)	| a / as+ (we) |
-| Second Person	| u (you) |	us (you) |
-| Third Person	| e (he/she/it) |	es (they) |
+|       | Singular	| Sing Masculine | Singular Feminine | Plural |
+|-------|:---------:|:------:|:------:|:------:|
+| First Person | 	_ (I)	| _ | _ | a / as+ (we) |
+| Second Person	| u (you) | ufe | ufi |	us (you) |
+| Third Person	| e (he/she/it) |fe | fi |	es (they) |
 | Impersonal | o (it rains) | |
 
 possesive pronouns bri+ personal pronoun  (my - bri, your - bru/brus, our bras/bra)
