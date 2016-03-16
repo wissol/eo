@@ -209,6 +209,9 @@
 * mosi: shrew
 * mou: pebble
 * mu: small, little, few
+* na: adult
+* nafe: adult man
+* nafi: adult woman
 * naba: elbow
 * naa: at sea, in the sea
 * ne: clothing 
