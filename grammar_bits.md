@@ -46,4 +46,10 @@ _x _[vowel]x ablative, movement from something, or cause: The victim went from u
 
 [1]_s_[2]  genitive 2 owns 1 -aspisRoa(Roa's spear)- or 1 is made of 2   caslaspe (cooked fish, lit. cooked food made of fish)
 
+_go instrumental xaego xak  (I walk with sandals) moutgo sasak (the boy plays with peebles)
+
+ki_ transform into something  ma kite sauka (the boy will become a man)
+
 plural _t  _[vowel]t or _ t _ 
+
+
