@@ -1,4 +1,4 @@
-## Original
+## pa oirnik
 
 #### pa oirnik.  naa niba i Erpek.  epoxeak.  eer Ereik.  nibaasEr epodoker do epoeok.  "ur aak, naa aa. pa nidumosaa uok. xee olo sek xee olo er uok."  Ereok. "dusef olo rek.  ma mixesusupa mek.  ma xee louk.."  
 
@@ -51,7 +51,7 @@ nidumos+saa contracted to nidumosaa
 11. Hoy acariciaré tus sueños blancos. (cuidaré de tus huesos, sueños blancos es forma poética de significar huesos)
 12. Mañana quizás muera.
 
-## Haiku
+## Haiku (xaiku)
 
 Eo
 ---
@@ -107,3 +107,14 @@ English (traditional)
 1. and lead us not into temptation,
 1. but deliver us from evil. Amen.
 
+# bru aira oyok
+
+pa fem fiok, supa tisxe. Rem saifetuk, Ura saifituk. Remeok: "pao uek de kina uk". Uraeok: "iaa pao uek".  "saaf gok tra bru aira oyok" - "diaa gok"
+
+Ella le miró, con la mente en blanco. Rem era la estrella del chico. Ura era la estrella de la chica.
+--He crecido, dijo el chico. --Soy un adulto.
+--Yo he crecido también.
+--Voy a las olas, a buscar tu alegría (o, ¿quieres ser mi chica?)
+--Yo también voy.
+
+She looked at him, empty mind. Rem was the boy's name(lit. star). Ura was the girl's name. "I have grown up, and I am an adult", Rem said,. Ura said: "I have grown up too".
