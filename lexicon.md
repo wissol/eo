@@ -153,7 +153,8 @@
 * kaba: hand
 * kek: to lose, to get lost
 * kerea: feather
-* ki: hard
+* kik: to transform
+* kip: hard
 * kli: wolf
 * ko: friend
 * ku: fear
