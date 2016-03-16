@@ -54,7 +54,7 @@ _x _[vowel]x ablative, movement from something, or cause: The victim went from u
 
 _go instrumental xaego xak  (I walk with sandals) moutgo sasak (the boy plays with peebles)
 
-ki_ transform into something  ma kite sauka (the boy will become a man)
+ki_ transform into something  kina sauka (the boy will become an adult)
 
 plural _t  _[vowel]t or _ t _ 
 
