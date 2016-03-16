@@ -1,5 +1,11 @@
 # Bits of Grammar
 
+## Gender
+
++ _fe masc
++ _fi feminine
+when not applied, no gender is implied (te person, tefe, male person, tefi female person)
+
 ## Personal pronuns
 
 |       | Singular	| Plural |
