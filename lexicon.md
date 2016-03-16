@@ -1,5 +1,7 @@
 # Lexicon
 
+> 321+ words!
+
 |  Eo           |  English      |  Spanish      | Examples and variants |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | a             | water         | agua          | |
@@ -288,6 +290,8 @@
 * telea: branch
 * telou: corpse
 * tepalou: bone
+* testaa: evil person
+* testa: sick or injured person
 * ti: head
 * tisxe: mind, soul
 * tisxek: to understand
