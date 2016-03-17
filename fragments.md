@@ -118,3 +118,17 @@ Ella le miró, con la mente en blanco. Rem era la estrella del chico. Ura era la
 --Yo también voy.
 
 She looked at him, empty mind. Rem was the boy's name(lit. star). Ura was the girl's name. "I have grown up, and I am an adult", Rem said,. Ura said: "I have grown up too".
+
+# mon aik, itak
+
+mon aik, itak
+ruutuu rik
+aimuk
+de airam linotitaik
+
+## Seikilos Epitaph
+
+shine while you live
+don't suffer for anything (don't desire anything)
+life is short
+and the day steals joy 
