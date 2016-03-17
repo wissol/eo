@@ -132,3 +132,14 @@ shine while you live
 don't suffer for anything (don't desire anything)
 life is short
 and the day steals joy 
+
+## From Deor's lament
+
+tbd
+
+We have heard that the Geat's moans for Matilda,
+his lady, were limitless,
+that his sorrowful love for her
+robbed him of regretless sleep.
+   That passed away; this also may.
+
