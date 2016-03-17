@@ -204,6 +204,7 @@
 * mixek: to dream
 * misaa: fox
 * mo: stone (generic), something, object, item
+* mop: while
 * moba: tough
 * mobli: hedgehog 
 * mok: to make things out of stone, to carve in stone
