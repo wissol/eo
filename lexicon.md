@@ -289,6 +289,7 @@
 * taba: neck
 * tak: to get worse, to get sick, to make a mistake
 * taa: evil
+* taafru : to steal, rob, snatch...
 * tataa: taboo, very bad juju stuff, something that offends the spirits, the ancestors and the universe
 * te: human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
 * teea: tree
