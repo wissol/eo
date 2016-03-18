@@ -1,6 +1,6 @@
 # Lexicon
 
-> 321+ words!
+> 322+ words!
 
 |  Eo           |  English      |  Spanish      | Examples and variants |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -68,7 +68,8 @@
 | dusxe | sky | cielo
 | e + verb | third person, singular | tercera persona, singular |
 | ea | plant | planta |
-* easa: flower
+| easa | flower | flor |
+| eabi | silence | silencio |
 * eba: gift
 * ebak: to give
 * ebapak: to forgive (lit to give the past)
