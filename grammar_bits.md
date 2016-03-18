@@ -58,4 +58,11 @@ ki_ transform into something  kina sauka (the boy will become an adult)
 
 plural _t  _[vowel]t or _ t _ 
 
+Adjective grades
+================
+| ifa | good |
+| mifa | better |
+| lifa | the best |
 
+* m/ma+_ comparative
+* l/la+_ superative
