@@ -62,6 +62,7 @@ Adjective grades
 ================
 
 | ifa | good |
+|-----|------|
 | mifa | better |
 | lifa | the best |
 
