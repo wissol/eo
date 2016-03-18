@@ -7,7 +7,7 @@ sometimes, silence speaks better
 
 ## pa oirnik
 
-#### pa oirnik.  naa niba i Erpek.  epoxeak.  eer Ereik.  nibaasEr epodoker do epoeok.  "ur aak, naa aa. pa nidumosaa uok. xee olo sek xee olo er uok."  Ereok. "dusef olo rek.  ma mixesusupa mek.  ma xee louk.."  
+#### pa oirnik.  naa niba i Erpek.  epoxeak.  eer Ereik.  nibaasEr epodoker do epoeok.  "ur aak, naa aa. pa nidumosaa uok. xee olo sek xee olo er uok."  Ereok. "dusef olo reek.  ma mixesusupa mek.  ma xee louk.."  
 
 1. pa oirnik.  
 2. naa niba i Erpek.  
