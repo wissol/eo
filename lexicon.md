@@ -70,9 +70,9 @@
 | ea | plant | planta |
 | easa | flower | flor |
 | eabi | silence | silencio |
-* eba: gift
-* ebak: to give
-* ebapak: to forgive (lit to give the past)
+| eba | gift | regalo |
+| ebak | to give |
+| ebapak | to forgive (lit to give the past) |
 * ee: father, wind
 * eek: to blow, to father, to act fatherly
 * ei: hello
