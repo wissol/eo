@@ -154,7 +154,7 @@
 * xli: bison
 * xo: but
 * xu: memory
-* xuk: to remeber
+* xuk: to remember
 * ka: hair
 * kaba: hand
 * kek: to lose, to get lost
@@ -207,6 +207,7 @@
 * mixek: to dream
 * misaa: fox
 * mo: stone (generic), something, object, item
+* moa: sometimes
 * mop: while
 * moba: tough
 * mobli: hedgehog 
