@@ -18,7 +18,7 @@ sometimes, silence speaks better
 7. pa nidumosaa uok.  
 8.  xee olo sek xee olo er uok
 9.   Ereok 
-10.  dusef olo rek
+10.  dusef olo reek
 11.  ma mixesusupa mek 
 12. ma xee louk..
 
