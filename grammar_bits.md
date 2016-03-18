@@ -60,6 +60,7 @@ plural _t  _[vowel]t or _ t _
 
 Adjective grades
 ================
+
 | ifa | good |
 | mifa | better |
 | lifa | the best |
