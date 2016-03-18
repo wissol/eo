@@ -99,7 +99,9 @@
 * fa: feminine, female
 * fe: masculine
 * fi: bug
+* fita: lightning
 * fli: badger
+* fo: victory, success
 * fok: can, to be able
 * fu: end
 * gak: to go
@@ -213,6 +215,7 @@
 * mobli: hedgehog 
 * mok: to make things out of stone, to carve in stone
 * mosi: shrew
+* mosfi: amber
 * mou: pebble
 * mu: small, little, few
 * na: adult
