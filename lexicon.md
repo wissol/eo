@@ -337,6 +337,7 @@
 * yi: generic container
 * yipe: fish / seafood pond
 * yok: to thank
+* yuk: to answer
 
 
 
