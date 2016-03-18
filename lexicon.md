@@ -97,6 +97,7 @@
 * eu: leg
 * eyak: to welcome
 * fa: feminine, female
+* fabak: to forget
 * fe: masculine
 * fi: bug
 * fita: lightning
