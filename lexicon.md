@@ -11,7 +11,7 @@
 | aax | surprise (interjection) | sorpresa, susto (interjección) |
 | aba | open | abierto ||
 | abak | to open | abrir ||
-| aak | to be a mother, to act motherly | ser madre, actuar maternarlmente ||
+| aak | to be a mother, to act motherly, to give birth | ser madre, actuar maternarlmente, dar a luz ||
 | abe | love, stream | amor, corriente, arroyo ||
 | abek | to love, to flow | amar, fluir ||
 | abo | door, gate, entrance, opening | puerta, entrada, abertura ||
@@ -73,9 +73,9 @@
 | eba | gift | regalo |
 | ebak | to give |
 | ebapak | to forgive (lit to give the past) |
-* ee: father, wind
-* eek: to blow, to father, to act fatherly
-* ei: hello
+| ee | father, wind | padre, papá, viento |
+| eek | to blow, to father, to act fatherly | soplar, actuar paternalmente, tener hijos |
+| ei | hello| hola |
 * eik: to greet
 * eio: family
 * eli: stoat
