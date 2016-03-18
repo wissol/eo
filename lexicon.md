@@ -1,6 +1,6 @@
 # Lexicon
 
-> 322+ words!
+> 330+ words!
 
 |  Eo           |  English      |  Spanish      | Examples and variants |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -153,6 +153,8 @@
 * xik: to cut, to tear, to split 
 * xli: bison
 * xo: but
+* xu: memory
+* xuk: to remeber
 * ka: hair
 * kaba: hand
 * kek: to lose, to get lost
