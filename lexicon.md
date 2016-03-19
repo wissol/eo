@@ -96,15 +96,15 @@
 | eotak | to curse, to insult | insultar, maldecir |
 | eu |  leg | pierna | 
 | eyak | to welcome | dar la bienvenida |
-* fa: feminine, female
-* fabak: to forget
-* fe: masculine
-* fi: bug
-* fita: lightning
-* fli: badger
-* fo: victory, success
-* fok: can, to be able
-* fu: end
+| fa | feminine, female | femenino, hembra
+| fabak | to forget | olvidar
+| fe | masculine, male | masculinol, macho
+| fi | bug | bicho |
+| fita | lightning | rayo |
+| fli | badger | tejón |
+| fo | victory, success | victoria, éxito |
+| fok | can, to be able | poder, ser capaz |
+| fu | end | fin |
 * gak: to go
 * gabak: to help
 * gaek: to come
