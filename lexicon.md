@@ -2,7 +2,7 @@
 
 > 330+ words!
 
-|  Eo           |  English      |  Spanish      | Examples and variants |
+|  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | a             | water         | agua          | |
 | a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) [comemos] |
@@ -76,26 +76,26 @@
 | ee | father, wind | padre, papá, viento |
 | eek | to blow, to father, to act fatherly | soplar, actuar paternalmente, tener hijos |
 | ei | hello| hola |
-* eik: to greet
-* eio: family
-* eli: stoat
-* elok: to trade
-* eo: words, language
-* eoxe: blessing, magic word
-* eoxek: to bless
-* eok: to speak, to talk, to communicate
-* eop: mouth
-* eopak: to tell a story
-* eopatak: to regret
-* eosa: poem
-* ep: or (conj)
-* erk: to perch on, to stand on
-* epo: family-bird, eagle
-* es + verb: third person, plural
-* eota: unpolite word
-* eotak: to curse, to insult
-* eu: leg
-* eyak: to welcome
+| eik | to greet | saludar |
+| eio | family | familia |
+| eli | stoat | armiño |
+| elok | to trade | comerciar |
+| eo | words, language | palabra, idioma |
+| eoxe | blessing, magic word | bendición, palabra mágica |
+| eoxek | to bless | bendecir |
+| eok | to speak, to talk, to communicate | hablar, comunicar |
+| eop | mouth | boca |
+| eopak | to tell a story | contar una historia |
+| eopatak | to regret | lamentar |
+| eosa | poem | poema |
+| ep | or (conj) | o (conj) |
+| erk | to perch on, to stand on | posarse, estar de pie, estar en un lugar |
+| epo | family-bird, eagle | pájaro familia, águila | Eagles are the messengers of ancestors |
+| es + verb | third person, plural | tercera persona, plural |
+| eota | unpolite word | insulto |
+| eotak | to curse, to insult | insultar, maldecir |
+| eu |  leg | pierna | 
+| eyak | to welcome | dar la bienvenida |
 * fa: feminine, female
 * fabak: to forget
 * fe: masculine
