@@ -1,6 +1,6 @@
 # Lexicon
 
-> 330+ words!
+> 346+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -32,6 +32,7 @@
 | aspiya | spear (commonly shortened to aspi) | lanza (normalmente se abrevia a aspi ||
 | ate | tired | cansado(a) | atek (I'm tired)[estoy cansado(a)]|
 | au | tear | lágrima |
+| auk | cry, moan | llorar, sollozar |
 | ayea | grass | hierba ||
 | baa | boat, canoe | barca, canoa ||
 | baak | to sail | navegar ||
