@@ -107,26 +107,28 @@
 | fo | victory, success | victoria, éxito |
 | fok | can, to be able | poder, ser capaz |
 | fu | end | fin |
-* gak: to go
-* gabak: to help
-* gaek: to come
-* gala: basket
-* ge: again
-* geopa: tounge
-* gis: yes
-* giya: care
-* giyak: to care, to watch
-* ginko: pig
-* gli: bear
-* go: tool, instrument
-* gok: to use
-* gruka: meeting
-* gruf: dog
-* gud: flour
-* guk: to grind / I grind
-* i: alone
-* iba: hand
+| gak | to go| ir 
+| gabak | to help | ayudar |
+| gaek | to come | venir |
+| gala | basket | cesta |
+| ge | again | de nuevo |
+| geopa | tounge | lengua |
+| gis | yes | sí |
+| giya | care | cuidado |
+| giyak | to care, to watch | cuidar, observar |
+| ginko | pig | cerdo |
+| gli | bear | oso | 
+| go | tool, instrument | herramienta, instrumento |
+| gok | to use | usar |
+| gruka | meeting | encuentro |
+| gruf | dog | perro
+| gud | flour | harina 
+| guk | to grind | moler |
+| guo | ax | hacha |
+| i | alone | solo (en soledad) |
+
 * iaa: too, also, as well (diaa, me too)
+* iba: hand
 * ibo: fat(as in 'fat person')
 * id: chin
 * idak: to lead
@@ -144,22 +146,7 @@
 * iryi: cloud
 * isak: to be handsome, beautiful..
 * ita: light, candle
-* xa: foot
-* xae: sandal
-* xaa: barefoot
-* xak: to walk, I walk
-* xali: goat
-* xam: boot, shoe
-* xe: spirit
-* xek: to do magic, divination...
-* xeak: to fly ("to walk in the spirts)
-* xee: maybe, chance, perhaps
-* xeso: festivity, feast
-* xik: to cut, to tear, to split 
-* xli: bison
-* xo: but
-* xu: memory
-* xuk: to remember
+
 * ka: hair
 * kaba: hand
 * kek: to lose, to get lost
@@ -333,6 +320,24 @@
 * uuna: puffin
 * uupeo: sound, noise
 * uutuu: "all and all", the world, the universe
+* 
+* xa: foot
+* xae: sandal
+* xaa: barefoot
+* xak: to walk, I walk
+* xali: goat
+* xam: boot, shoe
+* xe: spirit
+* xek: to do magic, divination...
+* xeak: to fly ("to walk in the spirts)
+* xee: maybe, chance, perhaps
+* xeso: festivity, feast
+* xik: to cut, to tear, to split 
+* xli: bison
+* xo: but
+* xu: memory
+* xuk: to remember
+* 
 * yas: fire
 * yaso: 'chimney' (actually a hole or opening in the ceeling/roof/tent)
 * yasef: south
