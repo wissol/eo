@@ -134,22 +134,22 @@
 | ibo | fat(as in 'fat person') | gordo |
 | iko | false | falso
 | ikostaa | evil lie | mentira perversa |
-* id: chin
-* idak: to lead
-* ifa: good
-* ik: to wish, to want, to be alone, to be moody, to be sad
-* ili: boar
-* ipo: bird
-* ipoxe: song
-* ipoxek: to sing
-* ingo: tooth
-* iri: cold
-* irnif: north
-* irnik: To be winter
-* irok: to climb
-* iryi: cloud
-* isak: to be handsome, beautiful..
-* ita: light, candle
+| id |  chin
+| idak |  to lead
+|  ifa |  good
+|  ik |  to wish, to want, to be alone, to be moody, to be sad
+|  ili |   boar
+|  ipo |  bird
+|  ipoxe |  song
+|  ipoxek |  to sing
+|  ingo |  tooth
+|  iri |  cold
+|  irnif |  north
+|  irnik |  To be winter
+|  irok |  to climb
+|  iryi |    cloud | 
+|  isak |  to be handsome, beautiful.. | 
+|  ita |  light, candle | 
 * ka: hair
 * kaba: hand
 * kek: to lose, to get lost
