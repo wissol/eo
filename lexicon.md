@@ -93,9 +93,11 @@
 | ep | or (conj) | o (conj) |
 | erk | to perch on, to stand on | posarse, estar de pie, estar en un lugar |
 | epo | family-bird, eagle | pájaro familia, águila | Eagles are the messengers of ancestors |
-| es + verb | third person, plural | tercera persona, plural |
+| eosiko | lie | mentira |
+| eosik | to lie | mentir |
 | eota | unpolite word | insulto |
 | eotak | to curse, to insult | insultar, maldecir |
+| es + verb | third person, plural | tercera persona, plural |
 | eu |  leg | pierna | 
 | eyak | to welcome | dar la bienvenida |
 | fa | feminine, female | femenino, hembra
@@ -126,10 +128,11 @@
 | guk | to grind | moler |
 | guo | ax | hacha |
 | i | alone | solo (en soledad) |
-
-* iaa: too, also, as well (diaa, me too)
-* iba: hand
-* ibo: fat(as in 'fat person')
+| iaa|  too, also, as well (diaa, me too)| 
+| iba | hand | mano
+| ibo | fat(as in 'fat person') | gordo |
+| iko | false | falso
+| ikostaa | evil lie | mentira perversa |
 * id: chin
 * idak: to lead
 * ifa: good
@@ -146,7 +149,6 @@
 * iryi: cloud
 * isak: to be handsome, beautiful..
 * ita: light, candle
-
 * ka: hair
 * kaba: hand
 * kek: to lose, to get lost
