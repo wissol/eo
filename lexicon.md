@@ -31,6 +31,7 @@
 | aspi | spear point, also short for spear | punta de lanza, también lanza (abreviado) ||
 | aspiya | spear (commonly shortened to aspi) | lanza (normalmente se abrevia a aspi ||
 | ate | tired | cansado(a) | atek (I'm tired)[estoy cansado(a)]|
+| au | tear | lágrima |
 | ayea | grass | hierba ||
 | baa | boat, canoe | barca, canoa ||
 | baak | to sail | navegar ||
