@@ -329,7 +329,7 @@
 * xak: to walk, I walk
 * xali: goat
 * xam: boot, shoe
-| xask | to run | correr
+* xask: to run  correr
 * xe: spirit
 * xek: to do magic, divination...
 * xeak: to fly ("to walk in the spirts)
