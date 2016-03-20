@@ -1,6 +1,6 @@
 # Lexicon
 
-> 346+ words!
+> 353+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -99,6 +99,7 @@
 | eotak | to curse, to insult | insultar, maldecir |
 | es + verb | third person, plural | tercera persona, plural |
 | eu |  leg | pierna | 
+| euk | kick | dar una patada |
 | eyak | to welcome | dar la bienvenida |
 | fa | feminine, female | femenino, hembra
 | fabak | to forget | olvidar
@@ -322,13 +323,13 @@
 * uuna: puffin
 * uupeo: sound, noise
 * uutuu: "all and all", the world, the universe
-* 
 * xa: foot
 * xae: sandal
 * xaa: barefoot
 * xak: to walk, I walk
 * xali: goat
 * xam: boot, shoe
+| xask | to run | correr
 * xe: spirit
 * xek: to do magic, divination...
 * xeak: to fly ("to walk in the spirts)
@@ -339,7 +340,6 @@
 * xo: but
 * xu: memory
 * xuk: to remember
-* 
 * yas: fire
 * yaso: 'chimney' (actually a hole or opening in the ceeling/roof/tent)
 * yasef: south
