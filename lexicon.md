@@ -150,16 +150,18 @@
 |  iryi |    cloud | 
 |  isak |  to be handsome, beautiful.. | 
 |  ita |  light, candle | 
-* ka: hair
-* kaba: hand
-* kek: to lose, to get lost
-* kerea: feather
-* kik: to transform
-* kip: hard
-* kli: wolf
-* ko: friend
-* ku: fear
-* kuk: to be afraid (yukuk! you have frightened me!)
+| ka | hair | pelo 
+| kaba | hand | mano
+| kek | to lose, to get lost | perder, perderse 
+| kerea | feather | pluma 
+| kik | to transform | transformar 
+| kip | hard | duro
+| kli | wolf | lobo
+| ko | friend | amigo
+| kri | true, truth | verdad, verdadero |
+| krik | to be true | ser cierto, ser verdad |
+| ku | fear | miedo |
+| kuk | to be afraid (yukuk! you have frightened me!) | estar asustado |
 * la: food
 * laab: mud
 * laba: finger
