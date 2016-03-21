@@ -162,35 +162,35 @@
 | krik | to be true | ser cierto, ser verdad |
 | ku | fear | miedo |
 | kuk | to be afraid (yukuk! you have frightened me!) | estar asustado |
-* la: food
-* laab: mud
-* laba: finger
-* labe: farmland, plot for crops
-* labek: to sow
-* laeasa: fruit
-* lak: to eat
-* lasnu: porridge
-* laya: spring
-* laaik: to gather seafood and/or seaweeds
-* lek: to gather food, to haverst*
-* libo: edible fat (lipid)
-* lino: day
-* li: ear
-* lik: to hear
-* lili: hare
-* lilak: to listen
-* lo: sun
-* lob: big
-* logef: west
-* lonu: morning, birth
-* lonuf: east
-* lorelorelore: the moon
-* lou: evening, death
-* louk: to die
-* lu: hunger, lack, need
-* lufa: rope
-* lufi: worm
-* luk: to be hungry
+| la | food
+| laab | mud
+| laba | finger
+| labe | farmland, plot for crops
+| labek | to sow
+| laeasa | fruit
+| lak | to eat
+| lasnu | porridge
+|laya | spring
+| laaik | to gather seafood and/or seaweeds
+| lek | to gather food, to haverst*
+|libo | edible fat (lipid)
+| lino | day
+| li | ear
+| lik | to hear
+| lili | hare
+| lilak | to listen
+| lo | sun
+| lob | big
+| logef | west
+| lonu: morning, birth
+| lonuf | east
+| lore | the moon
+| lou | evening, death
+| louk | to die
+| lu  | hunger, lack, need
+| lufa | rope
+| lufi | worm
+| luk | to be hungry
 * ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 * ma: morrow, future
 * maba: shoulder
