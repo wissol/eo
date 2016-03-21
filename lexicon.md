@@ -102,6 +102,8 @@
 | euk | kick | dar una patada |
 | eyak | to welcome | dar la bienvenida |
 | fa | feminine, female | femenino, hembra
+| fra | fear | miedo
+| frak | to fear  | tener miedo |
 | fabak | to forget | olvidar
 | fe | masculine, male | masculinol, macho
 | fi | bug | bicho |
