@@ -184,7 +184,7 @@
 | lo | sun
 | lob | big
 | logef | west
-| lonu: morning, birth
+| lonu | morning | birth
 | lonuf | east
 | lore | the moon
 | lou | evening, death
