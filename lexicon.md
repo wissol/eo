@@ -193,13 +193,14 @@
 | lufa | rope
 | lufi | worm
 | luk | to be hungry
-* ...m... : hate, (a humming sound) the actual word for hate went into disuse as it is considered unlucky
-* ma: morrow, future
-* maba: shoulder
-* mai: mouse
-* mek: to caress
-* meik: to mend, to heal
-* mi: sleep
+| ...m... | hate | odio | (a humming sound) the actual word for hate went into disuse as it is considered unlucky
+| ma | morrow, future |
+| maba | shoulder |
+| mai  | mouse |
+| mek |to caress |
+| meik | to mend, to heal |
+| mi | sleep|
+| mib | hat |
 * mixe: dream
 * miax: wale
 * mik: to sleep
