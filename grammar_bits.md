@@ -58,6 +58,8 @@ ki_ transform into something  kina sauka (the boy will become an adult)
 
 _mo 'copulative case' (Normally you would use a verb -- 'usak' you are a child, 'emairak' he is very joyful -- but t you may simply add _mo as in 'yumo oeabik' -- keeping silent is an answer instead of yueabik --silence answers-- )
 
+ir_ member, native, belonging, habitant -- irTameta member of the Tameta family irBru, native of Bru island, esirBruk They are from Bruk, 
+
 plural _t  _[vowel]t or _ t _ 
 
 Adjective grades
