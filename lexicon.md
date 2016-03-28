@@ -42,6 +42,7 @@
 | bli | needle | aguja ||
 | bo | thin | delgado ||
 | c | | | new letter, sound ʃ, 
+| cak | to believe | creer | |
 | _d_ _d[vowel]_ / de | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
 | da | work | obra ||
 | dak | to work | trabajar ||
