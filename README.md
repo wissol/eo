@@ -20,9 +20,9 @@ Back then, it was winter. Er was at sea, fishing alone on his boat. An eagle, wh
 
 ## Script
 
-Eo is not a written language, so it lacks a script. We use roman letters to represent its sounds, just as they sound in Spanish except that g always sound soft, like in English.
+Eo is not a written language, so it lacks a script. We use roman letters to represent its sounds, just as they sound in Spanish except that g always sound soft, like in English and c which is pronounced like the sh in shame.
 
-So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or long ( aa, ee, ii, oo, uu ) and 14 consonants ( b, d, f, g, x, k, l, m, n, p, r, s, t, y)
+So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or long ( aa, ee, ii, oo, uu ) and 14 consonants ( b, c, d, f, g, x, k, l, m, n, p, r, s, t, y)
 
 ## Some sentences
 
@@ -36,3 +36,5 @@ So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or
 - nosifan ik - I wish you good night (or good night)
 - tek do aim abek - (I am a human and I love life)
 - moa lifa yueok - (Sometimes, silence speaks better)
+- aaxem cak - (I believe/trust in the ocean spirit)
+-
