@@ -201,23 +201,23 @@
 | mai  | mouse |
 | mek |to caress |
 | meik | to mend, to heal |
-| mi | sleep|
+| mi | sleep |
 | mib | hat |
-* mixe: dream
-* miax: wale
-* mik: to sleep
-* mixek: to dream
-* misaa: fox
-* mo: stone (generic), something, object, item
-* moa: sometimes
-* mop: while
-* moba: tough
-* mobli: hedgehog 
-* mok: to make things out of stone, to carve in stone
-* mosi: shrew
-* mosfi: amber
-* mou: pebble
-* mu: small, little, few
+| mixe | dream |
+| miax | wale |
+| mik | to sleep |
+| mixek | to dream |
+| misaa | fox |
+| mo | stone (generic), something, object, item |
+| moa | sometimes |
+| moba | tough |
+| mobli | hedgehog |
+| mok | to make things out of stone, to carve in stone |
+| mop | while |
+| mosi | shrew |
+| mosfi | amber |
+| mou | pebble |
+| mu | small, little, few |
 * na: adult
 * nafe: adult man
 * nafi: adult woman
