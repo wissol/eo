@@ -1,6 +1,6 @@
 # Lexicon
 
-> 355+ words!
+> 360+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -41,8 +41,10 @@
 | bi | arm | brazo ||
 | bli | needle | aguja ||
 | bo | thin | delgado ||
-| c | | | new letter, sound ʃ, 
+| c | | | new letter, sound ʃ, |
+| ca | faith, trust | fe, confianza |
 | cak | to believe | creer | |
+| cek | to crawl | arrastrarse ||
 | _d_ _d[vowel]_ / de | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
 | da | work | obra ||
 | dak | to work | trabajar ||
