@@ -37,4 +37,4 @@ So we have five vowels which can be pronounced either short ( a, e, i, o, u ) or
 - tek do aim abek - (I am a human and I love life)
 - moa lifa yueok - (Sometimes, silence speaks better)
 - aaxem cak - (I believe/trust in the ocean spirit)
--
+- dusxem ir urtaaik - (You can't take the sky from me)
