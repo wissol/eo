@@ -45,6 +45,8 @@
 | ca | faith, trust | fe, confianza |
 | cak | to believe | creer | |
 | cek | to crawl | arrastrarse ||
+| ci | calm, quiet | calma, tranquilidad |
+| cio | peace | paz |
 | _d_ _d[vowel]_ / de | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
 | da | work | obra ||
 | dak | to work | trabajar ||
