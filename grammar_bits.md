@@ -10,10 +10,12 @@ when not applied, no gender is implied (te person, tefe, male person, tefi femal
 
 |       | Singular	| Sing Masculine | Singular Feminine | Plural |
 |-------|:---------:|:------:|:------:|:------:|
-| First Person | 	_ (I)	| _ | _ | a / as+ (we) |
+| First Person | 	_ i (I)	| _ ife | _ ifi | a / as+ (we) |
 | Second Person	| u (you) | ufe | ufi |	us (you) |
 | Third Person	| e (he/she/it) |fe | fi |	es (they) |
 | Impersonal | o (it rains) | |
+
+First person singular is normally ellicit
 
 possesive pronouns bri+ personal pronoun  (my - bri, your - bru/brus, our bras/bra)
 
