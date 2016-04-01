@@ -1,6 +1,6 @@
 # Lexicon
 
-> 360+ words!
+> 370+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -49,7 +49,13 @@
 | cek | to crawl | arrastrarse ||
 | ci | calm, quiet | calma, tranquilidad |
 | cio | peace | paz |
+| cu | taste | gusto |
+| cuba | sweet | dulce |
 | cubaa | berry | baya |
+| cube | salty | salado |
+| cura | bitter | amargo | 
+| cure | tart | agrio |
+| cut | hot taste | picante |
 | _d_ _d[vowel]_ / de | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
 | da | work | obra ||
 | dak | to work | trabajar ||
