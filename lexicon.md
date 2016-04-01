@@ -33,6 +33,8 @@
 | ate | tired | cansado(a) | atek (I'm tired)[estoy cansado(a)]|
 | au | tear | lágrima |
 | auk | cry, moan | llorar, sollozar |
+| aumik | to have sad dreams or thoughts , to be depressed | soñar sueños tristes o pensamientos tristes, estar deprimido|
+| aurolak | to lose a child | perder a un hijo/a |
 | ayea | grass | hierba ||
 | baa | boat, canoe | barca, canoa ||
 | baak | to sail | navegar ||
