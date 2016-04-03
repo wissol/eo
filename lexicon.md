@@ -45,6 +45,7 @@
 | bo | thin | delgado ||
 | c | | | new letter, sound ʃ, |
 | ca | faith, trust | fe, confianza |
+| caa | spring (as source of a stream) |
 | cak | to believe | creer | |
 | cek | to crawl | arrastrarse ||
 | ci | calm, quiet | calma, tranquilidad |
@@ -187,7 +188,7 @@
 | laeasa | fruit
 | lak | to eat
 | lasnu | porridge
-|laya | spring
+|laya | spring(season)
 | laaik | to gather seafood and/or seaweeds
 | lek | to gather food, to haverst*
 |libo | edible fat (lipid)
