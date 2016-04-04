@@ -1,6 +1,6 @@
 # Lexicon
 
-> 370+ words!
+> 376+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -8,6 +8,7 @@
 | a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) [comemos] |
 | aa | mother, sea | madre, mar | |
 | aai | seaweed | algas ||
+| aala | alway | siempre |
 | aax | surprise (interjection) | sorpresa, susto (interjección) |
 | aba | open | abierto ||
 | abak | to open | abrir ||
@@ -232,22 +233,22 @@
 | mosfi | amber |
 | mou | pebble |
 | mu | small, little, few |
-* na: adult
-* nafe: adult man
-* nafi: adult woman
-* naba: elbow
-* naa: at sea, in the sea
-* ne: clothing 
-* nee: old
-* neek: to get old
-* neirni: winter clothing, outer garment
-* nibaa: on a boat
-* nixe: "afterlife", "the spiritual dimension"
-* noxe: thought 
-* noxek: to think
-* noxere: wisdom
-* no: night
-* nu: oats
+| na | adult | adulto
+| nafe | adult man |
+| nafi|  adult woman
+| naba|  elbow
+| naa|  at sea, in the sea
+| ne|  clothing 
+| nee|  old
+|  neek|  to get old
+|  neirni|  winter clothing, outer garment
+|  nibaa|  on a boat
+| nixe|  "afterlife", "the spiritual dimension"
+| noxe|  thought 
+| noxek|  to think
+| noxere|  wisdom
+| no| night
+| nu|  oats
 * o: now, present
 * oba: knee
 * ode: long
@@ -285,6 +286,7 @@
 * ro: no
 * rob: weak, fragile
 * rok: to negate, to decline
+* rool: never
 * ru: this
 * rut: these
 * ruba: that
