@@ -268,12 +268,14 @@
 | oto | owl
 | oyak |  too look for, to search
 * pa: those days, the past
-* paoma
+* paoma: ? 
 * pabo: ankle
 * pax: ancestor
 * paxyol: heritage, inheritance, tradition
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
+* pebo: warm
+* pebok: to warm something up
 * pei: test, temptation, oportunity
 * pek: to fish
 * pik: to bite
