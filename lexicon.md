@@ -130,6 +130,7 @@
 | fo | victory, success | victoria, éxito |
 | fok | can, to be able | poder, ser capaz |
 | fu | end | fin |
+| fuk | to finish | terminar |
 | gak | to go| ir 
 | gabak | to help | ayudar |
 | gaek | to come | venir |
