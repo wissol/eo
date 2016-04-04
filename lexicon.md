@@ -275,6 +275,7 @@
 * pei: test, temptation, oportunity
 * pek: to fish
 * pik: to bite
+* pima: moss
 * pipi: pee
 * pipik: to pee
 * pok: to make love
