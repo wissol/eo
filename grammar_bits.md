@@ -38,6 +38,8 @@ Verbs (and verbs only) end with a k, with no variations for either tense. There 
 y_ or y[vowel]_ forms the reflexive (this happened to the speaker as in yueok "you told me")
 r_ (this happened to the subject rueok "you told yourself")
 
+Evidentiality: ca + verb (Certainty, ecadak "I am absolutely sure he works" ) co (Belief, I suspect, ucolifak "I think you are the best), ca + subject + cu + verb (subject told me, ecaRurcaeek "Rur told me he is a father"), (ci, assumption, escidak, "they work, I gather")
+
 ## Cases
 
 _n _im  _m  _om forms the accusative (aka sorta “direct object” ) according to the speaker preference. So lam (food) or osim (eye) are in the accusative.
