@@ -48,6 +48,7 @@
 | ca | faith, trust | fe, confianza |
 | caa | spring (as source of a stream) |
 | cak | to believe | creer | |
+| ced | sand | arena |
 | cek | to crawl | arrastrarse ||
 | ci | calm, quiet | calma, tranquilidad |
 | cio | peace | paz |
