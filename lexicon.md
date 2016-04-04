@@ -1,6 +1,6 @@
 # Lexicon
 
-> 376+ words!
+> 380+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -251,12 +251,13 @@
 | noxere|  wisdom
 | no| night
 | nu|  oats
-* o: now, present
+| o | now, present |
 * oba: knee
 * ode: long
 * oek: protect, defend
 * olo: today (‘this sun’)
 * ox: auch! (interjection)
+* oxa : debt, duty
 * oma: tomorrow (ma is more often used, as the spirits could take this word as a challenge against them)
 * onos: tonight
 * ool: often
@@ -268,6 +269,7 @@
 * paoma
 * pabo: ankle
 * pax: ancestor
+* paxyol: heritage, inheritance, tradition
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
 * pei: test, temptation, oportunity
@@ -374,6 +376,7 @@
 * ye: dirty
 * yi: generic container
 * yipe: fish / seafood pond
+* yolik: to be entitled to, to have a right to 
 * yok: to thank
 * yuk: to answer
 
