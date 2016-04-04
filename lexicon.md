@@ -35,6 +35,7 @@
 | au | tear | lágrima |
 | auk | cry, moan | llorar, sollozar |
 | aumik | to have sad dreams or thoughts , to be depressed | soñar sueños tristes o pensamientos tristes, estar deprimido|
+| aurola | tragedy, disaster | tragedia, desastre |
 | aurolak | to lose a child | perder a un hijo/a | or a tragedy of that sort |
 | ayea | grass | hierba ||
 | baa | boat, canoe | barca, canoa ||
@@ -380,8 +381,6 @@
 * yolik: to be entitled to, to have a right to 
 * yok: to thank
 * yuk: to answer
-
-
 
 ## Words / Concepts that do not exist in Eo
 
