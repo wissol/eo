@@ -253,19 +253,20 @@
 | no| night
 | nu|  oats
 | o | now, present |
-* oba: knee
-* ode: long
-* oek: protect, defend
-* olo: today (‘this sun’)
-* ox: auch! (interjection)
-* oxa : debt, duty
-* oma: tomorrow (ma is more often used, as the spirits could take this word as a challenge against them)
-* onos: tonight
-* ool: often
-* os: eye
-* ok: to look at, to see
-* oto: owl
-* oyak: too look for, to search
+| oba | knee |
+| ode | long |
+| oek | protect, defend |
+| olo |  today (‘this sun’)
+| ool |  often
+| ox |  auch! (interjection)
+| oxa |  debt, duty
+| oma |  tomorrow (ma is more often used, as the spirits could take this word as a challenge against them)
+| oniak | to wait | esperar |
+| onos |  tonight
+| os |  eye
+| ok | to look at, to see
+| oto | owl
+| oyak |  too look for, to search
 * pa: those days, the past
 * paoma
 * pabo: ankle
