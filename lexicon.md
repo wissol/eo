@@ -173,6 +173,7 @@
 |  irok |  to climb
 |  iryi |    cloud | 
 |  isak |  to be handsome, beautiful.. | 
+| isat emat | beautiful sprouts, the first month of winter |
 |  ita |  light, candle | 
 | ka | hair | pelo 
 | kaba | hand | mano
