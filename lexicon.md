@@ -101,6 +101,8 @@
 | eio | family | familia |
 | eli | stoat | armiño |
 | elok | to trade | comerciar |
+| ema | sprout | brote |
+| emak | to sprout | brotar |
 | eo | words, language | palabra, idioma |
 | eoxe | blessing, magic word | bendición, palabra mágica |
 | eoxek | to bless | bendecir |
