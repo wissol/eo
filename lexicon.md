@@ -278,7 +278,9 @@
 | pabo | ankle |
 | paxe | ancestor |
 | paxyol | heritage, inheritance, tradition |
-* panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
+| panos | ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands. |
+| par | simple |
+| park | make simple |
 * pe: fish
 * pebo: warm
 * pebok: to warm something up
