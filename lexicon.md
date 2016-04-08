@@ -1,6 +1,6 @@
 # Lexicon
 
-> 380+ words!
+> 390+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -235,6 +235,7 @@
 | mobli | hedgehog |
 | mok | to make things out of stone, to carve in stone |
 | mop | while |
+| more | month, there are sixteen of theese |
 | mosi | shrew |
 | mosfi | amber |
 | mou | pebble |
@@ -270,11 +271,11 @@
 | ok | to look at, to see
 | oto | owl
 | oyak |  too look for, to search
-* pa: those days, the past
-* paoma: ? 
-* pabo: ankle
-* pax: ancestor
-* paxyol: heritage, inheritance, tradition
+| pa | those days, the past |
+| paoma | something that began in the past but it's not already ended |
+| pabo | ankle |
+| paxe | ancestor |
+| paxyol | heritage, inheritance, tradition |
 * panos: ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands.
 * pe: fish
 * pebo: warm
