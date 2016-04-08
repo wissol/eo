@@ -1,6 +1,6 @@
 # Lexicon
 
-> 390+ words!
+> 400+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -44,6 +44,7 @@
 | babaa | sheep | oveja ||
 | berni | crab | cangrejo ||
 | bi | arm | brazo ||
+| bla | fishing line ||
 | bli | needle | aguja ||
 | bo | thin | delgado ||
 | c | | | new letter, sound ʃ, |
@@ -81,6 +82,7 @@
 | dok | to go down, to humble | descender, humillarse
 | domik | to go to sleep | ir a dormir
 | dopak | to ask for forgiveness | pedir perdón
+| dromo | net | red |
 | duu | body | cuerpo
 | duuk | to be naked | estar desnudo
 | dubaa | mountain, hill | montaña o colina
@@ -235,6 +237,7 @@
 | moa | sometimes |
 | moba | tough |
 | mobli | hedgehog |
+| mogo | scrapper (tool) |
 | mok | to make things out of stone, to carve in stone |
 | mop | while |
 | more | month, there are sixteen of theese |
@@ -281,11 +284,13 @@
 | panos | ancient mythical time, before the Wind blew on the Sea and the waves turned into foam and the First Potter worked the  foam into islands. |
 | par | simple |
 | park | make simple |
-* pe: fish
-* pebo: warm
-* pebok: to warm something up
-* pei: test, temptation, oportunity
-* pek: to fish
+| pe | fish
+| pebo | warm |
+| pebok | to warm something up
+| pego | adze |
+| pei| test, temptation, oportunity
+| pek| to fish
+* pli: scrapper (tool)
 * pik: to bite
 * pima: moss
 * pipi: pee
@@ -305,6 +310,7 @@
 * rok: to negate, to decline
 * rool: never
 * ru: this
+* rugo: hammer
 * rut: these
 * ruba: that
 * rubat: those
@@ -322,6 +328,7 @@
 * sek: to stay
 * ser: young
 * silki: seal
+* sogo: chisel
 * sok: to do / to make
 * suma: black (color), filled, wealthy, fed
 * supa: white (color), clear, empty, hungry
@@ -340,6 +347,7 @@
 * testaa: evil person
 * testa: sick or injured person
 * ti: head
+* tigo: burin
 * tisxe: mind, soul
 * tisxek: to understand
 * titata: stupid
@@ -351,6 +359,7 @@
 * truka: tradition
 * u + verb: second person, singular ( ulak: you eat)
 * ube: island
+* ugo: awl
 * uka: change
 * uk: to change
 * uek: to grow up
@@ -375,9 +384,11 @@
 * xeak: to fly ("to walk in the spirts)
 * xee: maybe, chance, perhaps
 * xeso: festivity, feast
+* xigo: sickle
 * xik: to cut, to tear, to split 
 * xli: bison
 * xo: but
+* xogo: fishing hook
 * xu: memory
 * xuk: to remember
 * yas: fire
