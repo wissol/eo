@@ -16,6 +16,7 @@
 | abe | love, stream | amor, corriente, arroyo ||
 | abek | to love, to flow | amar, fluir ||
 | abo | door, gate, entrance, opening | puerta, entrada, abertura ||
+| ae | sibling | hermano/a |
 | aeli | otter | nutria ||
 | ai | life | vida ||
 | aii | seed | semilla ||
