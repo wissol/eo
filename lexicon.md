@@ -103,6 +103,7 @@
 | eli | stoat | armiño |
 | elok | to trade | comerciar |
 | ema | sprout | brote |
+| emee | baby | bebé |
 | emak | to sprout | brotar |
 | eo | words, language | palabra, idioma |
 | eoxe | blessing, magic word | bendición, palabra mágica |
