@@ -241,6 +241,7 @@
 | mok | to make things out of stone, to carve in stone |
 | mop | while |
 | more | month, there are sixteen of theese |
+| moseba | a painting
 | mosi | shrew |
 | mosfi | amber |
 | mou | pebble |
@@ -328,6 +329,9 @@
 * saifi: girl
 * sak: to play, to be a child
 * saa: waves
+* se: place
+* seba: paint
+* sebak: to paint
 * sek: to stay
 * ser: young
 * silki: seal
