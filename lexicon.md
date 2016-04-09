@@ -218,10 +218,12 @@
 | louk | to die
 | lu  | hunger, lack, need
 | lufa | rope
+| lufak | to tie |
 | lufi | worm
 | luk | to be hungry
 | ...m... | hate | odio | (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 | ma | morrow, future |
+| mak | to prepare something in advance, to worry |
 | maba | shoulder |
 | mai  | mouse |
 | mek |to caress |
@@ -233,6 +235,7 @@
 | mik | to sleep |
 | mixek | to dream |
 | misaa | fox |
+| misaak | to sneak |
 | mo | stone (generic), something, object, item |
 | moa | sometimes |
 | moba | tough |
@@ -247,11 +250,13 @@
 | mou | pebble |
 | mu | small, little, few |
 | na | adult | adulto
+| naba|  elbow
 | nafe | adult man |
 | nafi|  adult woman
-| naba|  elbow
+| nak | to make perfect |
 | naa|  at sea, in the sea
 | ne|  clothing 
+| nek | to clothe |
 | nee|  old
 |  neek|  to get old
 |  neirni|  winter clothing, outer garment
@@ -262,10 +267,12 @@
 | noxere|  wisdom
 | no| night
 | nu|  oats
+| nuk | to grow oats |
 | o | now, present |
 | oba | knee |
 | ode | long |
 | oek | protect, defend |
+| ok | to be focused
 | olo |  today (‘this sun’)
 | ool |  often
 | ox |  auch! (interjection)
@@ -338,6 +345,12 @@
 * silki: seal
 * sogo: chisel
 * sok: to do / to make
+* sua: here
+* suak: to be here
+* sue: there
+* suek: to be there
+* suxee: beyond the horizon
+* suxeek: to be far away (not on this island)
 * suma: black (color), filled, wealthy, fed
 * supa: white (color), clear, empty, hungry
 * ta: bad, sick, wrong
