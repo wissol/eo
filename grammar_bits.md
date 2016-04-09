@@ -34,6 +34,8 @@ Verbs (and verbs only) end with a k, with no variations for either tense. There 
 * pao adak - he has worked
 * po adak - he had worked
 
+As for the imerative, you simply add the vocative (e_ or eb_) euribabak di ebuaek (don't be lazy and help)
+
 
 y_ or y[vowel]_ forms the reflexive (this happened to the speaker as in yueok "you told me")
 r_ (this happened to the subject rueok "you told yourself")
@@ -46,7 +48,7 @@ _n _im  _m  _om forms the accusative (aka sorta “direct object” ) according 
 
 _r _er forms the dative (aka sorta “indirect object” ) according to the speaker preference. So lar (food) or osir (eye) are in the dative.
 
-e_ eb_ forms the vocative , as in eaa uok (Mother! Look!)
+e_ eb_ forms the vocative , as in eaaok (Mother! Look!)
 
 n_ or n[vowel]_ forms the locative, as in naa (at sea) or nidun (at home)
 
