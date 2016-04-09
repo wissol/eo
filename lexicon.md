@@ -338,53 +338,54 @@
 | saa| waves
 | se|place
 | sebgo | brush |
-* seba: paint
-* sebak: to paint
-* sek: to stay
-* ser: young
-* silki: seal
-* sogo: chisel
-* sok: to do / to make
-* sua: here
-* suak: to be here
-* sue: there
-* suek: to be there
-* suxee: beyond the horizon
-* suxeek: to be far away (not on this island)
-* suma: black (color), filled, wealthy, fed
-* supa: white (color), clear, empty, hungry
-* ta: bad, sick, wrong
-* taba: neck
-* tak: to get worse, to get sick, to make a mistake
-* taa: evil
-* taaik : to steal, rob, snatch...
-* tataa: taboo, very bad juju stuff, something that offends the spirits, the ancestors and the universe
-* te: human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
-* teea: tree
-* tefa: woman 
-* telea: branch
-* telou: corpse
-* tepalou: bone
-* testaa: evil person
-* testa: sick or injured person
-* ti: head
-* tigo: burin
-* tixe: mind, soul
-* trir: mad, crazy, insane
-* tixek: to understand
-* titata: stupid
-* tok: to swim
-* tra: in order to, for, to  
-* tu: a star, name 
-* tuf: up
-* tuu: the stars
-* truka: tradition
-* u + verb: second person, singular ( ulak: you eat)
-* ube: island
-* ugo: awl
-* uka: change
-* uk: to change
-* uek: to grow up
+| seba| paint
+| sebak| to paint
+| sek| to stay
+| ser| young
+| silki| seal
+|sogo| chisel
+| sok| to do / to make
+| sua| here
+| suak| to be here
+| sue| there
+| suek|to be there
+| suxee| beyond the horizon
+| suxeek| to be far away (not on this island)
+| suma| black (color), filled, wealthy, fed
+| supa| white (color), clear, empty, hungry
+| ta| bad, sick, wrong
+| taba| neck
+| tak| to get worse, to get sick, to make a mistake
+| taa| evil
+| taaik | to steal, rob, snatch...
+| tataa| taboo, very bad juju stuff, something that offends the spirits, the ancestors and the universe
+| te| human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
+| teba| wood
+| teea|tree
+| tefa| woman 
+| telea| branch
+| telou| corpse
+| tepalou| bone
+| testaa| evil person
+| testa| sick or injured person
+| ti| head
+| tigo| burin
+| tixe| mind, soul
+| trir| mad, crazy, insane
+|tixek| to understand
+| titata| stupid
+| tok| to swim
+| tra|: in order to, for, to  
+| tu| a star, name 
+| tuf| up
+| tuu| the stars
+| truka| tradition
+| u + verb| second person, singular ( ulak: you eat)
+| ube| island
+| ugo| awl
+| uka| change
+| uk| to change
+| uek| to grow up
 * ukokikeka: change, chaos, unexpected, bad magic
 * ukokikekak: to change in a strange fashion
 * us + verb: second person, plural ( ulak: you (group) eat)
