@@ -319,17 +319,18 @@
 | ruba| that
 | rubat| those
 | r_| negation (rik - I don't need
-* si_ interrogative sisaifek? are you a boy? sisupak? are you hungry siutuk? what's your name?  
-* sa: child
-* saifa: fun, happy
-* saifak: to have fun
-* saifo: party (saifok: to be in a party, to throw a party)
-* saat: a lot, many, too much, some big quantity of stuff
-* saife: boy
-* saifi: girl
-* sak: to play, to be a child
-* saa: waves
-* se: place
+| si_|interrogative sisaifek? are you a boy? sisupak? are you hungry siutuk? what's your name?  
+| sa| child
+| saifa| fun, happy
+| saifak| to have fun
+| saifo| party (saifok: to be in a party, to throw a party)
+| saat| a lot, many, too much, some big quantity of stuff
+| saife| boy
+| saifi| girl
+| sak| to play, to be a child
+| saa| waves
+| se|place
+| sebgo | brush |
 * seba: paint
 * sebak: to paint
 * sek: to stay
