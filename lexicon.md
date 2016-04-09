@@ -1,6 +1,6 @@
 # Lexicon
 
-> 400+ words!
+> 410+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -301,23 +301,23 @@
 | pok|  to make love
 | pu|  flax seed, flax
 | ra|  barley seed, barley
-* re: knowledge
-* ree: back
-* reek: to return, I return, I go back
-* rek: to know
-* rira: fight
-* rirar: conflict (generic)
-* rirk: to fight
-* ro: no
-* rob: weak, fragile
-* rok: to negate, to decline
-* rool: never
-* ru: this
-* rugo: hammer
-* rut: these
-* ruba: that
-* rubat: those
-* r_: negation (rik - I don't need
+| re| knowledge
+| ree| back
+| reek| to return, I return, I go back
+| rek| to know
+| rira| fight
+| rirar| conflict (generic)
+| rirk| to fight
+| ro| no
+| rob| weak, fragile
+| rok| to negate, to decline
+|rool| never
+| ru| this
+| rugo| hammer
+| rut| these
+| ruba| that
+| rubat| those
+| r_| negation (rik - I don't need
 * si_ interrogative sisaifek? are you a boy? sisupak? are you hungry siutuk? what's your name?  
 * sa: child
 * saifa: fun, happy
@@ -351,8 +351,9 @@
 * testa: sick or injured person
 * ti: head
 * tigo: burin
-* tisxe: mind, soul
-* tisxek: to understand
+* tixe: mind, soul
+* trir: mad, crazy, insane
+* tixek: to understand
 * titata: stupid
 * tok: to swim
 * tra: in order to, for, to  
@@ -401,7 +402,11 @@
 * yasla: cooked food
 * yaslak: to cook
 * ye: dirty
+* yek: to get dirty
+* yee: dance
+* yeek: to dance
 * yi: generic container
+* yik: to store, to keep in a container or building
 * yipe: fish / seafood pond
 * yolik: to be entitled to, to have a right to 
 * yok: to thank
