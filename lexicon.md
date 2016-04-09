@@ -149,6 +149,7 @@
 | giyak | to care, to watch | cuidar, observar |
 | ginko | pig | cerdo |
 | gli | bear | oso | 
+| glik | to endure | soportar, resistir |
 | go | tool, instrument | herramienta, instrumento |
 | gok | to use | usar |
 | gruka | meeting | encuentro |
@@ -167,6 +168,7 @@
 |  ifa |  good
 |  ik |  to wish, to want, to be alone, to be moody, to be sad
 |  ili |   boar
+| ilik | to lunge
 |  ipo |  bird
 |  ipoxe |  song
 |  ipoxek |  to sing
