@@ -289,15 +289,18 @@
 | pebok | to warm something up
 | pego | adze |
 | pei| test, temptation, oportunity
-| pek| to fish
-* pli: scrapper (tool)
-* pik: to bite
-* pima: moss
-* pipi: pee
-* pipik: to pee
-* pok: to make love
-* pu: flax seed, flax
-* ra: barley seed, barley
+| pek| to fish |
+| pli|  scrapper (tool)
+| pia | pit |
+| piaak | to con, to fool |
+| piba | trap |
+| pik|  to bite
+| pima|  moss
+| pipi|  pee
+| pipik|  to pee
+| pok|  to make love
+| pu|  flax seed, flax
+| ra|  barley seed, barley
 * re: knowledge
 * ree: back
 * reek: to return, I return, I go back
