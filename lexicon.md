@@ -17,22 +17,30 @@
 | abek | to love, to flow | amar, fluir ||
 | abo | door, gate, entrance, opening | puerta, entrada, abertura ||
 | ae | sibling | hermano/a |
+| aek | to help | ayudar |
 | aeli | otter | nutria ||
+| aelik | to play at sea | jugar en el mar |
 | ai | life | vida ||
 | aii | seed | semilla ||
 | aiik | to sow | sembrar ||
 | aik | to live | vivir ||
-| aika | blood | sangre | aikak (to bleed) [sangrar] |
+| aika | blood | sangre | 
+| aikak | to bleed | [sangrar] |
 | ailea | grain | grano ||
+| aileak | to count | contar |
 | air | summer | verano ||
 | aira | joy | gozo ||
-| axek             | to rain         | llover          | axe (rain)[lluvia]|
+| airak | to have a good time, to sing and dance | pasarlo bien, bailar y cantar | 
+| axek  | to rain  | llover  | axe (rain)[lluvia]|
+| ak | to splash | salpicar |
 | ala | seafood | marisco ||
 | ao | or (conj) | o (conj) ||
 | as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
 | aspi | spear point, also short for spear | punta de lanza, también lanza (abreviado) ||
+| aspik | to poke | pinchar |
 | aspiya | spear (commonly shortened to aspi) | lanza (normalmente se abrevia a aspi ||
-| ate | tired | cansado(a) | atek (I'm tired)[estoy cansado(a)]|
+| ate | tired | cansado(a) 
+| atek | to get tired | cansarse |
 | au | tear | lágrima |
 | auk | cry, moan | llorar, sollozar |
 | aumik | to have sad dreams or thoughts , to be depressed | soñar sueños tristes o pensamientos tristes, estar deprimido|
@@ -42,6 +50,8 @@
 | baa | boat, canoe | barca, canoa ||
 | baak | to sail | navegar ||
 | babaa | sheep | oveja ||
+| baba | lazy | gandul |
+| babak | to be lazy | ser perezoso |
 | berni | crab | cangrejo ||
 | bi | arm | brazo ||
 | bla | fishing line ||
@@ -388,15 +398,15 @@
 | uka| change
 | uk| to change
 | uek| to grow up
-* ukokikeka: change, chaos, unexpected, bad magic
-* ukokikekak: to change in a strange fashion
-* us + verb: second person, plural ( ulak: you (group) eat)
-* ute: animal, (any living thing that moves)
-* uya: new
-* uu: all
-* uuna: puffin
-* uupeo: sound, noise
-* uutuu: "all and all", the world, the universe
+| ukokikeka| change, chaos, unexpected, bad magic
+| ukokikekak| to change in a strange fashion
+| us + verb|second person, plural ( ulak: you (group) eat)
+| ute| animal, (any living thing that moves)
+| uya| new
+| uu| all
+| uuna| puffin
+| uupeo| sound, noise
+| uutuu| "all and all", the world, the universe
 * xa: foot
 * xae: sandal
 * xaa: barefoot
