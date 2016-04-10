@@ -36,4 +36,4 @@ Among other public buildings in a certain town, which for many reasons it will b
 
 ### 'Eo-ized' English
 
-Among odar publik bildings in a sertain taun, gic for meni risons it guil bi prudent tu rifrein from mensioning, and tu gic Ai gil asaign no fiktisius neim, dear is uan asiently coman tu most tauns, greit or esmol: tu git, a guorkxaus; and in dis guorkxaus; on a dei and deit guic Ai nid not trabl maiself tu ripit, inasmac as it can bi of no posibol konskuens tu de ridar, in dis estaiy of de bisnes at ol ebents; de item of mortaliti xus neim is prefised tu de xed of dis saptar.
+Among odar publik bildings in a sertain taun, gic for meni risons it guil bi prudent tu rifrein from mensioning, and tu gic Ai gil asaign no fiktisius neim, dear is uan asiently coman tu most tauns, greit or esmol: tu guit, a guorkxaus; and in dis guorkxaus; on a dei and deit guic Ai nid not trabl maiself tu ripit, inasmac as it can bi of no posibol konskuens tu de ridar, in dis estaiy of de bisnes at ol ebents; de item of mortaliti xus neim is prefised tu de xed of dis captar.
