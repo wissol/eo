@@ -463,22 +463,24 @@ saat, a generic “number” meaning “a lot of”, “many”, “too much”
 | xogo| fishing hook
 | xu| memory
 | xuk|to remember
-* yas: fire
-* yaso: 'chimney' (actually a hole or opening in the ceeling/roof/tent)
-* yasef: south
-* yasik: burn
-* yasla: cooked food
-* yaslak: to cook
-* ye: dirty
-* yek: to get dirty
-* yee: dance
-* yeek: to dance
-* yi: generic container
-* yik: to store, to keep in a container or building
-* yipe: fish / seafood pond
-* yolik: to be entitled to, to have a right to 
-* yok: to thank
-* yuk: to answer
+| xub | almost | casi |
+| ya | near | cerca |
+| yas| fire
+| yaso| 'chimney' (actually a hole or opening in the ceeling/roof/tent)
+| yasef| south
+| yasik| burn
+| yasla| cooked food
+| yaslak| to cook
+| ye| dirty
+| yek| to get dirty
+| yee| dance
+| yeek| to dance
+| yi| generic container
+| yik: to store, to keep in a container or building
+| yipe| fish / seafood pond
+| yolik| to be entitled to, to have a right to 
+| yok| to thank
+| yuk| to answer
 
 ## Words / Concepts that do not exist in Eo
 
