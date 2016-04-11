@@ -26,7 +26,7 @@ et 5
 
 saat, a generic “number” meaning “a lot of”, “many”, “too much”
 -->
-> 440+ words!
+> 460+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
