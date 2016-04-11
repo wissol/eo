@@ -1,5 +1,31 @@
 # Lexicon
+<!-- comment 
+unt 1
+ut 2
+ot 3
+it 4 
+et 5
 
+(6+1) atunt 7
+(6+2) atut 8
+
+(6+6) aat (this one is irregular) (considered religious, magical as the “number of the mother/sea”)
+(12+1) aatunt
+
+(5×3) etsut
+(4×4) itsit
+(12+5) aatet
+(6×3) atsot
+(6x3+1) astsotunt
+(10x2) atitsut
+(7x3) atuntsot
+
+24 (6x4) atsut
+36 (6x6) atsat
+42 (6x7) atsatunt (also 'the meaning of life')
+
+saat, a generic “number” meaning “a lot of”, “many”, “too much”
+-->
 > 440+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
@@ -7,6 +33,8 @@
 | a             | water         | agua          | |
 | a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) [comemos] |
 | aa | mother, sea | madre, mar | |
+| aat | 12 | 12
+| aatsaat | 144 | 144
 | aai | seaweed | algas ||
 | aala | alway | siempre |
 | aax | surprise (interjection) | sorpresa, susto (interjección) |
@@ -39,8 +67,12 @@
 | aspi | spear point, also short for spear | punta de lanza, también lanza (abreviado) ||
 | aspik | to poke | pinchar |
 | aspiya | spear (commonly shortened to aspi) | lanza (normalmente se abrevia a aspi ||
+| at | 6 | 6
 | ate | tired | cansado(a) 
+| atet | 11 | 11
 | atek | to get tired | cansarse |
+| atit  | 10
+| atot | 9
 | au | tear | lágrima |
 | auk | cry, moan | llorar, sollozar |
 | aumik | to have sad dreams or thoughts , to be depressed | soñar sueños tristes o pensamientos tristes, estar deprimido|
