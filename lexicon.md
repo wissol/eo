@@ -1,17 +1,11 @@
 # Lexicon
 <!-- comment 
-unt 1
-ut 2
 ot 3
 it 4 
-et 5
-
 (6+1) atunt 7
 (6+2) atut 8
-
 (6+6) aat (this one is irregular) (considered religious, magical as the “number of the mother/sea”)
 (12+1) aatunt
-
 (5×3) etsut
 (4×4) itsit
 (12+5) aatet
@@ -19,12 +13,9 @@ et 5
 (6x3+1) astsotunt
 (10x2) atitsut
 (7x3) atuntsot
-
 24 (6x4) atsut
 36 (6x6) atsat
 42 (6x7) atsatunt (also 'the meaning of life')
-
-saat, a generic “number” meaning “a lot of”, “many”, “too much”
 -->
 > 460+ words!
 
@@ -165,6 +156,7 @@ saat, a generic “number” meaning “a lot of”, “many”, “too much”
 | eota | unpolite word | insulto |
 | eotak | to curse, to insult | insultar, maldecir |
 | es + verb | third person, plural | tercera persona, plural |
+| et | 5 | 5
 | eu |  leg | pierna | 
 | euk | kick | dar una patada |
 | eyak | to welcome | dar la bienvenida |
@@ -384,6 +376,7 @@ saat, a generic “number” meaning “a lot of”, “many”, “too much”
 | saifi| girl
 | sak| to play, to be a child
 | saa| waves
+| saat | a lot of, a large number or quantity |
 | se|place
 | sebgo | brush |
 | seba| paint
@@ -433,10 +426,12 @@ saat, a generic “number” meaning “a lot of”, “many”, “too much”
 | ugo| awl
 | uka| change
 | uk| to change
+| unt | 1 | 1
 | uek| to grow up
 | ukokikeka| change, chaos, unexpected, bad magic
 | ukokikekak| to change in a strange fashion
 | us + verb|second person, plural ( ulak: you (group) eat)
+| ut | 2 | 2
 | ute| animal, (any living thing that moves)
 | uya| new
 | uu| all
