@@ -443,25 +443,26 @@ saat, a generic “number” meaning “a lot of”, “many”, “too much”
 | uuna| puffin
 | uupeo| sound, noise
 | uutuu| "all and all", the world, the universe
-* xa: foot
-* xae: sandal
-* xaa: barefoot
-* xak: to walk, I walk
-* xali: goat
-* xam: boot, shoe
-* xask: to run  correr
-* xe: spirit
-* xek: to do magic, divination...
-* xeak: to fly ("to walk in the spirts)
-* xee: maybe, chance, perhaps
-* xeso: festivity, feast
-* xigo: sickle
-* xik: to cut, to tear, to split 
-* xli: bison
-* xo: but
-* xogo: fishing hook
-* xu: memory
-* xuk: to remember
+| xa| foot
+| xae| sandal
+| xaa| barefoot
+| xak| to walk, I walk
+| xali| goat
+| xam| boot, shoe
+| xask| to run  correr
+| xe| spirit
+| xek| to do magic, divination...
+| xeba | wild | salvaje
+| xeak | to fly ("to walk in the spirts)
+| xee | maybe, chance, perhaps
+| xeso| festivity, feast
+| xigo| sickle
+| xik | to cut, to tear, to split 
+| xli| bison
+| xo| but
+| xogo| fishing hook
+| xu| memory
+| xuk|to remember
 * yas: fire
 * yaso: 'chimney' (actually a hole or opening in the ceeling/roof/tent)
 * yasef: south
