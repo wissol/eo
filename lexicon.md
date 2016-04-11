@@ -9,13 +9,9 @@ it 4
 (5×3) etsut
 (4×4) itsit
 (12+5) aatet
-(6×3) atsot
 (6x3+1) astsotunt
 (10x2) atitsut
 (7x3) atuntsot
-24 (6x4) atsut
-36 (6x6) atsat
-42 (6x7) atsatunt (also 'the meaning of life')
 -->
 > 460+ words!
 
@@ -64,6 +60,9 @@ it 4
 | atek | to get tired | cansarse |
 | atit  | 10
 | atot | 9
+| atsat | 36 | 36
+| (6×3) atsot | 18 | 18 |
+| atsatunt | 42, the meaning of life | 42, el significado de la vida
 | au | tear | lágrima |
 | auk | cry, moan | llorar, sollozar |
 | aumik | to have sad dreams or thoughts , to be depressed | soñar sueños tristes o pensamientos tristes, estar deprimido|
