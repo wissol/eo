@@ -1,11 +1,5 @@
 # Lexicon
 <!-- comment 
-ot 3
-it 4 
-(6+1) atunt 7
-(6+2) atut 8
-(6+6) aat (this one is irregular) (considered religious, magical as the “number of the mother/sea”)
-(12+1) aatunt
 (5×3) etsut
 (4×4) itsit
 (12+5) aatet
@@ -24,6 +18,7 @@ it 4
 | aatsaat | 144 | 144
 | aai | seaweed | algas ||
 | aala | alway | siempre |
+| (12+1) aatunt | 13
 | aax | surprise (interjection) | sorpresa, susto (interjección) |
 | aba | open | abierto ||
 | abak | to open | abrir ||
@@ -63,6 +58,8 @@ it 4
 | atsat | 36 | 36
 | (6×3) atsot | 18 | 18 |
 | atsatunt | 42, the meaning of life | 42, el significado de la vida
+|(6+1) atunt | 7
+|(6+2) atut | 8
 | au | tear | lágrima |
 | auk | cry, moan | llorar, sollozar |
 | aumik | to have sad dreams or thoughts , to be depressed | soñar sueños tristes o pensamientos tristes, estar deprimido|
@@ -118,6 +115,7 @@ it 4
 | duu | body | cuerpo
 | duuk | to be naked | estar desnudo
 | dubaa | mountain, hill | montaña o colina
+| duka | bed |
 | dube | home island, homeland | isla natal, patria |
 | dumo | tomb | tumba
 | dus | house | casa
@@ -213,6 +211,7 @@ it 4
 |  iryi |    cloud | 
 |  isak |  to be handsome, beautiful.. | 
 | isat emat | beautiful sprouts, the first month of winter |
+| it | 4 
 |  ita |  light, candle | 
 | ka | hair | pelo 
 | kaba | hand | mano
@@ -320,6 +319,7 @@ it 4
 | oniak | to wait | esperar |
 | onos |  tonight
 | os |  eye
+| ot | 3
 | ok | to look at, to see
 | oto | owl
 | oyak |  too look for, to search
