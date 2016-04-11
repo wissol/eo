@@ -71,6 +71,7 @@
 | babaa | sheep | oveja ||
 | baba | lazy | gandul |
 | babak | to be lazy | ser perezoso |
+| beok | to blame
 | berni | crab | cangrejo ||
 | bi | arm | brazo ||
 | bla | fishing line ||
@@ -78,6 +79,8 @@
 | bo | thin | delgado ||
 | c | | | new letter, sound ʃ, |
 | ca | faith, trust | fe, confianza |
+| cabaa | brave | valiente
+| cabak | to be brave, to do something heroic | ser valiente |
 | caa | spring (as source of a stream) |
 | cak | to believe | creer | |
 | ced | sand | arena |
@@ -132,6 +135,7 @@
 | ei | hello| hola |
 | eik | to greet | saludar |
 | eio | family | familia |
+| elk | to hunt |  cazar
 | eli | stoat | armiño |
 | elok | to trade | comerciar |
 | ema | sprout | brote |
