@@ -243,17 +243,20 @@ saat, a generic “number” meaning “a lot of”, “many”, “too much”
 | laeasa | fruit
 | lak | to eat
 | lasnu | porridge
-|laya | spring(season)
+| laya | spring(season)
 | laaik | to gather seafood and/or seaweeds
 | lek | to gather food, to haverst*
-|libo | edible fat (lipid)
-| lino | day
 | li | ear
 | lik | to hear
 | lili | hare
 | lilak | to listen
+| libi | milk
+| libik | to breast-feed | dar de mamar |
+| libo | edible fat (lipid)
+| lino | day
 | lo | sun
 | lob | big
+| lok | shine
 | logef | west
 | lonu | morning | birth
 | lonuf | east
@@ -276,6 +279,7 @@ saat, a generic “number” meaning “a lot of”, “many”, “too much”
 | mib | hat |
 | mixe | dream |
 | miax | wale |
+| mitak | to suck | chupar, mamar |
 | mik | to sleep |
 | mixek | to dream |
 | misaa | fox |
