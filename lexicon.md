@@ -13,7 +13,7 @@ it 4
 (10x2) atitsut
 (7x3) atuntsot
 -->
-> 460+ words!
+> 470+ words!
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
