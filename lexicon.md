@@ -1,6 +1,6 @@
 # Lexicon
 
-> 470+ words!
+> 490+ words!
 
 
 
@@ -86,6 +86,7 @@
 | ced | sand | arena |
 | cek | to crawl | arrastrarse ||
 | ci | calm, quiet | calma, tranquilidad |
+| ciba | dark | oscuro 
 | cio | peace | paz |
 | cu | taste | gusto |
 | cuba | sweet | dulce |
@@ -96,11 +97,13 @@
 | cut | hot taste | picante |
 | _d_ _d[vowel]_ / de | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
 | da | work | obra ||
+| dabo | circle | círculo
 | dak | to work | trabajar ||
 | daxe | music | música ||
 | dayak | to awake | despertar ||
 | dee | poop | caca ||
 | deek | to poop | cagar ||
+| der | deaf | sordo
 | di | to have, to contain | tener, contener ||
 | dibin | autum | otoño ||
 | dlas | red | rojo ||
@@ -122,19 +125,23 @@
 | dube | home island, homeland | isla natal, patria |
 | dumo | tomb | tumba
 | dus | house | casa
+| dusa | hut | cabaña
 | dusxe | sky | cielo
 | e + verb | third person, singular | tercera persona, singular |
 | ea | plant | planta |
+| ead | deep | profundo |
 | easa | flower | flor |
 | eabi | silence | silencio |
 | eba | gift | regalo |
 | ebak | to give |
 | ebapak | to forgive (lit to give the past) |
+| ecak | to chase | perseguir
 | ee | father, wind | padre, papá, viento |
 | eek | to blow, to father, to act fatherly | soplar, actuar paternalmente, tener hijos |
 | ei | hello| hola |
 | eik | to greet | saludar |
 | eio | family | familia |
+| eldak | catch | capturar
 | elk | to hunt |  cazar
 | eli | stoat | armiño |
 | elok | to trade | comerciar |
@@ -163,10 +170,12 @@
 | euk | kick | dar una patada |
 | eyak | to welcome | dar la bienvenida |
 | fa | feminine, female | femenino, hembra
+| faa | coast
 | fra | fear | miedo
 | frak | to fear  | tener miedo |
 | fabak | to forget | olvidar
-| fe | masculine, male | masculinol, macho
+| fe | masculine, male | masculino, macho
+| fee | land
 | fi | bug | bicho |
 | fita | lightning | rayo |
 | fli | badger | tejón |
@@ -199,6 +208,7 @@
 | ibo | fat(as in 'fat person') | gordo |
 | iko | false | falso
 | ikostaa | evil lie | mentira perversa |
+| iceok | to cheer
 | id |  chin
 | idak |  to lead
 |  ifa |  good
@@ -417,6 +427,8 @@
 | ti| head
 | tigo| burin
 | tixe| mind, soul
+| tri | danger
+| trik | to be dangerous
 | trir| mad, crazy, insane
 |tixek| to understand
 | titata| stupid
@@ -427,6 +439,7 @@
 | tuu| the stars
 | truka| tradition
 | u + verb| second person, singular ( ulak: you eat)
+| uceok | to jeer | abuchear
 | ube| island
 | ugo| awl
 | uka| change
@@ -439,6 +452,7 @@
 | ut | 2 | 2
 | ute| animal, (any living thing that moves)
 | uya| new
+| uyak | to restore
 | uu| all
 | uuna| puffin
 | uupeo| sound, noise
@@ -446,6 +460,7 @@
 | xa| foot
 | xae| sandal
 | xaa| barefoot
+| xatack | to cheat |
 | xak| to walk, I walk
 | xali| goat
 | xam| boot, shoe
@@ -455,15 +470,18 @@
 | xeba | wild | salvaje
 | xeak | to fly ("to walk in the spirts)
 | xee | maybe, chance, perhaps
+| xeek | to choose
 | xeso| festivity, feast
 | xigo| sickle
 | xik | to cut, to tear, to split 
 | xli| bison
 | xo| but
+| xok | to object
 | xogo| fishing hook
 | xu| memory
 | xuk|to remember
 | xub | almost | casi |
+| xubok | to close | cerrar
 | ya | near | cerca |
 | yas| fire
 | yaso| 'chimney' (actually a hole or opening in the ceeling/roof/tent)
