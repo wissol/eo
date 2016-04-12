@@ -1,13 +1,9 @@
 # Lexicon
-<!-- comment 
-(5×3) etsut
-(4×4) itsit
-(12+5) aatet
-(6x3+1) astsotunt
-(10x2) atitsut
-(7x3) atuntsot
--->
+
 > 470+ words!
+
+
+
 
 |  Eo           |  English      |  Spanish      | Notes |
 | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -18,6 +14,7 @@
 | aatsaat | 144 | 144
 | aai | seaweed | algas ||
 | aala | alway | siempre |
+| (12+5) aatet | 17 |
 | (12+1) aatunt | 13
 | aax | surprise (interjection) | sorpresa, susto (interjección) |
 | aba | open | abierto ||
@@ -49,10 +46,12 @@
 | aspi | spear point, also short for spear | punta de lanza, también lanza (abreviado) ||
 | aspik | to poke | pinchar |
 | aspiya | spear (commonly shortened to aspi) | lanza (normalmente se abrevia a aspi ||
+| (6x3+1) astsotunt | 19
 | at | 6 | 6
 | ate | tired | cansado(a) 
 | atet | 11 | 11
 | atek | to get tired | cansarse |
+| (10x2) atitsut | 20
 | atit  | 10
 | atot | 9
 | atsat | 36 | 36
@@ -60,6 +59,7 @@
 | atsatunt | 42, the meaning of life | 42, el significado de la vida
 |(6+1) atunt | 7
 |(6+2) atut | 8
+| (7x3) atuntsot | 21
 | au | tear | lágrima |
 | auk | cry, moan | llorar, sollozar |
 | aumik | to have sad dreams or thoughts , to be depressed | soñar sueños tristes o pensamientos tristes, estar deprimido|
@@ -158,6 +158,7 @@
 | eotak | to curse, to insult | insultar, maldecir |
 | es + verb | third person, plural | tercera persona, plural |
 | et | 5 | 5
+| (5×3) etsut | 15
 | eu |  leg | pierna | 
 | euk | kick | dar una patada |
 | eyak | to welcome | dar la bienvenida |
@@ -217,6 +218,7 @@
 | isat emat | beautiful sprouts, the first month of winter |
 | it | 4 
 |  ita |  light, candle | 
+| (4×4) itsit | 16
 | ka | hair | pelo 
 | kaba | hand | mano
 | kek | to lose, to get lost | perder, perderse 
