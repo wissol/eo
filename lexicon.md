@@ -1,6 +1,6 @@
 # Lexicon
 
-> 490+ words!
+> 500+ words!
 
 
 
@@ -170,6 +170,7 @@
 | euk | kick | dar una patada |
 | eyak | to welcome | dar la bienvenida |
 | fa | feminine, female | femenino, hembra
+| fabe | meat
 | faa | coast
 | fra | fear | miedo
 | frak | to fear  | tener miedo |
@@ -212,6 +213,7 @@
 | id |  chin
 | idak |  to lead
 |  ifa |  good
+| iga | dust
 |  ik |  to wish, to want, to be alone, to be moody, to be sad
 |  ili |   boar
 | ilik | to lunge
@@ -220,10 +222,12 @@
 |  ipoxek |  to sing
 |  ingo |  tooth
 |  iri |  cold
+| irna | ice
 |  irnif |  north
 |  irnik |  To be winter
 |  irok |  to climb
 |  iryi |    cloud | 
+| irya | mist
 |  isak |  to be handsome, beautiful.. | 
 | isat emat | beautiful sprouts, the first month of winter |
 | it | 4 
@@ -240,6 +244,7 @@
 | kri | true, truth | verdad, verdadero |
 | krik | to be true | ser cierto, ser verdad |
 | ku | fear | miedo |
+| kuup | nut | nuez
 | kuk | to be afraid (yukuk! you have frightened me!) | estar asustado |
 | la | food
 | laab | mud
@@ -282,6 +287,7 @@
 | mek |to caress |
 | meik | to mend, to heal |
 | mi | sleep |
+| mia | skin
 | mib | hat |
 | mixe | dream |
 | miax | wale |
@@ -303,6 +309,7 @@
 | mosfi | amber |
 | mou | pebble |
 | mu | small, little, few |
+| muda | leather
 | na | adult | adulto
 | naba|  elbow
 | nafe | adult man |
@@ -393,6 +400,7 @@
 | saa| waves
 | saat | a lot of, a large number or quantity |
 | se|place
+| see | leaf
 | sebgo | brush |
 | seba| paint
 | sebak| to paint
@@ -473,6 +481,7 @@
 | xeek | to choose
 | xeso| festivity, feast
 | xigo| sickle
+| xiak | to plow
 | xik | to cut, to tear, to split 
 | xli| bison
 | xo| but
@@ -483,6 +492,7 @@
 | xub | almost | casi |
 | xubok | to close | cerrar
 | ya | near | cerca |
+| yarna | snow
 | yas| fire
 | yaso| 'chimney' (actually a hole or opening in the ceeling/roof/tent)
 | yasef| south
