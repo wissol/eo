@@ -315,6 +315,8 @@
 | muda | leather
 | na | adult | adulto
 | naba|  elbow
+| nadis | journey
+| nadik | to travel
 | nafe | adult man |
 | nafi|  adult woman
 | nak | to make perfect |
