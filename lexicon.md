@@ -238,12 +238,15 @@
 | kek | to lose, to get lost | perder, perderse 
 | kerea | feather | pluma 
 | kik | to transform | transformar 
+| kiba | slope
 | kip | hard | duro
 | kli | wolf | lobo
 | ko | friend | amigo
+| koba | honey
 | kri | true, truth | verdad, verdadero |
 | krik | to be true | ser cierto, ser verdad |
 | ku | fear | miedo |
+| kube | salt
 | kuup | nut | nuez
 | kuk | to be afraid (yukuk! you have frightened me!) | estar asustado |
 | la | food
