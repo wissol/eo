@@ -1,6 +1,6 @@
 # Lexicon
 
-> 500+ words!
+> 510+ words!
 
 
 
