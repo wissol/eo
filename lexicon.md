@@ -207,6 +207,7 @@
 | iaa|  too, also, as well (diaa, me too)| 
 | iba | hand | mano
 | ibo | fat(as in 'fat person') | gordo |
+| ibok | to get fat | 
 | iko | false | falso
 | ikostaa | evil lie | mentira perversa |
 | iceok | to cheer
@@ -233,7 +234,8 @@
 | it | 4 
 |  ita |  light, candle | 
 | (4×4) itsit | 16
-| ka | hair | pelo 
+| ka | hair | pelo
+| kak | to comb | peinar
 | kaba | hand | mano
 | kek | to lose, to get lost | perder, perderse 
 | kerea | feather | pluma 
@@ -242,6 +244,7 @@
 | kip | hard | duro
 | kli | wolf | lobo
 | ko | friend | amigo
+| kok | to make friends, to make peace | hacer una amistad, hacer la paz |
 | koba | honey
 | kri | true, truth | verdad, verdadero |
 | krik | to be true | ser cierto, ser verdad |
@@ -275,6 +278,7 @@
 | lonu | morning | birth
 | lonuf | east
 | lore | the moon
+| lorek | to be in love | estar enamorado |
 | lou | evening, death
 | louk | to die
 | lu  | hunger, lack, need
