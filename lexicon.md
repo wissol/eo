@@ -1,6 +1,6 @@
 # Lexicon
 
-> 510+ words!
+> 520+ words!
 
 
 
@@ -67,6 +67,7 @@
 | aurolak | to lose a child | perder a un hijo/a | or a tragedy of that sort |
 | ayea | grass | hierba ||
 | baa | boat, canoe | barca, canoa ||
+| baadus | harbor, any location, place or building where to the leave a bot
 | baak | to sail | navegar ||
 | babaa | sheep | oveja ||
 | baba | lazy | gandul |
@@ -88,6 +89,7 @@
 | ci | calm, quiet | calma, tranquilidad |
 | ciba | dark | oscuro 
 | cio | peace | paz |
+| co | guide
 | cu | taste | gusto |
 | cuba | sweet | dulce |
 | cubaa | berry | baya |
@@ -148,11 +150,13 @@
 | ema | sprout | brote |
 | emee | baby | bebé |
 | emak | to sprout | brotar |
+| ena | heat
 | eo | words, language | palabra, idioma |
 | eoxe | blessing, magic word | bendición, palabra mágica |
 | eoxek | to bless | bendecir |
 | eok | to speak, to talk, to communicate | hablar, comunicar |
 | eop | mouth | boca |
+| eopa | story, history, myth
 | eopak | to tell a story | contar una historia |
 | eopatak | to regret | lamentar |
 | eosa | poem | poema |
@@ -178,6 +182,7 @@
 | fe | masculine, male | masculino, macho
 | fee | land
 | fi | bug | bicho |
+| fip | hope | esperanza
 | fita | lightning | rayo |
 | fli | badger | tejón |
 | fo | victory, success | victoria, éxito |
@@ -312,7 +317,7 @@
 | mop | while |
 | more | month, there are sixteen of theese |
 | moseba | a painting
-| mosi | shrew |
+| mosi | shrew, idea|
 | mosfi | amber |
 | mou | pebble |
 | mu | small, little, few |
@@ -431,6 +436,8 @@
 | taba| neck
 | tak| to get worse, to get sick, to make a mistake
 | taa| evil
+| taxe | weak spirit, moribund
+| taaxe | malevolent spirit
 | taaik | to steal, rob, snatch...
 | tataa| taboo, very bad juju stuff, something that offends the spirits, the ancestors and the universe
 | te| human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
@@ -439,7 +446,10 @@
 | tefa| woman 
 | telea| branch
 | telou| corpse
+| tenak | to increase
 | tepalou| bone
+| teco | leader
+| tecok | to lead
 | testaa| evil person
 | testa| sick or injured person
 | ti| head
@@ -516,6 +526,7 @@
 | yi| generic container
 | yik: to store, to keep in a container or building
 | yipe| fish / seafood pond
+| yo | hole
 | yolik| to be entitled to, to have a right to 
 | yok| to thank
 | yuk| to answer
