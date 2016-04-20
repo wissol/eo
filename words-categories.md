@@ -1,6 +1,7 @@
 # Words by categories
 
 ## Tools
+| baa | boat, canoe | barca, canoa ||
 
 ## Emotions
 |  Eo           |  English      |  Spanish      | Notes |
@@ -29,6 +30,7 @@
 | aii | seed | semilla ||
 | aiik | to sow | sembrar ||
 | ala | seafood | marisco ||
+| babaa | sheep | oveja ||
 
 ## Animals
 |  Eo           |  English      |  Spanish      | Notes |
@@ -43,8 +45,12 @@
 | aa | mother, sea | madre, mar | |
 | aai | seaweed | algas ||
 | aeli | otter | nutria ||
+| aelik | to play at sea | jugar en el mar |
 | ala | seafood | marisco ||
+| baa | boat, canoe | barca, canoa ||
 | berni | crab | cangrejo ||
+| baadus | harbor, any location, place or building where to the leave a bot
+| baak | to sail | navegar ||
 
 ## Seasons and weather 
 |  Eo           |  English      |  Spanish      | Notes |
@@ -52,6 +58,14 @@
 | air | summer | verano ||
 | axek  | to rain  | llover  | axe (rain)[lluvia]|
 
+## Moving
+| baa | boat, canoe | barca, canoa ||
+| baadus | harbor, any location, place or building where to the leave a bot
+| baak | to sail | navegar ||
+
+## Nature
+| ayea | grass | hierba ||
+| babaa | sheep | oveja ||
 
 ## To be sorted
 
@@ -68,7 +82,6 @@
 | abak | to open | abrir ||
 | abo | door, gate, entrance, opening | puerta, entrada, abertura ||
 | aek | to help | ayudar |
-| aelik | to play at sea | jugar en el mar |
 | ai | life | vida ||
 | aik | to live | vivir ||
 | aika | blood | sangre | 
@@ -77,7 +90,6 @@
 | aira | joy | gozo ||
 | airak | to have a good time, to sing and dance | pasarlo bien, bailar y cantar | 
 | ak | to splash | salpicar |
-
 | ao | or (conj) | o (conj) ||
 | as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
 | aspi | spear point, also short for spear | punta de lanza, también lanza (abreviado) ||
@@ -97,15 +109,9 @@
 |(6+1) atunt | 7
 |(6+2) atut | 8
 | (7x3) atuntsot | 21
-| ayea | grass | hierba ||
-| baa | boat, canoe | barca, canoa ||
-| baadus | harbor, any location, place or building where to the leave a bot
-| baak | to sail | navegar ||
-| babaa | sheep | oveja ||
 | baba | lazy | gandul |
 | babak | to be lazy | ser perezoso |
 | beok | to blame
-
 | bi | arm | brazo ||
 | bla | fishing line ||
 | bli | needle | aguja ||
