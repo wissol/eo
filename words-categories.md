@@ -3,7 +3,8 @@
 ## Tools
 
 ## Emotions
-
+|  Eo           |  English      |  Spanish      | Notes |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 | aax | surprise (interjection) | sorpresa, susto (interjección) |
 | abe | love, stream | amor, corriente, arroyo ||
 | abek | to love, to flow | amar, fluir ||
@@ -14,13 +15,15 @@
 | aurolak | to lose a child | perder a un hijo/a | or a tragedy of that sort |
 
 ## Family
-
+|  Eo           |  English      |  Spanish      | Notes |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 | aa | mother, sea | madre, mar | |
 | aak | to be a mother, to act motherly, to give birth | ser madre, actuar maternarlmente, dar a luz ||
 | ae | sibling | hermano/a |
 
 ## Farming and food
-
+|  Eo           |  English      |  Spanish      | Notes |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 | aai | seaweed | algas ||
 | ailea | grain | grano ||
 | aii | seed | semilla ||
@@ -28,12 +31,15 @@
 | ala | seafood | marisco ||
 
 ## Animals
-
+|  Eo           |  English      |  Spanish      | Notes |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 | aeli | otter | nutria ||
 | ala | seafood | marisco ||
 | berni | crab | cangrejo ||
 
 ## The sea
+|  Eo           |  English      |  Spanish      | Notes |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 | aa | mother, sea | madre, mar | |
 | aai | seaweed | algas ||
 | aeli | otter | nutria ||
@@ -41,6 +47,8 @@
 | berni | crab | cangrejo ||
 
 ## Seasons and weather 
+|  Eo           |  English      |  Spanish      | Notes |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 | air | summer | verano ||
 | axek  | to rain  | llover  | axe (rain)[lluvia]|
 
