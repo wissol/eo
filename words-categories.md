@@ -64,8 +64,13 @@
 | baak | to sail | navegar ||
 
 ## Nature
+|  Eo           |  English      |  Spanish      | Notes |
+| :-----------: | :-----------: | :-----------: | :-----------: |
 | ayea | grass | hierba ||
 | babaa | sheep | oveja ||
+| easa | flower | flor |
+| kli | wolf | lobo
+| silki| seal
 
 ## To be sorted
 
@@ -170,7 +175,6 @@
 | e + verb | third person, singular | tercera persona, singular |
 | ea | plant | planta |
 | ead | deep | profundo |
-| easa | flower | flor |
 | eabi | silence | silencio |
 | eba | gift | regalo |
 | ebak | to give |
@@ -285,7 +289,7 @@
 | kik | to transform | transformar 
 | kiba | slope
 | kip | hard | duro
-| kli | wolf | lobo
+
 | ko | friend | amigo
 | kok | to make friends, to make peace | hacer una amistad, hacer la paz |
 | koba | honey
@@ -459,7 +463,6 @@
 | sebak| to paint
 | sek| to stay
 | ser| young
-| silki| seal
 |sogo| chisel
 | sok| to do / to make
 | sua| here
