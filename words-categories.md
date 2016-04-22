@@ -1,19 +1,10 @@
 # Words by categories
 
 ## Tools
-baa ( boat, canoe), 
+baa ( boat, canoe), aspi (spear point, also short for spear)
 
 ## Emotions
-|  Eo           |  English      |  Spanish      | Notes |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| aax | surprise (interjection) | sorpresa, susto (interjección) |
-| abe | love, stream | amor, corriente, arroyo ||
-| abek | to love, to flow | amar, fluir ||
-| au | tear | lágrima |
-| auk | cry, moan | llorar, sollozar |
-| aumik | to have sad dreams or thoughts , to be depressed | soñar sueños tristes o pensamientos tristes, estar deprimido|
-| aurola | tragedy, disaster | tragedia, desastre |
-| aurolak | to lose a child | perder a un hijo/a | or a tragedy of that sort |
+ aax ( surprise (interjection) ),  abe ( love, stream ),  abek (to love, to flow ), au (tear), auk (cry, moan), aumik ) to have sad dreams or thoughts , to be depressed ) , aurola (tragedy, disaster), aurolak (to lose a child ), aira (joy), airak (to have a good time, to sing and dance)
 
 ## Family and Home
 
@@ -62,8 +53,7 @@ baa ( boat, canoe),
 | baak | to sail | navegar ||
 
 ## Nature
-|  Eo           |  English      |  Spanish      | Notes |
-| :-----------: | :-----------: | :-----------: | :-----------: |
+abe ( love, stream )
 | ayea | grass | hierba ||
 | babaa | sheep | oveja ||
 | easa | flower | flor |
@@ -77,21 +67,17 @@ bi (arm), dee (poop)
 
 aala (alway)
 
+## Common Verbs
+
+aek (to help), aik (to live), aikak (to bleed), aileak (to count)
+
 ## To be sorted
 
-
-| aek | to help | ayudar |
 | ai | life | vida ||
-| aik | to live | vivir ||
 | aika | blood | sangre | 
-| aikak | to bleed | [sangrar] |
-| aileak | to count | contar |
-| aira | joy | gozo ||
-| airak | to have a good time, to sing and dance | pasarlo bien, bailar y cantar | 
 | ak | to splash | salpicar |
 | ao | or (conj) | o (conj) ||
 | as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
-| aspi | spear point, also short for spear | punta de lanza, también lanza (abreviado) ||
 | aspik | to poke | pinchar |
 | aspiya | spear (commonly shortened to aspi) | lanza (normalmente se abrevia a aspi ||
 | (6x3+1) astsotunt | 19
