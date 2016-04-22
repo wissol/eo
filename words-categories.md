@@ -1,7 +1,7 @@
 # Words by categories
 
 ## Tools
-baa ( boat, canoe), aspi (spear point, also short for spear)
+aspi (spear point, also short for spear), aspiya (spear), baa ( boat, canoe), bla (fishing line), bli (needle)
 
 ## Emotions
  aax ( surprise (interjection) ),  abe ( love, stream ),  abek (to love, to flow ), au (tear), auk (cry, moan), aumik ) to have sad dreams or thoughts , to be depressed ) , aurola (tragedy, disaster), aurolak (to lose a child ), aira (joy), airak (to have a good time, to sing and dance)
@@ -67,9 +67,13 @@ bi (arm), dee (poop)
 
 aala (alway)
 
+## Colors
+
+dlas (red), dlaa (blue), dlabe (brown), dlea (green), dli (grey), dlo (yellow)
+
 ## Common Verbs
 
-aek (to help), aik (to live), aikak (to bleed), aileak (to count)
+aek (to help), aik (to live), aikak (to bleed), aileak (to count), beok (to blame), dayak (to wake up), deek (to poop), dik (to have, to contain)
 
 ## To be sorted
 
@@ -79,27 +83,10 @@ aek (to help), aik (to live), aikak (to bleed), aileak (to count)
 | ao | or (conj) | o (conj) ||
 | as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
 | aspik | to poke | pinchar |
-| aspiya | spear (commonly shortened to aspi) | lanza (normalmente se abrevia a aspi ||
-| (6x3+1) astsotunt | 19
-| at | 6 | 6
 | ate | tired | cansado(a) 
-| atet | 11 | 11
 | atek | to get tired | cansarse |
-| (10x2) atitsut | 20
-| atit  | 10
-| atot | 9
-| atsat | 36 | 36
-| (6×3) atsot | 18 | 18 |
-| atsatunt | 42, the meaning of life | 42, el significado de la vida
-|(6+1) atunt | 7
-|(6+2) atut | 8
-| (7x3) atuntsot | 21
 | baba | lazy | gandul |
 | babak | to be lazy | ser perezoso |
-| beok | to blame
-
-| bla | fishing line ||
-| bli | needle | aguja ||
 | bo | thin | delgado ||
 | c | | | new letter, sound ʃ, |
 | ca | faith, trust | fe, confianza |
@@ -125,18 +112,8 @@ aek (to help), aik (to live), aikak (to bleed), aileak (to count)
 | dabo | circle | círculo
 | dak | to work | trabajar ||
 | daxe | music | música ||
-| dayak | to awake | despertar ||
-
-| deek | to poop | cagar ||
 | der | deaf | sordo
-| di | to have, to contain | tener, contener ||
 | dibin | autum | otoño ||
-| dlas | red | rojo ||
-| dlaa | blue | azul ||
-| dlabe | brown | marrón ||
-| dlea | green | verde
-| dli | grey | gris
-| dlo | yellow | amarillo
 | do | low, humble | bajo, humilde
 | dof | down | abajo
 | dok | to go down, to humble | descender, humillarse
