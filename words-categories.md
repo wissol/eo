@@ -1,7 +1,7 @@
 # Words by categories
 
 ## Tools
-| baa | boat, canoe | barca, canoa ||
+baa ( boat, canoe), 
 
 ## Emotions
 |  Eo           |  English      |  Spanish      | Notes |
@@ -15,12 +15,9 @@
 | aurola | tragedy, disaster | tragedia, desastre |
 | aurolak | to lose a child | perder a un hijo/a | or a tragedy of that sort |
 
-## Family
-|  Eo           |  English      |  Spanish      | Notes |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| aa | mother, sea | madre, mar | |
-| aak | to be a mother, to act motherly, to give birth | ser madre, actuar maternarlmente, dar a luz ||
-| ae | sibling | hermano/a |
+## Family and Home
+
+ aa ( mother, sea) , aak ( to be a mother, to act motherly, to give birth ),  ae (sibling),  aba ( open ),  abo (door, gate, entrance, opening )
 
 ## Farming and food
 |  Eo           |  English      |  Spanish      | Notes |
@@ -74,26 +71,15 @@
 | silki| seal
 
 ## The body
-|  Eo           |  English      |  Spanish      | Notes |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| bi | arm | brazo ||
+bi (arm), dee (poop)
 
+## Adverbs
 
+aala (alway)
 
 ## To be sorted
 
-|  Eo           |  English      |  Spanish      | Notes |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| a             | water         | agua          | |
-| a + verb      | we (inclusive) | nosotros (inclusivo) | alak (we eat) [comemos] |
-| aat | 12 | 12
-| aatsaat | 144 | 144
-| aala | alway | siempre |
-| (12+5) aatet | 17 |
-| (12+1) aatunt | 13
-| aba | open | abierto ||
 
-| abo | door, gate, entrance, opening | puerta, entrada, abertura ||
 | aek | to help | ayudar |
 | ai | life | vida ||
 | aik | to live | vivir ||
@@ -154,7 +140,7 @@
 | dak | to work | trabajar ||
 | daxe | music | música ||
 | dayak | to awake | despertar ||
-| dee | poop | caca ||
+
 | deek | to poop | cagar ||
 | der | deaf | sordo
 | di | to have, to contain | tener, contener ||
@@ -579,18 +565,3 @@
 | yolik| to be entitled to, to have a right to 
 | yok| to thank
 | yuk| to answer
-
-## Words / Concepts that do not exist in Eo
-
-Besides the obvious (anything outside of the Neolithic time frame, tech and culture)
-
-1. King or chief, boss, as a permanent status
-2. Right or Left (you say something is north of me, or south of me, or even "my east hand" according to how you are oriented)
-3. No more color names
-4. Any animal or plant from a warm / tropical area
-5. Any government structure, beyond a meeting, neither nations nor kingdoms
-6. Permanent Laws
-7. Shops or markets
-8. words for Earth (there are only islands some bigger than others, each unique), planet (in the modern sense)
-9. academic terms, philosophical concepts
-10. words for luck or fortune, there's ukokikeka ('the unexpected'), that's all
