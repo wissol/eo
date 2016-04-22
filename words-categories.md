@@ -59,6 +59,7 @@
 | axek  | to rain  | llover  | axe (rain)[lluvia]|
 
 ## Moving
+| abak | to open | abrir ||
 | baa | boat, canoe | barca, canoa ||
 | baadus | harbor, any location, place or building where to the leave a bot
 | baak | to sail | navegar ||
@@ -72,6 +73,13 @@
 | kli | wolf | lobo
 | silki| seal
 
+## The body
+|  Eo           |  English      |  Spanish      | Notes |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| bi | arm | brazo ||
+
+
+
 ## To be sorted
 
 |  Eo           |  English      |  Spanish      | Notes |
@@ -84,7 +92,7 @@
 | (12+5) aatet | 17 |
 | (12+1) aatunt | 13
 | aba | open | abierto ||
-| abak | to open | abrir ||
+
 | abo | door, gate, entrance, opening | puerta, entrada, abertura ||
 | aek | to help | ayudar |
 | ai | life | vida ||
@@ -117,7 +125,7 @@
 | baba | lazy | gandul |
 | babak | to be lazy | ser perezoso |
 | beok | to blame
-| bi | arm | brazo ||
+
 | bla | fishing line ||
 | bli | needle | aguja ||
 | bo | thin | delgado ||
