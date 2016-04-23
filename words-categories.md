@@ -4,28 +4,17 @@
 aspi (spear point, also short for spear), aspiya (spear), baa ( boat, canoe), bla (fishing line), bli (needle)
 
 ## Emotions
- aax ( surprise (interjection) ),  abe ( love, stream ),  abek (to love, to flow ), au (tear), auk (cry, moan), aumik ) to have sad dreams or thoughts , to be depressed ) , aurola (tragedy, disaster), aurolak (to lose a child ), aira (joy), airak (to have a good time, to sing and dance)
+ aax ( surprise (interjection) ),  abe ( love, stream ),  abek (to love, to flow ), ate(tired), au (tear), auk (cry, moan), aumik ) to have sad dreams or thoughts , to be depressed ) , aurola (tragedy, disaster), aurolak (to lose a child ), aira (joy), airak (to have a good time, to sing and dance)
 
 ## Family and Home
 
  aa ( mother, sea) , aak ( to be a mother, to act motherly, to give birth ),  ae (sibling),  aba ( open ),  abo (door, gate, entrance, opening )
 
 ## Farming and food
-|  Eo           |  English      |  Spanish      | Notes |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| aai | seaweed | algas ||
-| ailea | grain | grano ||
-| aii | seed | semilla ||
-| aiik | to sow | sembrar ||
-| ala | seafood | marisco ||
-| babaa | sheep | oveja ||
+aai(seaweed), ailea (grain, corn), aii (seed), aiik (to sow),ala (seafood), babaa (sheep),
 
 ## Animals
-|  Eo           |  English      |  Spanish      | Notes |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| aeli | otter | nutria ||
-| ala | seafood | marisco ||
-| berni | crab | cangrejo ||
+aeli (otter), ala(seafood), babaa (sheep), berni (crab)
 
 ## The sea
 |  Eo           |  English      |  Spanish      | Notes |
@@ -39,12 +28,12 @@ aspi (spear point, also short for spear), aspiya (spear), baa ( boat, canoe), bl
 | berni | crab | cangrejo ||
 | baadus | harbor, any location, place or building where to the leave a bot
 | baak | to sail | navegar ||
+ced(sand),
 
 ## Seasons and weather 
-|  Eo           |  English      |  Spanish      | Notes |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| air | summer | verano ||
-| axek  | to rain  | llover  | axe (rain)[lluvia]|
+
+air(verano), axe (rain), axek (to rain)
+
 
 ## Moving
 | abak | to open | abrir ||
@@ -53,15 +42,10 @@ aspi (spear point, also short for spear), aspiya (spear), baa ( boat, canoe), bl
 | baak | to sail | navegar ||
 
 ## Nature
-abe ( love, stream )
-| ayea | grass | hierba ||
-| babaa | sheep | oveja ||
-| easa | flower | flor |
-| kli | wolf | lobo
-| silki| seal
+abe ( love, stream ), ca (spring -- stream, not season), ayea (grass), babaa (sheep), ced(sand), easa (flower), kli (wolf), silki (seal) 
 
 ## The body
-bi (arm), dee (poop)
+aika(blood), bi (arm), bo(thin), dee (poop)
 
 ## Adverbs
 
@@ -69,36 +53,23 @@ aala (alway)
 
 ## Colors
 
-dlas (red), dlaa (blue), dlabe (brown), dlea (green), dli (grey), dlo (yellow)
+ciba (dark), dlas (red), dlaa (blue), dlabe (brown), dlea (green), dli (grey), dlo (yellow)
 
 ## Common Verbs
 
-aek (to help), aik (to live), aikak (to bleed), aileak (to count), beok (to blame), dayak (to wake up), deek (to poop), dik (to have, to contain)
+aek (to help), aik (to live), aikak (to bleed), aileak (to count), ak (splash), aspik(to poke), beok (to blame), cak (believe), cek (crawl), dayak (to wake up), deek (to poop), dik (to have, to contain)
+
+## Common Words
+
+ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (peace)
+
+## Prepositins and conjunctions
+
+ao (or)
 
 ## To be sorted
 
-| ai | life | vida ||
-| aika | blood | sangre | 
-| ak | to splash | salpicar |
-| ao | or (conj) | o (conj) ||
-| as + verb | we (exclusive) | nosotros (exclusivo) | asaak (we are mothers but not you) [nosotras somos madres, tú no] |
-| aspik | to poke | pinchar |
-| ate | tired | cansado(a) 
-| atek | to get tired | cansarse |
-| baba | lazy | gandul |
-| babak | to be lazy | ser perezoso |
-| bo | thin | delgado ||
-| c | | | new letter, sound ʃ, |
-| ca | faith, trust | fe, confianza |
-| cabaa | brave | valiente
-| cabak | to be brave, to do something heroic | ser valiente |
-| caa | spring (as source of a stream) |
-| cak | to believe | creer | |
-| ced | sand | arena |
-| cek | to crawl | arrastrarse ||
-| ci | calm, quiet | calma, tranquilidad |
-| ciba | dark | oscuro 
-| cio | peace | paz |
+
 | co | guide
 | cu | taste | gusto |
 | cuba | sweet | dulce |
