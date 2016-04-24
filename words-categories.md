@@ -10,42 +10,27 @@ aspi (spear point, also short for spear), aspiya (spear), baa ( boat, canoe), bl
 
  aa ( mother, sea) , aak ( to be a mother, to act motherly, to give birth ),  ae (sibling),  aba ( open ),  abo (door, gate, entrance, opening )
 
-## Farming and food
-aai(seaweed), ailea (grain, corn), aii (seed), aiik (to sow),ala (seafood), babaa (sheep),
+
 
 ## Animals
 aeli (otter), ala(seafood), babaa (sheep), berni (crab)
 
 ## The sea
-|  Eo           |  English      |  Spanish      | Notes |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| aa | mother, sea | madre, mar | |
-| aai | seaweed | algas ||
-| aeli | otter | nutria ||
-| aelik | to play at sea | jugar en el mar |
-| ala | seafood | marisco ||
-| baa | boat, canoe | barca, canoa ||
-| berni | crab | cangrejo ||
-| baadus | harbor, any location, place or building where to the leave a bot
-| baak | to sail | navegar ||
-ced(sand),
+|aa(mother, sea) aai (seaweed), aeli (otter), aelik (to play at sea), ala (seafood), baa (boat), berni (crab), baadus(harbor, any location, place or building where to the leave a bot), baak (to sail), ced (sand)
 
 ## Seasons and weather 
 
 air(verano), axe (rain), axek (to rain)
 
-
 ## Moving
-| abak | to open | abrir ||
-| baa | boat, canoe | barca, canoa ||
-| baadus | harbor, any location, place or building where to the leave a bot
-| baak | to sail | navegar ||
+
+abak (to open), baa(boat, canoe), baak (sail)
 
 ## Nature
 abe ( love, stream ), ca (spring -- stream, not season), ayea (grass), babaa (sheep), ced(sand), easa (flower), kli (wolf), silki (seal) 
 
 ## The body
-aika(blood), bi (arm), bo(thin), dee (poop)
+aika(blood), bi (arm), bo(thin), dee (poop), duu (body), duuk(to be naked)
 
 ## Adverbs
 
@@ -57,42 +42,30 @@ ciba (dark), dlas (red), dlaa (blue), dlabe (brown), dlea (green), dli (grey), d
 
 ## Common Verbs
 
-aek (to help), aik (to live), aikak (to bleed), aileak (to count), ak (splash), aspik(to poke), beok (to blame), cak (believe), cek (crawl), dayak (to wake up), deek (to poop), dik (to have, to contain)
+aek (to help), aik (to live), aikak (to bleed), aileak (to count), ak (splash), aspik(to poke), beok (to blame), cak (believe), cek (crawl), cuk(to taste), dayak (to wake up), deek (to poop), dik (to have, to contain), dok (to go down)
 
 ## Common Words
 
-ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (peace)
+ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (peace), co(guide), cu(taste), da(work), dabo(circle),do (low, humble), dof(down, direction)
 
 ## Prepositins and conjunctions
 
 ao (or)
 
+## Farming and food
+aai(seaweed), ailea (grain, corn), aii (seed), aiik (to sow),ala (seafood), babaa (sheep), cuba(sweet), cube(salty), cura(bitter), cure(tart), cut (hot taste), dromo(net)
+
+## People (see also family)
+
+der (deaf),
+
 ## To be sorted
 
-
-| co | guide
-| cu | taste | gusto |
-| cuba | sweet | dulce |
-| cubaa | berry | baya |
-| cube | salty | salado |
-| cura | bitter | amargo | 
-| cure | tart | agrio |
-| cut | hot taste | picante |
-| _d_ _d[vowel]_ / de | and | y (conj) | ludatek (I'm hungry and tired) [estoy hambriento y cansado)|
-| da | work | obra ||
-| dabo | circle | círculo
 | dak | to work | trabajar ||
 | daxe | music | música ||
-| der | deaf | sordo
 | dibin | autum | otoño ||
-| do | low, humble | bajo, humilde
-| dof | down | abajo
-| dok | to go down, to humble | descender, humillarse
 | domik | to go to sleep | ir a dormir
 | dopak | to ask for forgiveness | pedir perdón
-| dromo | net | red |
-| duu | body | cuerpo
-| duuk | to be naked | estar desnudo
 | dubaa | mountain, hill | montaña o colina
 | duka | bed |
 | dube | home island, homeland | isla natal, patria |
