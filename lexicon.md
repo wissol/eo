@@ -94,6 +94,7 @@
 | cuba | sweet | dulce |
 | cubaa | berry | baya |
 | cube | salty | salado |
+| cuk | to taste | saborear |
 | cura | bitter | amargo | 
 | cure | tart | agrio |
 | cut | hot taste | picante |
