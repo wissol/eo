@@ -8,9 +8,7 @@ aspi (spear point, also short for spear), aspiya (spear), baa ( boat, canoe), bl
 
 ## Family and Home
 
- aa ( mother, sea) , aak ( to be a mother, to act motherly, to give birth ),  ae (sibling),  aba ( open ),  abo (door, gate, entrance, opening )
-
-
+ aa ( mother, sea) , aak ( to be a mother, to act motherly, to give birth ),  ae (sibling),  aba ( open ),  abo (door, gate, entrance, opening ), duka(bed), dumo(tomb), dus(house), dusa(hut)
 
 ## Animals
 aeli (otter), ala(seafood), babaa (sheep), berni (crab)
@@ -20,14 +18,14 @@ aeli (otter), ala(seafood), babaa (sheep), berni (crab)
 
 ## Seasons and weather 
 
-air(verano), axe (rain), axek (to rain)
+air(verano), axe (rain), axek (to rain), dibin(fall), dusxe(sky)
 
 ## Moving
 
 abak (to open), baa(boat, canoe), baak (sail)
 
 ## Nature
-abe ( love, stream ), ca (spring -- stream, not season), ayea (grass), babaa (sheep), ced(sand), easa (flower), kli (wolf), silki (seal) 
+abe ( love, stream ), ca (spring -- stream, not season), ayea (grass), babaa (sheep), ced(sand), easa (flower), kli (wolf), silki (seal), duuba(mountain), dusxe(sky), ea(plant)
 
 ## The body
 aika(blood), bi (arm), bo(thin), dee (poop), duu (body), duuk(to be naked)
@@ -42,11 +40,7 @@ ciba (dark), dlas (red), dlaa (blue), dlabe (brown), dlea (green), dli (grey), d
 
 ## Common Verbs
 
-aek (to help), aik (to live), aikak (to bleed), aileak (to count), ak (splash), aspik(to poke), beok (to blame), cak (believe), cek (crawl), cuk(to taste), dayak (to wake up), deek (to poop), dik (to have, to contain), dok (to go down)
-
-## Common Words
-
-ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (peace), co(guide), cu(taste), da(work), dabo(circle),do (low, humble), dof(down, direction)
+aek (to help), aik (to live), aikak (to bleed), aileak (to count), ak (splash), aspik(to poke), beok (to blame), cak (believe), cek (crawl), cuk(to taste), dak (to work), dayak (to wake up), deek (to poop), dik (to have, to contain), domik (go to sleep), dok (to go down), dopak (to ask for forgiveness),
 
 ## Prepositins and conjunctions
 
@@ -59,25 +53,14 @@ aai(seaweed), ailea (grain, corn), aii (seed), aiik (to sow),ala (seafood), baba
 
 der (deaf),
 
+## Common Words
+
+ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (peace), co(guide), cu(taste), da(work), dabo(circle), daxe (music), do (low, humble), dof(down, direction), eabi(silence), eba(gift)
+
 ## To be sorted
 
-| dak | to work | trabajar ||
-| daxe | music | música ||
-| dibin | autum | otoño ||
-| domik | to go to sleep | ir a dormir
-| dopak | to ask for forgiveness | pedir perdón
-| dubaa | mountain, hill | montaña o colina
-| duka | bed |
 | dube | home island, homeland | isla natal, patria |
-| dumo | tomb | tumba
-| dus | house | casa
-| dusa | hut | cabaña
-| dusxe | sky | cielo
-| e + verb | third person, singular | tercera persona, singular |
-| ea | plant | planta |
-| ead | deep | profundo |
-| eabi | silence | silencio |
-| eba | gift | regalo |
+ ead | deep | profundo |
 | ebak | to give |
 | ebapak | to forgive (lit to give the past) |
 | ecak | to chase | perseguir
