@@ -8,7 +8,7 @@ aspi (spear point, also short for spear), aspiya (spear), baa ( boat, canoe), bl
 
 ## Family and Home
 
- aa ( mother, sea) , aak ( to be a mother, to act motherly, to give birth ),  ae (sibling),  aba ( open ),  abo (door, gate, entrance, opening ), duka(bed), dumo(tomb), dus(house), dusa(hut)
+ aa ( mother, sea) , aak ( to be a mother, to act motherly, to give birth ),  ae (sibling),  aba ( open ),  abo (door, gate, entrance, opening ), duka(bed), dumo(tomb), dus(house), dusa(hut), ee(father), eek(to father, to act fatherly)
 
 ## Animals
 aeli (otter), ala(seafood), babaa (sheep), berni (crab)
@@ -25,7 +25,7 @@ air(verano), axe (rain), axek (to rain), dibin(fall), dusxe(sky)
 abak (to open), baa(boat, canoe), baak (sail)
 
 ## Nature
-abe ( love, stream ), ca (spring -- stream, not season), ayea (grass), babaa (sheep), ced(sand), easa (flower), kli (wolf), silki (seal), duuba(mountain), dusxe(sky), ea(plant)
+abe ( love, stream ), ca (spring -- stream, not season), ayea (grass), babaa (sheep), ced(sand), easa (flower), kli (wolf), silki (seal), duuba(mountain), dusxe(sky), ea(plant), ee(wind), eek(to blow)
 
 ## The body
 aika(blood), bi (arm), bo(thin), dee (poop), duu (body), duuk(to be naked)
@@ -64,8 +64,6 @@ ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (p
 | ebak | to give |
 | ebapak | to forgive (lit to give the past) |
 | ecak | to chase | perseguir
-| ee | father, wind | padre, papá, viento |
-| eek | to blow, to father, to act fatherly | soplar, actuar paternalmente, tener hijos |
 | ei | hello| hola |
 | eik | to greet | saludar |
 | eio | family | familia |
