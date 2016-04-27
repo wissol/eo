@@ -11,7 +11,7 @@ aspi (spear point, also short for spear), aspiya (spear), baa ( boat, canoe), bl
  aa ( mother, sea) , aak ( to be a mother, to act motherly, to give birth ),  ae (sibling),  aba ( open ),  abo (door, gate, entrance, opening ), duka(bed), dumo(tomb), dus(house), dusa(hut), ee(father), eek(to father, to act fatherly)
 
 ## Animals
-aeli (otter), ala(seafood), babaa (sheep), berni (crab)
+aeli (otter), ala(seafood), babaa (sheep), berni (crab), elk(to hunt), fli(badger), ili (boar), ipo(bird)
 
 ## The sea
 |aa(mother, sea) aai (seaweed), aeli (otter), aelik (to play at sea), ala (seafood), baa (boat), berni (crab), baadus(harbor, any location, place or building where to the leave a bot), baak (to sail), ced (sand)
@@ -36,18 +36,18 @@ aala (alway)
 
 ## Colors
 
-ciba (dark), dlas (red), dlaa (blue), dlabe (brown), dlea (green), dli (grey), dlo (yellow)
+ciba (dark), dlas (red), dlaa (blue), dlabe (brown), dlea (green), dli (grey), dlo (yellow), eli(stoat)
 
 ## Common Verbs
 
 aek (to help), aik (to live), aikak (to bleed), aileak (to count), ak (splash), aspik(to poke), beok (to blame), cak (believe), cek (crawl), cuk(to taste), dak (to work), dayak (to wake up), deek (to poop), dik (to have, to contain), domik (go to sleep), dok (to go down), dopak (to ask for forgiveness),
 
-## Prepositins and conjunctions
+## utility words,
 
-ao (or)
+ao (or), ep(or), gis(yes)
 
 ## Farming and food
-aai(seaweed), ailea (grain, corn), aii (seed), aiik (to sow),ala (seafood), babaa (sheep), cuba(sweet), cube(salty), cura(bitter), cure(tart), cut (hot taste), dromo(net)
+aai(seaweed), ailea (grain, corn), aii (seed), aiik (to sow),ala (seafood), babaa (sheep), cuba(sweet), cube(salty), cura(bitter), cure(tart), cut (hot taste), dromo(net), elk(to hunt)
 
 ## People (see also family)
 
@@ -68,8 +68,8 @@ ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (p
 | eik | to greet | saludar |
 | eio | family | familia |
 | eldak | catch | capturar
-| elk | to hunt |  cazar
-| eli | stoat | armiño |
+
+
 | elok | to trade | comerciar |
 | ema | sprout | brote |
 | emee | baby | bebé |
@@ -84,7 +84,7 @@ ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (p
 | eopak | to tell a story | contar una historia |
 | eopatak | to regret | lamentar |
 | eosa | poem | poema |
-| ep | or (conj) | o (conj) |
+
 | erk | to perch on, to stand on | posarse, estar de pie, estar en un lugar |
 | epo | family-bird, eagle | pájaro familia, águila | Eagles are the messengers of ancestors |
 | eosiko | lie | mentira |
@@ -92,8 +92,7 @@ ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (p
 | eota | unpolite word | insulto |
 | eotak | to curse, to insult | insultar, maldecir |
 | es + verb | third person, plural | tercera persona, plural |
-| et | 5 | 5
-| (5×3) etsut | 15
+
 | eu |  leg | pierna | 
 | euk | kick | dar una patada |
 | eyak | to welcome | dar la bienvenida |
@@ -108,7 +107,7 @@ ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (p
 | fi | bug | bicho |
 | fip | hope | esperanza
 | fita | lightning | rayo |
-| fli | badger | tejón |
+
 | fo | victory, success | victoria, éxito |
 | fok | can, to be able | poder, ser capaz |
 | fu | end | fin |
@@ -145,9 +144,9 @@ ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (p
 |  ifa |  good
 | iga | dust
 |  ik |  to wish, to want, to be alone, to be moody, to be sad
-|  ili |   boar
+
 | ilik | to lunge
-|  ipo |  bird
+
 |  ipoxe |  song
 |  ipoxek |  to sing
 |  ingo |  tooth
@@ -162,7 +161,7 @@ ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (p
 | isat emat | beautiful sprouts, the first month of winter |
 | it | 4 
 |  ita |  light, candle | 
-| (4×4) itsit | 16
+
 | ka | hair | pelo
 | kak | to comb | peinar
 | kaba | hand | mano
