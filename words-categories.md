@@ -18,7 +18,7 @@ aeli (otter), ala(seafood), babaa (sheep), berni (crab), elk(to hunt), fli(badge
 
 ## Seasons and weather 
 
-air(verano), axe (rain), axek (to rain), dibin(fall), dusxe(sky)
+air(verano), axe (rain), axek (to rain), dibin(fall), dusxe(sky), fita (lightning)
 
 ## Moving
 
@@ -106,7 +106,7 @@ ai (life), baba (lazy), ca(faith, trust), caba (brave), ci (calm, quiet), cio (p
 | fee | land
 | fi | bug | bicho |
 | fip | hope | esperanza
-| fita | lightning | rayo |
+
 
 | fo | victory, success | victoria, éxito |
 | fok | can, to be able | poder, ser capaz |
