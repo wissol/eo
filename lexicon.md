@@ -273,6 +273,7 @@
 | lik | to hear
 | lili | hare
 | lilak | to listen
+| lixek | to pray
 | libi | milk
 | libik | to breast-feed | dar de mamar |
 | libo | edible fat (lipid)
