@@ -263,6 +263,7 @@
 | laba | finger
 | labe | farmland, plot for crops
 | labek | to sow
+| lagom | enough, as good as it should be |
 | laeasa | fruit
 | lak | to eat
 | lasnu | porridge
