@@ -414,8 +414,8 @@
 | saife| boy
 | saifi| girl
 | sak| to play, to be a child
-| saa| wave
-| saak | to waver
+| saa | wave
+| saak | to move like a wave
 | saat | a lot of, a large number or quantity |
 | se|place
 | see | leaf
