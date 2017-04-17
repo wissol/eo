@@ -398,7 +398,7 @@
 | ro| no
 | rob| weak, fragile
 | rok| to negate, to decline
-|rool| never
+| rool| never
 | ru| this
 | rugo| hammer
 | rut| these
@@ -444,6 +444,7 @@
 | taaik | to steal, rob, snatch...
 | tataa| taboo, very bad juju stuff, something that offends the spirits, the ancestors and the universe
 | te| human, person, individual animals considered intelligent (most large animals, but not fish nor arthopods )
+| tee | face
 | teba| wood
 | teea|tree
 | tefa| woman 
