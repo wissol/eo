@@ -42,6 +42,8 @@ r_ (this happened to the subject rueok "you told yourself")
 
 Evidentiality: ca + verb (Certainty, ecadak "I am absolutely sure he works" ) co (Belief, I suspect, ucolifak "I think you are the best), ca + subject + cu + verb (subject told me, ecaRurcaeek "Rur told me he is a father"), (ci, assumption, escidak, "they work, I gather")
 
+Blessing subject + xe [or x_ ] + verb (May subject do this for you) 
+
 ## Cases
 
 _n _im  _m  _om forms the accusative (aka sorta “direct object” ) according to the speaker preference. So lam (food) or osim (eye) are in the accusative.
