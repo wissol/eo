@@ -10,10 +10,10 @@ when not applied, no gender is implied (te person, tefe, male person, tefi femal
 
 |       | Singular	| Sing Masculine | Singular Feminine | Plural |
 |-------|:---------:|:------:|:------:|:------:|
-| First Person | 	_ i (I)	| _ ife | _ ifi | a / as+ (we) |
-| Second Person	| u (you) | ufe | ufi |	us (you) |
+| First Person  | 	_ i (I)	| _ ife | _ ifi | a / as+ (we) |
+| Second Person	| u (you)   | ufe | ufi |	us (you) |
 | Third Person	| e (he/she/it) |fe | fi |	es (they) |
-| Impersonal | o (it rains) | |
+| Impersonal    | o (it rains) | |
 
 First person singular is normally ellicit
 
@@ -66,7 +66,16 @@ ki_ transform into something  kina sauka (the boy will become an adult)
 
 _mo 'copulative case' (Normally you would use a verb -- 'usak' you are a child, 'emairak' he is very joyful -- but t you may simply add _mo as in 'yumo oeabik' -- keeping silent is an answer instead of yueabik --silence answers-- )
 
+Afixes
+======
+
 ir_ member, native, belonging, habitant -- irTameta member of the Tameta family irBru, native of Bru island, esirBruk They are from Bruk, 
+
+_ad a group of -- dus, house ; dusad village
+
+_sa diminutive xaesa (little sandals)
+
+
 
 plural _t  _[vowel]t or _ t _ 
 
