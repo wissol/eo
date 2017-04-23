@@ -338,6 +338,7 @@
 | nee|  old
 |  neek|  to get old
 |  neirni|  winter clothing, outer garment
+| ni | the same | igual
 |  nibaa|  on a boat
 | nixe|  "afterlife", "the spiritual dimension"
 | noxe|  thought 
