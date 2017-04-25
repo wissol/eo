@@ -269,7 +269,7 @@
 | lasnu | porridge
 | laya | spring(season)
 | laaik | to gather seafood and/or seaweeds
-| lek | to gather food, to haverst*
+| lek | to gather food, to haverst
 | li | ear
 | lik | to hear
 | lili | hare
@@ -294,6 +294,8 @@
 | lufak | to tie |
 | lufi | worm
 | luk | to be hungry
+| luu | not moving
+| luuk | stop
 | ...m... | hate | odio | (a humming sound) the actual word for hate went into disuse as it is considered unlucky
 | ma | morrow, future |
 | mak | to prepare something in advance, to worry |
